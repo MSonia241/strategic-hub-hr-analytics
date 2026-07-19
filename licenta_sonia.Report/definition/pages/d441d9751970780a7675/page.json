@@ -1,8 +1,0 @@
-{
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
-  "name": "d441d9751970780a7675",
-  "displayName": "Prioritati si Recomandari",
-  "displayOption": "ActualSize",
-  "height": 850,
-  "width": 1280
-}

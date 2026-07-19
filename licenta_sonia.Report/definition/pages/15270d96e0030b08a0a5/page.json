@@ -1,8 +1,0 @@
-{
-  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
-  "name": "15270d96e0030b08a0a5",
-  "displayName": "Distributia Georgrafica",
-  "displayOption": "ActualSize",
-  "height": 1000,
-  "width": 1280
-}

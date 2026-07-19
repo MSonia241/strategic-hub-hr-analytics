@@ -16,24 +16,12 @@ Proiect de licență — toate datele folosite sunt **sintetice** (generate cu s
 
 ## Tehnologii
 
-- **Power BI Desktop** (format PBIP — Power BI Project, text-based)
+- **Power BI Desktop**
 - **DAX** pentru măsuri (Scor_Estimat, Procent_Risc, Prag_Burnout etc.)
 - **Python** (pandas, scikit-learn) — integrat ca vizualizări native și în Power Query pentru scoring ML
 - **Power Query (M)** pentru ETL
 
-## Structura repo-ului
-
-```
-licenta_sonia.Report/          # definiția raportului (pagini, vizuale) — format PBIP
-licenta_sonia.SemanticModel/   # modelul semantic (tabele, măsuri DAX, relații) — format TMDL
-licentavs.pbix                 # fișierul Power BI complet, gata de deschis în Power BI Desktop
-data/
-  generator_date.py            # scriptul care generează datele sintetice
-  date_angajati_istoric.csv    # setul de date (2400 înregistrări: 200 angajați x 12 luni)
-docs/                          # lucrarea de licență și prezentarea
-DOCUMENTATIE_LICENTA.md        # documentația tehnică detaliată a proiectului
-screenshots/                   # capturi ale celor 15 pagini ale raportului
-```
+Fișierul `licentavs.pbix` conține tot proiectul, gata de deschis în Power BI Desktop.
 
 ## Paginile raportului
 

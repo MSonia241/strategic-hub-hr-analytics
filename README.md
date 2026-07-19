@@ -78,3 +78,9 @@ Corelații între efort (ore lucrate), dezvoltare (training) și risc, cu un fun
 ![Analiza statistică](screenshots/07_analiza_statistica.png)
 
 Violin plot generat în Python, care arată densitatea distribuției scorurilor de performanță pe departamente și categorii de risc, cu ghid de interpretare inclus în pagină.
+
+### 8. Analiza comparativă
+
+![Analiza comparativă](screenshots/08_analiza_comparativa.png)
+
+Model de regresie liniară (Python) care identifică orele lucrate drept factorul cu cel mai mare impact asupra scorului final, confirmând legătura cu riscul de burnout.

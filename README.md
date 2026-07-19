@@ -114,3 +114,9 @@ Comparație directă (gauge) între scorul actual de performanță și scorul es
 ![Analiza performanței individuale](screenshots/13_analiza_a_performantei_individuale.png)
 
 Vizualizare la nivel de angajat individual: evoluția scorului față de pragul de burnout și recomandări generate pentru manageri.
+
+### 14. Rezumat strategic
+
+![Rezumat strategic](screenshots/14_rezumat_strategic.png)
+
+Rezumat executiv pe departamente: scatter chart ore vs. performanță, tabel comparativ și KPI-uri agregate (Total Angajați, Procent Risc, departamentul cu cel mai mare burnout).

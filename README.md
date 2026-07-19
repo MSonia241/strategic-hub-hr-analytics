@@ -120,3 +120,9 @@ Vizualizare la nivel de angajat individual: evoluția scorului față de pragul 
 ![Rezumat strategic](screenshots/14_rezumat_strategic.png)
 
 Rezumat executiv pe departamente: scatter chart ore vs. performanță, tabel comparativ și KPI-uri agregate (Total Angajați, Procent Risc, departamentul cu cel mai mare burnout).
+
+### 15. Priorități și recomandări
+
+![Priorități și recomandări](screenshots/15_prioritati_si_recomandari.png)
+
+Pagina finală de raport executiv, cu concluzii concrete: departamentul cu cel mai slab scor și cel mai mare risc, departamentul cu cel mai mare burnout, angajații cu potențial de promovare și cei care necesită intervenție urgentă.

@@ -90,3 +90,9 @@ Model de regresie liniară (Python) care identifică orele lucrate drept factoru
 ![Evaluarea eficienței](screenshots/09_evaluarea_eficientei.png)
 
 Analiza pragului de burnout (220h lucrate/lună), cu un vizual Python care arată relația dintre volumul de muncă, performanță și numărul de proiecte finalizate.
+
+### 10. K-Means Clustering
+
+![K-Means Clustering](screenshots/10_kmeans.png)
+
+Segmentare a angajaților în 3 clustere — Low Performers, Core Performers, Top Talents — fiecare cu recomandarea specifică de acțiune pentru HR.

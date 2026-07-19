@@ -84,3 +84,9 @@ Violin plot generat în Python, care arată densitatea distribuției scorurilor 
 ![Analiza comparativă](screenshots/08_analiza_comparativa.png)
 
 Model de regresie liniară (Python) care identifică orele lucrate drept factorul cu cel mai mare impact asupra scorului final, confirmând legătura cu riscul de burnout.
+
+### 9. Evaluarea eficienței
+
+![Evaluarea eficienței](screenshots/09_evaluarea_eficientei.png)
+
+Analiza pragului de burnout (220h lucrate/lună), cu un vizual Python care arată relația dintre volumul de muncă, performanță și numărul de proiecte finalizate.

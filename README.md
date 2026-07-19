@@ -66,3 +66,9 @@ Hartă interactivă (Azure Map) cu performanța pe oraș, alături de un grafic 
 ![Evoluția performanței medii](screenshots/05_evolutia_performantei.png)
 
 Evoluția lunară a scorului mediu de performanță pentru fiecare manager, de-a lungul anului 2023.
+
+### 6. Analiza multivariată
+
+![Analiza multivariată](screenshots/06_analiza_multivariata.png)
+
+Corelații între efort (ore lucrate), dezvoltare (training) și risc, cu un funnel pe niveluri de seniorat și o analiză Python multivariată.

@@ -48,3 +48,9 @@ Hub central de navigare, cu KPI generali (Total Angajați, Scor Mediu, Procent R
 ![Analiza performanței HR](screenshots/02_analiza_performanta_hr.png)
 
 Dashboard principal cu filtrare pe dată, distribuția statusului de risc (donut chart), o analiză Python a factorilor de performanță și distribuția angajaților pe nivel de seniorat.
+
+### 3. Suport decizional
+
+![Suport decizional](screenshots/03_suport_decizional.png)
+
+Sistem de suport decizional (DSS): factorii cheie care influențează riscul (Key Influencers) și probabilitatea de risc calculată per angajat cu un model Random Forest, filtrabil pe departament.

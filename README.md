@@ -42,3 +42,9 @@ screenshots/                   # capturi ale celor 15 pagini ale raportului
 ![Meniu principal](screenshots/01_meniu_principal.png)
 
 Hub central de navigare, cu KPI generali (Total Angajați, Scor Mediu, Procent Risc, Progres Training) și trei categorii de acces rapid: Analiză Strategică, Inteligență Artificială, Management și HR.
+
+### 2. Analiza performanței HR
+
+![Analiza performanței HR](screenshots/02_analiza_performanta_hr.png)
+
+Dashboard principal cu filtrare pe dată, distribuția statusului de risc (donut chart), o analiză Python a factorilor de performanță și distribuția angajaților pe nivel de seniorat.

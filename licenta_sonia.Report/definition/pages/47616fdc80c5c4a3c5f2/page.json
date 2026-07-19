@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "47616fdc80c5c4a3c5f2",
+  "displayName": "K-Means Clustering",
+  "displayOption": "FitToPage",
+  "height": 720,
+  "width": 1280
+}

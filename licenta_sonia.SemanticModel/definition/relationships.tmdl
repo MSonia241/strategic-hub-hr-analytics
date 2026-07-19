@@ -1,0 +1,5 @@
+relationship 9f2bfaeb-89e1-4ee3-bf00-457d955b7443
+	joinOnDateBehavior: datePartOnly
+	fromColumn: date_angajati.Data
+	toColumn: LocalDateTable_9afced05-d176-4945-abe2-39443a15d015.Date
+

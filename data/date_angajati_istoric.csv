@@ -1,0 +1,2401 @@
+ID_Angajat,Manager,Departament,Senioritate,Oras,Data,Ore_Lucrate,Proiecte_Finalizate,Feedback_Clienti,Training_Ore,Scor_Performanta,Risc_Plecare_Scor,Status_Risc
+1000,Cristina D.,Marketing,Junior,Iasi,2023-01-01,257,8,4.5,23,298.5,0.0,Stabil
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-01-01,160,1,4.4,14,178.0,0.0,Stabil
+1002,Elena D.,IT,Senior,Constanta,2023-01-01,193,1,3.7,27,230.5,0.0,Stabil
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-01-01,178,10,1.4,27,217.0,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-01-01,234,11,5.0,21,327.0,0.0,Potential
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-01-01,189,11,4.5,3,294.5,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-01-01,166,1,2.5,10,143.0,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-01-01,255,7,2.3,28,293.5,0.8,Risc Ridicat
+1008,Mihai O.,HR,Mid,Brasov,2023-01-01,228,2,4.2,21,218.0,0.0,Stabil
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-01-01,161,7,1.2,12,174.5,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-01-01,178,5,4.9,16,237.0,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-01-01,192,9,3.9,12,314.0,0.0,Potential
+1012,Ion V.,HR,Junior,Brasov,2023-01-01,214,12,1.1,22,249.0,0.8,Risc Ridicat
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-01-01,236,8,3.4,20,266.0,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-01-01,159,8,1.7,30,193.5,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-01-01,217,4,4.8,35,244.5,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-01-01,258,12,4.5,30,339.0,0.0,Potential
+1017,Maria I.,Marketing,Mid,Sibiu,2023-01-01,145,2,3.7,35,166.5,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-01-01,210,2,1.6,32,157.0,0.8,Risc Ridicat
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-01-01,167,8,1.9,36,201.5,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-01-01,232,8,1.2,17,270.0,1.0,Risc Ridicat
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-01-01,146,8,4.5,8,243.0,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-01-01,245,14,2.6,28,314.5,0.8,Risc Ridicat
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-01-01,237,11,3.5,11,348.5,0.0,Potential
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-01-01,211,1,3.2,25,229.5,0.0,Stabil
+1025,Maria I.,IT,Mid,Iasi,2023-01-01,163,13,1.5,34,241.5,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-01-01,230,11,1.2,29,299.0,0.8,Risc Ridicat
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-01-01,218,13,3.5,29,309.0,0.0,Potential
+1028,George R.,Marketing,Mid,Brasov,2023-01-01,225,5,4.1,11,244.5,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-01-01,201,9,1.8,37,226.5,0.8,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-01-01,243,6,2.3,34,227.5,0.8,Risc Ridicat
+1031,Maria I.,IT,Mid,Iasi,2023-01-01,219,14,4.1,0,331.5,0.0,Potential
+1032,George R.,IT,Mid,Constanta,2023-01-01,194,1,3.4,12,175.0,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-01-01,258,7,2.8,3,255.0,1.0,Risc Ridicat
+1034,George R.,Vanzari,Junior,Brasov,2023-01-01,196,7,4.6,32,260.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-01-01,204,7,4.2,23,306.0,0.0,Potential
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-01-01,181,11,2.4,5,248.5,0.0,Stabil
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-01-01,201,13,2.1,17,272.5,1.0,Risc Ridicat
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-01-01,196,14,3.1,18,300.0,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-01-01,255,11,2.7,4,291.5,1.0,Risc Ridicat
+1040,Cristina D.,HR,Senior,Constanta,2023-01-01,142,8,3.2,25,265.0,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-01-01,226,1,1.6,16,155.0,1.0,Risc Ridicat
+1042,Andrei P.,IT,Senior,Iasi,2023-01-01,159,11,1.2,19,263.5,0.0,Stabil
+1043,Andrei P.,IT,Junior,Iasi,2023-01-01,243,11,4.6,16,323.5,0.0,Potential
+1044,Ana S.,HR,Senior,Brasov,2023-01-01,217,11,4.8,16,364.5,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-01-01,145,2,2.2,34,186.5,0.0,Stabil
+1046,George R.,IT,Senior,Brasov,2023-01-01,184,6,1.5,29,232.0,0.0,Stabil
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-01-01,155,3,1.9,22,145.5,0.0,Stabil
+1048,Andrei P.,IT,Senior,Constanta,2023-01-01,215,11,4.3,39,353.5,0.0,Potential
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-01-01,210,4,4.0,31,225.0,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-01-01,240,2,1.2,20,164.0,1.0,Risc Ridicat
+1051,Mihai O.,Marketing,Junior,Brasov,2023-01-01,152,7,2.9,28,204.0,0.0,Stabil
+1052,Ana S.,HR,Senior,Timisoara,2023-01-01,153,11,1.2,8,260.5,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-01-01,233,14,1.1,12,278.5,1.0,Risc Ridicat
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-01-01,161,13,4.3,20,346.5,0.0,Potential
+1055,George R.,HR,Junior,Brasov,2023-01-01,186,3,1.4,16,151.0,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-01-01,247,10,1.2,13,247.5,1.0,Risc Ridicat
+1057,Maria I.,Marketing,Mid,Brasov,2023-01-01,168,11,2.6,32,246.0,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-01-01,160,7,4.3,23,286.0,0.0,Stabil
+1059,Elena D.,IT,Junior,Bucuresti,2023-01-01,210,14,4.5,13,335.0,0.0,Potential
+1060,Andrei P.,HR,Senior,Iasi,2023-01-01,154,12,1.7,27,281.0,0.0,Stabil
+1061,Elena D.,Marketing,Junior,Iasi,2023-01-01,196,9,3.1,19,250.0,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-01-01,159,13,3.6,20,331.5,0.0,Potential
+1063,Cristina D.,HR,Senior,Sibiu,2023-01-01,219,1,1.8,21,205.5,0.8,Risc Ridicat
+1064,Maria I.,HR,Mid,Bucuresti,2023-01-01,247,6,1.6,32,215.5,0.8,Risc Ridicat
+1065,Elena D.,Vanzari,Junior,Brasov,2023-01-01,199,5,4.1,24,231.5,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-01-01,173,3,1.9,1,154.5,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-01-01,173,5,2.0,35,176.5,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-01-01,151,8,1.3,5,181.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-01-01,244,13,3.7,10,376.0,0.0,Potential
+1070,Elena D.,HR,Junior,Constanta,2023-01-01,184,10,2.7,26,246.0,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-01-01,183,3,2.9,12,179.5,0.0,Stabil
+1072,Mihai O.,IT,Mid,Iasi,2023-01-01,251,1,2.2,20,179.5,1.0,Risc Ridicat
+1073,Ion V.,HR,Junior,Brasov,2023-01-01,233,10,4.5,7,306.5,0.0,Potential
+1074,Ion V.,Marketing,Mid,Brasov,2023-01-01,143,6,1.5,29,161.5,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-01-01,179,7,4.2,28,293.5,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-01-01,250,2,4.4,4,233.0,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-01-01,217,3,4.7,23,232.5,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-01-01,242,9,3.1,4,273.0,0.0,Stabil
+1079,Elena D.,Marketing,Mid,Timisoara,2023-01-01,143,8,1.8,22,187.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-01-01,198,8,4.5,16,269.0,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-01-01,191,6,3.5,11,225.5,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-01-01,172,8,1.6,13,198.0,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-01-01,186,5,2.5,1,193.0,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-01-01,148,2,2.7,23,148.0,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-01-01,149,8,2.6,23,206.5,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-01-01,153,8,4.5,2,246.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-01-01,203,10,2.3,27,247.5,0.8,Risc Ridicat
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-01-01,199,1,1.3,5,135.5,0.0,Stabil
+1089,Ana S.,Marketing,Mid,Timisoara,2023-01-01,255,3,4.9,23,255.5,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-01-01,219,14,1.1,25,321.5,0.8,Risc Ridicat
+1091,Cristina D.,HR,Mid,Brasov,2023-01-01,145,3,1.2,38,126.5,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-01-01,173,14,2.2,22,270.5,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-01-01,187,1,3.5,13,173.5,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-01-01,169,12,5.0,31,304.5,0.0,Potential
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-01-01,219,6,4.6,13,261.5,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-01-01,202,2,1.8,25,157.0,0.8,Risc Ridicat
+1097,Mihai O.,IT,Senior,Iasi,2023-01-01,165,4,4.8,37,268.5,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-01-01,256,9,2.6,22,320.0,0.8,Risc Ridicat
+1099,Mihai O.,IT,Junior,Iasi,2023-01-01,240,8,3.1,22,262.0,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-01-01,183,5,3.3,32,207.5,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-01-01,186,14,3.4,5,301.0,0.0,Potential
+1102,Ana S.,Marketing,Mid,Constanta,2023-01-01,234,2,4.8,24,233.0,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-01-01,208,3,4.5,27,274.0,0.0,Stabil
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-01-01,195,9,3.7,3,261.5,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-01-01,254,8,4.2,9,291.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-01-01,248,8,3.5,4,274.0,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-01-01,209,10,2.3,20,250.5,1.0,Risc Ridicat
+1108,Ion V.,HR,Senior,Bucuresti,2023-01-01,181,1,1.0,30,170.5,0.0,Stabil
+1109,George R.,Marketing,Junior,Iasi,2023-01-01,181,11,2.8,9,256.5,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-01-01,154,10,4.4,11,265.0,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-01-01,187,9,1.3,21,209.5,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-01-01,143,8,1.4,30,179.5,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-01-01,255,3,4.3,5,243.5,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-01-01,204,1,1.8,0,198.0,1.0,Risc Ridicat
+1115,Ion V.,Marketing,Senior,Sibiu,2023-01-01,163,14,1.0,17,291.5,0.0,Stabil
+1116,Elena D.,HR,Junior,Brasov,2023-01-01,220,11,2.4,31,268.0,0.8,Risc Ridicat
+1117,George R.,IT,Mid,Brasov,2023-01-01,182,13,2.6,25,273.0,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-01-01,224,7,3.6,6,304.0,0.0,Potential
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-01-01,228,1,2.8,28,180.0,0.8,Risc Ridicat
+1120,Maria I.,HR,Junior,Iasi,2023-01-01,244,11,4.9,5,330.0,0.0,Potential
+1121,Cristina D.,IT,Mid,Timisoara,2023-01-01,229,3,1.4,31,172.5,0.8,Risc Ridicat
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-01-01,244,4,1.9,0,250.0,1.0,Risc Ridicat
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-01-01,252,5,3.5,33,246.0,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-01-01,150,14,3.7,17,289.0,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-01-01,218,11,1.2,15,243.0,1.0,Risc Ridicat
+1126,Elena D.,Marketing,Junior,Constanta,2023-01-01,250,13,3.6,4,327.0,0.0,Potential
+1127,Ion V.,IT,Senior,Brasov,2023-01-01,237,8,3.6,13,320.5,0.0,Potential
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-01-01,205,5,4.4,20,240.5,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-01-01,148,6,3.8,10,260.0,0.0,Stabil
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-01-01,154,13,4.8,20,303.0,0.0,Potential
+1131,Ana S.,Vanzari,Mid,Constanta,2023-01-01,241,14,1.7,16,294.5,1.0,Risc Ridicat
+1132,Andrei P.,IT,Senior,Sibiu,2023-01-01,168,2,1.7,32,188.0,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-01-01,220,10,2.0,22,250.0,0.8,Risc Ridicat
+1134,Mihai O.,IT,Junior,Sibiu,2023-01-01,157,9,3.2,25,232.5,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-01-01,202,3,1.3,24,157.0,0.8,Risc Ridicat
+1136,Ion V.,IT,Senior,Iasi,2023-01-01,167,5,2.1,33,225.5,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-01-01,173,6,4.3,36,232.5,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-01-01,154,11,2.0,18,227.0,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-01-01,255,3,3.5,24,227.5,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-01-01,161,12,1.4,6,228.5,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-01-01,165,3,1.7,18,146.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-01-01,236,3,1.7,4,182.0,1.0,Risc Ridicat
+1143,Mihai O.,HR,Junior,Sibiu,2023-01-01,240,14,4.6,29,352.0,0.0,Potential
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-01-01,204,9,1.1,38,214.0,0.8,Risc Ridicat
+1145,Mihai O.,Marketing,Mid,Constanta,2023-01-01,224,6,3.2,33,236.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-01-01,146,3,3.0,4,163.0,0.0,Stabil
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-01-01,216,1,1.3,34,194.0,0.8,Risc Ridicat
+1148,Andrei P.,IT,Mid,Sibiu,2023-01-01,235,12,3.2,29,301.5,0.0,Potential
+1149,Ana S.,Vanzari,Junior,Constanta,2023-01-01,183,10,1.5,30,221.5,0.0,Stabil
+1150,Elena D.,Marketing,Senior,Iasi,2023-01-01,234,3,1.1,13,219.0,1.0,Risc Ridicat
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-01-01,180,6,2.6,24,202.0,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-01-01,208,13,2.6,14,286.0,1.0,Risc Ridicat
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-01-01,185,3,2.4,17,220.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-01-01,164,6,1.7,7,176.0,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-01-01,190,7,3.8,13,241.0,0.0,Stabil
+1156,Mihai O.,IT,Junior,Sibiu,2023-01-01,176,2,4.8,24,204.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-01-01,202,6,4.5,12,251.0,0.0,Stabil
+1158,Ana S.,IT,Junior,Bucuresti,2023-01-01,255,11,2.7,35,291.5,0.8,Risc Ridicat
+1159,Ana S.,Vanzari,Junior,Brasov,2023-01-01,192,3,4.1,8,208.0,0.0,Stabil
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-01-01,149,1,1.6,0,116.5,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-01-01,219,4,4.8,32,245.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-01-01,214,6,2.9,3,225.0,1.0,Risc Ridicat
+1163,Cristina D.,IT,Senior,Timisoara,2023-01-01,170,2,3.1,3,217.0,0.0,Stabil
+1164,George R.,HR,Mid,Sibiu,2023-01-01,210,4,4.9,31,243.0,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-01-01,246,8,3.8,6,329.0,0.0,Potential
+1166,Elena D.,IT,Junior,Sibiu,2023-01-01,230,13,3.0,34,305.0,0.0,Potential
+1167,Maria I.,HR,Junior,Iasi,2023-01-01,198,5,1.6,1,181.0,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-01-01,237,12,3.1,8,300.5,0.0,Potential
+1169,George R.,HR,Junior,Iasi,2023-01-01,197,1,1.2,12,132.5,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-01-01,200,9,4.6,24,332.0,0.0,Potential
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-01-01,250,12,4.0,37,325.0,0.0,Potential
+1172,George R.,HR,Junior,Bucuresti,2023-01-01,204,3,1.1,34,154.0,0.8,Risc Ridicat
+1173,Andrei P.,IT,Mid,Brasov,2023-01-01,226,11,2.1,5,265.0,1.0,Risc Ridicat
+1174,Cristina D.,HR,Senior,Constanta,2023-01-01,233,12,2.7,18,340.5,1.0,Risc Ridicat
+1175,Mihai O.,HR,Junior,Constanta,2023-01-01,171,7,4.9,13,253.5,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-01-01,162,13,1.1,3,233.0,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-01-01,230,7,2.0,16,225.0,1.0,Risc Ridicat
+1178,Ana S.,IT,Mid,Brasov,2023-01-01,143,1,2.6,3,133.5,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-01-01,192,3,4.3,23,212.0,0.0,Stabil
+1180,Mihai O.,HR,Mid,Iasi,2023-01-01,149,7,5.0,22,244.5,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-01-01,233,14,3.4,38,324.5,0.0,Potential
+1182,George R.,Vanzari,Mid,Brasov,2023-01-01,200,12,3.2,8,284.0,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-01-01,182,1,1.4,31,179.0,0.0,Stabil
+1184,Mihai O.,Marketing,Senior,Brasov,2023-01-01,141,9,3.6,16,282.5,0.0,Stabil
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-01-01,155,3,2.0,2,147.5,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-01-01,247,10,2.4,23,271.5,0.8,Risc Ridicat
+1187,Andrei P.,IT,Mid,Iasi,2023-01-01,178,6,2.8,5,205.0,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-01-01,205,11,1.8,27,248.5,0.8,Risc Ridicat
+1189,Ion V.,IT,Mid,Brasov,2023-01-01,150,6,2.5,27,185.0,0.0,Stabil
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-01-01,226,14,4.4,27,391.0,0.0,Potential
+1191,Maria I.,HR,Mid,Constanta,2023-01-01,203,6,1.4,15,189.5,1.0,Risc Ridicat
+1192,Ion V.,Vanzari,Mid,Brasov,2023-01-01,238,6,4.7,7,273.0,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-01-01,151,10,1.5,33,205.5,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-01-01,236,13,4.8,2,344.0,0.0,Potential
+1195,Mihai O.,IT,Mid,Brasov,2023-01-01,253,11,3.2,33,300.5,0.0,Potential
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-01-01,207,1,2.8,3,169.5,1.0,Risc Ridicat
+1197,Mihai O.,IT,Junior,Constanta,2023-01-01,247,10,1.0,3,243.5,1.0,Risc Ridicat
+1198,Mihai O.,HR,Mid,Timisoara,2023-01-01,235,5,2.1,6,209.5,1.0,Risc Ridicat
+1199,Cristina D.,IT,Junior,Bucuresti,2023-01-01,234,7,3.2,4,251.0,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-02-01,206,10,4.9,6,301.0,0.0,Potential
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-02-01,257,2,4.4,24,236.5,0.0,Stabil
+1002,Elena D.,IT,Senior,Constanta,2023-02-01,145,12,2.7,13,296.5,0.0,Stabil
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-02-01,259,12,4.1,15,331.5,0.0,Potential
+1004,Cristina D.,Marketing,Mid,Iasi,2023-02-01,216,9,3.7,34,272.0,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-02-01,191,5,1.7,15,179.5,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-02-01,179,14,3.4,3,297.5,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-02-01,182,8,4.7,18,315.0,0.0,Potential
+1008,Mihai O.,HR,Mid,Brasov,2023-02-01,148,2,3.0,34,154.0,0.0,Stabil
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-02-01,141,10,3.2,32,234.5,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-02-01,254,8,2.0,21,247.0,0.8,Risc Ridicat
+1011,George R.,Vanzari,Senior,Brasov,2023-02-01,160,1,4.0,17,220.0,0.0,Stabil
+1012,Ion V.,HR,Junior,Brasov,2023-02-01,190,12,3.0,15,275.0,0.0,Stabil
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-02-01,241,2,2.1,10,182.5,1.0,Risc Ridicat
+1014,Mihai O.,IT,Mid,Constanta,2023-02-01,157,14,4.8,23,314.5,0.0,Potential
+1015,Maria I.,Marketing,Mid,Sibiu,2023-02-01,181,1,1.0,7,120.5,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-02-01,154,1,2.0,19,127.0,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-02-01,162,5,1.7,9,165.0,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-02-01,257,1,2.4,2,186.5,1.0,Risc Ridicat
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-02-01,238,2,1.3,16,165.0,1.0,Risc Ridicat
+1020,Andrei P.,Marketing,Senior,Iasi,2023-02-01,147,14,3.0,33,323.5,0.0,Potential
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-02-01,204,7,1.1,32,194.0,0.8,Risc Ridicat
+1022,Ion V.,HR,Mid,Bucuresti,2023-02-01,146,12,4.2,32,277.0,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-02-01,211,4,2.9,22,253.5,0.8,Risc Ridicat
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-02-01,216,6,4.6,2,310.0,0.0,Potential
+1025,Maria I.,IT,Mid,Iasi,2023-02-01,168,12,4.7,15,298.0,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-02-01,206,14,4.7,18,387.0,0.0,Potential
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-02-01,218,6,3.5,30,239.0,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-02-01,255,8,1.3,28,233.5,0.8,Risc Ridicat
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-02-01,201,9,2.5,25,240.5,0.8,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-02-01,206,9,4.3,0,279.0,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-02-01,164,6,3.6,20,214.0,0.0,Stabil
+1032,George R.,IT,Mid,Constanta,2023-02-01,155,7,2.0,29,187.5,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-02-01,193,12,1.6,22,248.5,0.0,Stabil
+1034,George R.,Vanzari,Junior,Brasov,2023-02-01,184,2,3.0,29,172.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-02-01,189,1,3.9,30,232.5,0.0,Stabil
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-02-01,231,12,1.3,21,261.5,0.8,Risc Ridicat
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-02-01,164,6,4.3,27,228.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-02-01,239,6,3.0,1,239.5,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-02-01,168,4,2.8,34,180.0,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-02-01,182,12,4.9,9,359.0,0.0,Potential
+1041,Elena D.,HR,Junior,Brasov,2023-02-01,244,12,2.0,30,282.0,0.8,Risc Ridicat
+1042,Andrei P.,IT,Senior,Iasi,2023-02-01,226,14,3.6,35,375.0,0.0,Potential
+1043,Andrei P.,IT,Junior,Iasi,2023-02-01,208,13,1.9,18,272.0,1.0,Risc Ridicat
+1044,Ana S.,HR,Senior,Brasov,2023-02-01,248,4,4.4,4,302.0,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-02-01,242,4,4.1,1,293.0,0.0,Stabil
+1046,George R.,IT,Senior,Brasov,2023-02-01,212,11,1.4,9,294.0,1.0,Risc Ridicat
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-02-01,159,5,3.6,15,201.5,0.0,Stabil
+1048,Andrei P.,IT,Senior,Constanta,2023-02-01,142,11,3.2,19,295.0,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-02-01,165,12,4.7,23,296.5,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-02-01,252,4,3.6,3,238.0,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-02-01,171,13,4.4,12,303.5,0.0,Potential
+1052,Ana S.,HR,Senior,Timisoara,2023-02-01,241,2,2.6,27,242.5,0.8,Risc Ridicat
+1053,Cristina D.,IT,Junior,Brasov,2023-02-01,254,12,2.3,33,293.0,0.8,Risc Ridicat
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-02-01,229,14,1.6,14,336.5,1.0,Risc Ridicat
+1055,George R.,HR,Junior,Brasov,2023-02-01,256,3,1.9,6,196.0,1.0,Risc Ridicat
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-02-01,163,5,3.5,13,201.5,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-02-01,162,10,2.7,6,235.0,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-02-01,162,13,4.9,38,359.0,0.0,Potential
+1059,Elena D.,IT,Junior,Bucuresti,2023-02-01,192,9,1.1,19,208.0,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-02-01,220,12,1.8,20,316.0,1.0,Risc Ridicat
+1061,Elena D.,Marketing,Junior,Iasi,2023-02-01,202,9,4.3,14,277.0,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-02-01,147,13,3.2,21,317.5,0.0,Potential
+1063,Cristina D.,HR,Senior,Sibiu,2023-02-01,197,4,4.0,25,268.5,0.0,Stabil
+1064,Maria I.,HR,Mid,Bucuresti,2023-02-01,246,11,2.9,22,291.0,0.8,Risc Ridicat
+1065,Elena D.,Vanzari,Junior,Brasov,2023-02-01,147,11,2.7,24,237.5,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-02-01,180,3,4.5,23,210.0,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-02-01,222,9,3.7,18,275.0,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-02-01,235,8,4.9,9,295.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-02-01,210,14,4.6,16,387.0,0.0,Potential
+1070,Elena D.,HR,Junior,Constanta,2023-02-01,168,8,4.9,2,262.0,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-02-01,218,6,2.3,23,215.0,0.8,Risc Ridicat
+1072,Mihai O.,IT,Mid,Iasi,2023-02-01,143,9,2.6,0,213.5,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-02-01,248,11,2.2,5,278.0,1.0,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-02-01,208,12,3.1,25,286.0,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-02-01,241,5,2.8,17,276.5,1.0,Risc Ridicat
+1076,Ion V.,HR,Mid,Bucuresti,2023-02-01,237,8,4.2,25,282.5,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-02-01,218,7,2.8,28,235.0,0.8,Risc Ridicat
+1078,Maria I.,Marketing,Mid,Timisoara,2023-02-01,233,5,1.4,1,194.5,1.0,Risc Ridicat
+1079,Elena D.,Marketing,Mid,Timisoara,2023-02-01,249,8,3.7,25,278.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-02-01,221,9,1.7,24,234.5,0.8,Risc Ridicat
+1081,Elena D.,Vanzari,Junior,Constanta,2023-02-01,158,3,2.3,37,155.0,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-02-01,218,6,2.9,7,227.0,1.0,Risc Ridicat
+1083,George R.,Marketing,Mid,Sibiu,2023-02-01,169,9,4.6,17,266.5,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-02-01,259,1,4.2,39,223.5,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-02-01,232,9,1.2,0,230.0,1.0,Risc Ridicat
+1086,Maria I.,IT,Mid,Sibiu,2023-02-01,221,6,4.7,1,264.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-02-01,160,12,4.8,9,296.0,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-02-01,230,10,4.0,20,295.0,0.0,Stabil
+1089,Ana S.,Marketing,Mid,Timisoara,2023-02-01,248,6,2.4,35,232.0,0.8,Risc Ridicat
+1090,Elena D.,IT,Senior,Timisoara,2023-02-01,144,4,3.5,1,232.0,0.0,Stabil
+1091,Cristina D.,HR,Mid,Brasov,2023-02-01,258,3,4.7,7,253.0,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-02-01,242,10,3.8,31,297.0,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-02-01,185,5,1.6,29,174.5,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-02-01,216,5,2.8,23,214.0,0.8,Risc Ridicat
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-02-01,169,1,1.4,18,122.5,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-02-01,224,8,2.5,14,242.0,1.0,Risc Ridicat
+1097,Mihai O.,IT,Senior,Iasi,2023-02-01,153,2,2.5,6,196.5,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-02-01,182,5,3.6,7,263.0,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-02-01,163,12,1.7,18,235.5,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-02-01,178,8,4.0,12,249.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-02-01,216,5,4.2,1,242.0,0.0,Stabil
+1102,Ana S.,Marketing,Mid,Constanta,2023-02-01,156,14,3.6,30,290.0,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-02-01,171,4,3.4,30,243.5,0.0,Stabil
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-02-01,231,7,2.1,30,227.5,0.8,Risc Ridicat
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-02-01,166,2,2.5,3,153.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-02-01,150,4,4.7,17,209.0,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-02-01,228,13,2.3,8,290.0,1.0,Risc Ridicat
+1108,Ion V.,HR,Senior,Bucuresti,2023-02-01,176,2,4.1,29,240.0,0.0,Stabil
+1109,George R.,Marketing,Junior,Iasi,2023-02-01,207,10,4.2,12,287.5,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-02-01,170,6,4.4,35,233.0,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-02-01,146,12,3.4,32,261.0,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-02-01,196,7,2.4,32,216.0,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-02-01,160,8,3.2,36,224.0,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-02-01,232,13,1.5,25,326.0,0.8,Risc Ridicat
+1115,Ion V.,Marketing,Senior,Sibiu,2023-02-01,210,14,3.0,28,355.0,0.0,Potential
+1116,Elena D.,HR,Junior,Brasov,2023-02-01,142,3,4.6,19,193.0,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-02-01,256,7,1.3,10,224.0,1.0,Risc Ridicat
+1118,Cristina D.,Marketing,Senior,Iasi,2023-02-01,220,7,3.5,27,300.0,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-02-01,159,9,2.3,34,215.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-02-01,225,12,1.7,21,266.5,0.8,Risc Ridicat
+1121,Cristina D.,IT,Mid,Timisoara,2023-02-01,244,7,1.5,24,222.0,0.8,Risc Ridicat
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-02-01,251,2,3.3,34,261.5,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-02-01,255,8,4.9,31,305.5,0.0,Potential
+1124,Ana S.,Vanzari,Mid,Constanta,2023-02-01,208,5,2.4,16,202.0,1.0,Risc Ridicat
+1125,Maria I.,Marketing,Junior,Iasi,2023-02-01,253,11,1.6,30,268.5,0.8,Risc Ridicat
+1126,Elena D.,Marketing,Junior,Constanta,2023-02-01,203,8,3.6,11,253.5,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-02-01,193,11,2.5,35,306.5,0.0,Potential
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-02-01,257,10,3.7,27,302.5,0.0,Potential
+1129,Ana S.,IT,Senior,Constanta,2023-02-01,217,13,1.8,15,324.5,1.0,Risc Ridicat
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-02-01,183,2,4.7,4,205.5,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-02-01,257,9,1.4,31,246.5,0.8,Risc Ridicat
+1132,Andrei P.,IT,Senior,Sibiu,2023-02-01,222,1,1.9,33,209.0,0.8,Risc Ridicat
+1133,Maria I.,Marketing,Junior,Timisoara,2023-02-01,226,8,3.2,22,257.0,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-02-01,177,9,4.0,32,258.5,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-02-01,178,5,1.3,3,165.0,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-02-01,190,2,4.2,22,249.0,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-02-01,231,2,2.6,1,187.5,1.0,Risc Ridicat
+1138,Maria I.,Marketing,Mid,Constanta,2023-02-01,243,12,3.9,23,319.5,0.0,Potential
+1139,Maria I.,Marketing,Mid,Brasov,2023-02-01,216,10,3.8,16,284.0,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-02-01,156,9,2.2,31,212.0,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-02-01,157,14,2.5,2,268.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-02-01,239,8,4.0,13,279.5,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-02-01,220,10,3.4,32,278.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-02-01,234,1,2.2,39,171.0,0.8,Risc Ridicat
+1145,Mihai O.,Marketing,Mid,Constanta,2023-02-01,197,11,2.3,4,254.5,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-02-01,142,12,1.6,32,223.0,0.0,Stabil
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-02-01,259,10,2.2,4,323.5,1.0,Risc Ridicat
+1148,Andrei P.,IT,Mid,Sibiu,2023-02-01,250,6,4.2,18,269.0,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-02-01,242,11,2.8,15,287.0,1.0,Risc Ridicat
+1150,Elena D.,Marketing,Senior,Iasi,2023-02-01,234,7,2.4,30,285.0,0.8,Risc Ridicat
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-02-01,161,10,3.1,2,242.5,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-02-01,231,6,1.6,10,207.5,1.0,Risc Ridicat
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-02-01,238,14,3.2,0,373.0,0.0,Potential
+1154,Mihai O.,IT,Mid,Brasov,2023-02-01,151,5,2.2,5,169.5,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-02-01,142,12,3.0,11,251.0,0.0,Stabil
+1156,Mihai O.,IT,Junior,Sibiu,2023-02-01,247,13,1.2,35,277.5,0.8,Risc Ridicat
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-02-01,222,14,3.6,37,323.0,0.0,Potential
+1158,Ana S.,IT,Junior,Bucuresti,2023-02-01,142,10,4.5,24,261.0,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-02-01,222,10,3.1,16,273.0,0.0,Stabil
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-02-01,227,5,3.8,7,239.5,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-02-01,250,9,1.2,26,239.0,0.8,Risc Ridicat
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-02-01,238,8,2.0,38,239.0,0.8,Risc Ridicat
+1163,Cristina D.,IT,Senior,Timisoara,2023-02-01,197,12,2.8,17,324.5,0.0,Potential
+1164,George R.,HR,Mid,Sibiu,2023-02-01,191,14,1.3,12,261.5,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-02-01,217,12,1.4,24,306.5,0.8,Risc Ridicat
+1166,Elena D.,IT,Junior,Sibiu,2023-02-01,165,6,2.6,26,194.5,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-02-01,177,12,4.0,25,288.5,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-02-01,173,1,4.5,6,186.5,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-02-01,155,3,1.7,32,141.5,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-02-01,173,1,3.8,2,222.5,0.0,Stabil
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-02-01,144,3,1.2,10,126.0,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-02-01,256,4,4.6,16,260.0,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-02-01,220,12,2.9,23,288.0,0.8,Risc Ridicat
+1174,Cristina D.,HR,Senior,Constanta,2023-02-01,213,1,3.7,39,240.5,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-02-01,179,13,3.6,32,291.5,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-02-01,194,1,1.2,28,131.0,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-02-01,146,4,1.3,16,139.0,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-02-01,255,10,2.7,21,281.5,0.8,Risc Ridicat
+1179,Ion V.,HR,Junior,Iasi,2023-02-01,141,5,3.5,24,190.5,0.0,Stabil
+1180,Mihai O.,HR,Mid,Iasi,2023-02-01,242,14,2.2,11,305.0,1.0,Risc Ridicat
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-02-01,161,5,3.7,1,204.5,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-02-01,219,4,2.0,11,189.5,1.0,Risc Ridicat
+1183,Maria I.,Vanzari,Senior,Brasov,2023-02-01,159,7,3.8,28,275.5,0.0,Stabil
+1184,Mihai O.,Marketing,Senior,Brasov,2023-02-01,149,8,2.9,9,262.5,0.0,Stabil
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-02-01,254,3,2.8,10,213.0,1.0,Risc Ridicat
+1186,Ana S.,IT,Junior,Timisoara,2023-02-01,172,6,2.2,35,190.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-02-01,232,10,2.0,4,256.0,1.0,Risc Ridicat
+1188,Andrei P.,HR,Junior,Constanta,2023-02-01,229,9,3.5,31,274.5,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-02-01,155,5,1.6,21,159.5,0.0,Stabil
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-02-01,222,2,4.5,9,271.0,0.0,Stabil
+1191,Maria I.,HR,Mid,Constanta,2023-02-01,144,4,2.0,8,152.0,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-02-01,215,9,3.5,28,267.5,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-02-01,204,10,3.3,39,268.0,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-02-01,143,3,3.4,7,169.5,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-02-01,229,8,4.1,18,276.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-02-01,254,1,4.3,13,223.0,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-02-01,153,13,3.3,25,272.5,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-02-01,180,10,2.3,20,236.0,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-02-01,258,7,3.4,39,267.0,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-03-01,150,13,4.1,22,287.0,0.0,Stabil
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-03-01,202,10,1.9,28,239.0,0.8,Risc Ridicat
+1002,Elena D.,IT,Senior,Constanta,2023-03-01,181,12,2.3,5,306.5,0.0,Potential
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-03-01,208,1,2.1,21,156.0,0.8,Risc Ridicat
+1004,Cristina D.,Marketing,Mid,Iasi,2023-03-01,248,7,2.9,11,252.0,1.0,Risc Ridicat
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-03-01,174,5,4.8,32,233.0,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-03-01,163,2,1.7,29,135.5,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-03-01,150,13,1.3,34,281.0,0.0,Stabil
+1008,Mihai O.,HR,Mid,Brasov,2023-03-01,238,11,4.9,15,327.0,0.0,Potential
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-03-01,156,1,1.1,14,110.0,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-03-01,141,2,3.4,30,158.5,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-03-01,236,8,1.2,19,272.0,1.0,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-03-01,181,2,3.0,16,170.5,0.0,Stabil
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-03-01,160,14,1.7,21,254.0,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-03-01,251,3,3.5,26,225.5,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-03-01,152,6,4.0,18,216.0,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-03-01,250,7,1.2,14,219.0,1.0,Risc Ridicat
+1017,Maria I.,Marketing,Mid,Sibiu,2023-03-01,210,14,1.1,29,267.0,0.8,Risc Ridicat
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-03-01,251,7,3.6,0,267.5,0.0,Stabil
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-03-01,152,2,4.5,27,186.0,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-03-01,237,11,4.4,1,366.5,0.0,Potential
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-03-01,173,1,4.7,34,190.5,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-03-01,174,10,2.6,27,239.0,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-03-01,237,13,3.4,3,366.5,0.0,Potential
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-03-01,150,6,3.9,3,263.0,0.0,Stabil
+1025,Maria I.,IT,Mid,Iasi,2023-03-01,167,3,2.0,0,153.5,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-03-01,191,10,3.3,10,311.5,0.0,Potential
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-03-01,226,6,3.7,36,247.0,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-03-01,222,12,1.1,11,253.0,1.0,Risc Ridicat
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-03-01,201,3,4.1,30,212.5,0.0,Stabil
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-03-01,222,1,2.6,5,173.0,1.0,Risc Ridicat
+1031,Maria I.,IT,Mid,Iasi,2023-03-01,181,11,1.3,29,226.5,0.0,Stabil
+1032,George R.,IT,Mid,Constanta,2023-03-01,240,8,3.8,23,276.0,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-03-01,213,11,3.0,3,276.5,0.0,Stabil
+1034,George R.,Vanzari,Junior,Brasov,2023-03-01,222,4,3.4,10,219.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-03-01,150,9,3.5,4,285.0,0.0,Stabil
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-03-01,229,6,1.6,16,206.5,1.0,Risc Ridicat
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-03-01,233,4,1.4,19,184.5,1.0,Risc Ridicat
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-03-01,175,5,2.5,3,187.5,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-03-01,141,3,3.3,6,166.5,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-03-01,170,3,3.0,32,225.0,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-03-01,237,4,1.6,37,190.5,0.8,Risc Ridicat
+1042,Andrei P.,IT,Senior,Iasi,2023-03-01,209,5,1.4,27,232.5,0.8,Risc Ridicat
+1043,Andrei P.,IT,Junior,Iasi,2023-03-01,216,13,1.7,11,272.0,1.0,Risc Ridicat
+1044,Ana S.,HR,Senior,Brasov,2023-03-01,190,7,4.1,12,297.0,0.0,Stabil
+1045,Andrei P.,IT,Senior,Timisoara,2023-03-01,195,13,2.9,3,335.5,0.0,Potential
+1046,George R.,IT,Senior,Brasov,2023-03-01,246,2,3.6,34,265.0,0.0,Stabil
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-03-01,202,6,4.4,3,249.0,0.0,Stabil
+1048,Andrei P.,IT,Senior,Constanta,2023-03-01,228,4,4.9,22,302.0,0.0,Potential
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-03-01,220,13,2.1,15,282.0,1.0,Risc Ridicat
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-03-01,141,4,2.9,24,168.5,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-03-01,258,4,4.8,20,265.0,0.0,Stabil
+1052,Ana S.,HR,Senior,Timisoara,2023-03-01,144,2,1.2,7,166.0,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-03-01,168,8,2.8,26,220.0,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-03-01,179,13,3.6,2,341.5,0.0,Potential
+1055,George R.,HR,Junior,Brasov,2023-03-01,231,3,1.1,27,167.5,0.8,Risc Ridicat
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-03-01,201,3,4.5,12,220.5,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-03-01,155,9,1.4,27,195.5,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-03-01,240,12,1.6,2,322.0,1.0,Risc Ridicat
+1059,Elena D.,IT,Junior,Bucuresti,2023-03-01,228,6,3.1,31,236.0,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-03-01,166,10,2.7,10,287.0,0.0,Stabil
+1061,Elena D.,Marketing,Junior,Iasi,2023-03-01,232,10,4.4,2,304.0,0.0,Potential
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-03-01,245,13,1.2,2,326.5,1.0,Risc Ridicat
+1063,Cristina D.,HR,Senior,Sibiu,2023-03-01,244,12,3.1,20,354.0,0.0,Potential
+1064,Maria I.,HR,Mid,Bucuresti,2023-03-01,198,3,2.8,4,185.0,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-03-01,236,3,1.7,15,182.0,1.0,Risc Ridicat
+1066,Ion V.,IT,Junior,Brasov,2023-03-01,144,8,1.5,27,182.0,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-03-01,144,2,4.3,1,178.0,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-03-01,210,6,1.0,7,185.0,1.0,Risc Ridicat
+1069,Ana S.,HR,Senior,Iasi,2023-03-01,225,9,4.7,16,346.5,0.0,Potential
+1070,Elena D.,HR,Junior,Constanta,2023-03-01,163,13,1.1,23,233.5,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-03-01,178,11,2.4,22,247.0,0.0,Stabil
+1072,Mihai O.,IT,Mid,Iasi,2023-03-01,145,4,2.9,11,170.5,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-03-01,209,8,4.1,32,266.5,0.0,Stabil
+1074,Ion V.,Marketing,Mid,Brasov,2023-03-01,246,13,4.1,17,335.0,0.0,Potential
+1075,Maria I.,Marketing,Senior,Iasi,2023-03-01,163,9,1.9,26,259.5,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-03-01,176,14,1.5,4,258.0,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-03-01,162,5,1.0,2,151.0,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-03-01,157,1,3.7,19,162.5,0.0,Stabil
+1079,Elena D.,Marketing,Mid,Timisoara,2023-03-01,145,4,3.0,38,172.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-03-01,204,12,1.3,31,248.0,0.8,Risc Ridicat
+1081,Elena D.,Vanzari,Junior,Constanta,2023-03-01,207,5,3.5,33,223.5,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-03-01,173,1,4.2,32,180.5,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-03-01,258,10,4.2,27,313.0,0.0,Potential
+1084,Ion V.,Vanzari,Mid,Constanta,2023-03-01,251,1,3.0,13,195.5,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-03-01,147,10,2.7,39,227.5,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-03-01,140,6,3.2,21,194.0,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-03-01,177,10,1.6,38,220.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-03-01,189,10,4.5,0,284.5,0.0,Stabil
+1089,Ana S.,Marketing,Mid,Timisoara,2023-03-01,206,6,3.9,1,241.0,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-03-01,211,8,3.7,11,309.5,0.0,Potential
+1091,Cristina D.,HR,Mid,Brasov,2023-03-01,172,11,2.7,8,250.0,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-03-01,205,7,2.6,5,224.5,1.0,Risc Ridicat
+1093,Ana S.,IT,Junior,Iasi,2023-03-01,252,5,2.8,5,232.0,1.0,Risc Ridicat
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-03-01,158,10,4.9,4,277.0,0.0,Stabil
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-03-01,172,2,2.0,30,146.0,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-03-01,197,14,1.7,17,272.5,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-03-01,242,2,3.9,35,269.0,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-03-01,189,5,3.6,0,266.5,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-03-01,209,7,2.0,23,214.5,0.8,Risc Ridicat
+1100,Cristina D.,Marketing,Junior,Iasi,2023-03-01,222,11,3.6,8,293.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-03-01,231,12,1.6,14,267.5,1.0,Risc Ridicat
+1102,Ana S.,Marketing,Mid,Constanta,2023-03-01,231,14,1.5,7,285.5,1.0,Risc Ridicat
+1103,Maria I.,Marketing,Senior,Timisoara,2023-03-01,159,12,2.7,32,303.5,0.0,Potential
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-03-01,213,6,4.9,32,264.5,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-03-01,145,1,1.5,38,112.5,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-03-01,245,2,2.8,16,198.5,1.0,Risc Ridicat
+1107,Maria I.,IT,Mid,Sibiu,2023-03-01,155,5,2.9,6,185.5,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-03-01,212,2,4.9,18,274.0,0.0,Stabil
+1109,George R.,Marketing,Junior,Iasi,2023-03-01,142,10,3.5,3,241.0,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-03-01,242,4,3.4,18,229.0,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-03-01,154,6,3.6,35,209.0,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-03-01,149,6,4.4,30,222.5,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-03-01,210,9,4.3,28,281.0,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-03-01,187,5,3.8,9,269.5,0.0,Stabil
+1115,Ion V.,Marketing,Senior,Sibiu,2023-03-01,241,4,4.6,12,302.5,0.0,Potential
+1116,Elena D.,HR,Junior,Brasov,2023-03-01,168,8,2.9,27,222.0,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-03-01,161,1,4.5,4,180.5,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-03-01,202,1,2.2,18,205.0,1.0,Risc Ridicat
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-03-01,148,13,3.4,37,272.0,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-03-01,234,12,1.9,20,275.0,1.0,Risc Ridicat
+1121,Cristina D.,IT,Mid,Timisoara,2023-03-01,164,10,1.2,15,206.0,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-03-01,220,3,2.6,32,242.0,0.8,Risc Ridicat
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-03-01,160,12,1.4,34,228.0,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-03-01,200,11,4.0,39,290.0,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-03-01,183,12,4.9,19,309.5,0.0,Potential
+1126,Elena D.,Marketing,Junior,Constanta,2023-03-01,193,12,3.8,22,292.5,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-03-01,208,7,3.9,29,302.0,0.0,Potential
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-03-01,151,10,2.2,36,219.5,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-03-01,187,14,1.6,25,315.5,0.0,Potential
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-03-01,254,10,2.3,0,273.0,1.0,Risc Ridicat
+1131,Ana S.,Vanzari,Mid,Constanta,2023-03-01,154,3,1.5,35,137.0,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-03-01,161,7,4.9,31,298.5,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-03-01,199,6,1.2,24,183.5,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-03-01,212,8,4.8,30,282.0,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-03-01,206,1,3.9,18,191.0,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-03-01,243,3,3.9,2,279.5,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-03-01,223,1,3.0,10,181.5,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-03-01,235,7,3.7,23,261.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-03-01,197,12,2.8,13,274.5,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-03-01,161,1,2.2,26,134.5,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-03-01,176,7,1.9,10,196.0,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-03-01,174,9,3.3,36,243.0,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-03-01,157,14,3.0,17,278.5,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-03-01,142,4,3.8,4,187.0,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-03-01,148,8,1.2,36,178.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-03-01,222,14,3.0,0,311.0,0.0,Potential
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-03-01,152,11,2.8,3,292.0,0.0,Stabil
+1148,Andrei P.,IT,Mid,Sibiu,2023-03-01,241,10,4.5,29,310.5,0.0,Potential
+1149,Ana S.,Vanzari,Junior,Constanta,2023-03-01,157,10,2.1,2,220.5,0.0,Stabil
+1150,Elena D.,Marketing,Senior,Iasi,2023-03-01,215,8,4.9,30,335.5,0.0,Potential
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-03-01,142,12,4.0,30,271.0,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-03-01,185,1,1.5,16,132.5,0.0,Stabil
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-03-01,197,3,1.5,6,208.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-03-01,226,13,2.5,15,293.0,1.0,Risc Ridicat
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-03-01,248,12,4.0,36,324.0,0.0,Potential
+1156,Mihai O.,IT,Junior,Sibiu,2023-03-01,246,8,3.4,33,271.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-03-01,208,8,2.7,38,238.0,0.8,Risc Ridicat
+1158,Ana S.,IT,Junior,Bucuresti,2023-03-01,239,3,3.9,12,227.5,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-03-01,223,4,1.3,25,177.5,0.8,Risc Ridicat
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-03-01,153,9,1.6,29,198.5,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-03-01,177,11,1.2,7,222.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-03-01,224,11,2.5,27,272.0,0.8,Risc Ridicat
+1163,Cristina D.,IT,Senior,Timisoara,2023-03-01,239,6,1.3,17,255.5,1.0,Risc Ridicat
+1164,George R.,HR,Mid,Sibiu,2023-03-01,185,6,1.5,13,182.5,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-03-01,254,3,4.9,25,305.0,0.0,Potential
+1166,Elena D.,IT,Junior,Sibiu,2023-03-01,258,10,3.4,24,297.0,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-03-01,188,8,1.5,22,204.0,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-03-01,228,7,4.4,4,272.0,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-03-01,188,1,2.8,4,160.0,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-03-01,148,13,3.3,10,320.0,0.0,Potential
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-03-01,175,6,2.0,9,187.5,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-03-01,229,14,2.2,16,298.5,1.0,Risc Ridicat
+1173,Andrei P.,IT,Mid,Brasov,2023-03-01,192,3,1.5,32,156.0,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-03-01,246,1,3.6,24,255.0,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-03-01,207,1,2.8,35,169.5,0.8,Risc Ridicat
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-03-01,242,11,4.0,27,311.0,0.0,Potential
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-03-01,144,6,4.1,23,214.0,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-03-01,212,14,2.7,4,300.0,1.0,Risc Ridicat
+1179,Ion V.,HR,Junior,Iasi,2023-03-01,233,12,4.5,11,326.5,0.0,Potential
+1180,Mihai O.,HR,Mid,Iasi,2023-03-01,175,12,1.1,26,229.5,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-03-01,204,10,1.5,34,232.0,0.8,Risc Ridicat
+1182,George R.,Vanzari,Mid,Brasov,2023-03-01,155,14,3.3,28,283.5,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-03-01,231,3,1.0,17,215.5,1.0,Risc Ridicat
+1184,Mihai O.,Marketing,Senior,Brasov,2023-03-01,196,1,2.6,32,210.0,0.0,Stabil
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-03-01,205,12,1.3,4,248.5,1.0,Risc Ridicat
+1186,Ana S.,IT,Junior,Timisoara,2023-03-01,204,8,2.4,17,230.0,1.0,Risc Ridicat
+1187,Andrei P.,IT,Mid,Iasi,2023-03-01,200,14,1.4,26,268.0,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-03-01,191,7,3.8,14,241.5,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-03-01,150,1,3.3,10,151.0,0.0,Stabil
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-03-01,152,7,4.2,24,280.0,0.0,Stabil
+1191,Maria I.,HR,Mid,Constanta,2023-03-01,163,7,3.5,18,221.5,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-03-01,201,10,3.7,15,274.5,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-03-01,177,9,4.0,26,258.5,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-03-01,244,4,2.3,3,208.0,1.0,Risc Ridicat
+1195,Mihai O.,IT,Mid,Brasov,2023-03-01,163,3,3.3,17,177.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-03-01,145,14,1.2,20,236.5,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-03-01,146,3,2.8,3,159.0,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-03-01,207,4,2.9,27,201.5,0.8,Risc Ridicat
+1199,Cristina D.,IT,Junior,Bucuresti,2023-03-01,152,10,3.9,16,254.0,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-04-01,250,9,2.7,38,269.0,0.8,Risc Ridicat
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-04-01,213,13,2.4,25,284.5,0.8,Risc Ridicat
+1002,Elena D.,IT,Senior,Constanta,2023-04-01,230,7,2.2,30,279.0,0.8,Risc Ridicat
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-04-01,243,3,1.2,16,175.5,1.0,Risc Ridicat
+1004,Cristina D.,Marketing,Mid,Iasi,2023-04-01,171,10,3.7,30,259.5,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-04-01,236,1,2.6,14,180.0,1.0,Risc Ridicat
+1006,Maria I.,Marketing,Mid,Sibiu,2023-04-01,141,12,1.5,3,220.5,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-04-01,221,9,3.1,2,312.5,0.0,Potential
+1008,Mihai O.,HR,Mid,Brasov,2023-04-01,162,11,3.3,35,257.0,0.0,Stabil
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-04-01,163,4,1.6,8,153.5,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-04-01,191,9,4.7,29,279.5,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-04-01,226,2,2.3,39,229.0,0.8,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-04-01,227,12,4.4,34,321.5,0.0,Potential
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-04-01,221,4,4.5,35,240.5,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-04-01,229,7,4.7,25,278.5,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-04-01,166,14,4.7,4,317.0,0.0,Potential
+1016,Maria I.,HR,Mid,Brasov,2023-04-01,182,10,1.2,27,215.0,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-04-01,179,11,4.9,18,297.5,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-04-01,202,6,4.4,28,249.0,0.0,Stabil
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-04-01,204,6,2.0,12,202.0,1.0,Risc Ridicat
+1020,Andrei P.,Marketing,Senior,Iasi,2023-04-01,254,6,2.4,21,285.0,0.8,Risc Ridicat
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-04-01,196,14,4.0,28,318.0,0.0,Potential
+1022,Ion V.,HR,Mid,Bucuresti,2023-04-01,215,11,3.6,4,289.5,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-04-01,220,4,4.5,5,290.0,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-04-01,150,10,1.7,36,259.0,0.0,Stabil
+1025,Maria I.,IT,Mid,Iasi,2023-04-01,142,5,3.5,29,191.0,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-04-01,169,7,3.7,34,278.5,0.0,Stabil
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-04-01,231,8,3.6,33,267.5,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-04-01,249,3,3.4,11,222.5,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-04-01,245,14,2.2,33,306.5,0.8,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-04-01,142,8,3.0,35,211.0,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-04-01,166,14,3.0,14,283.0,0.0,Stabil
+1032,George R.,IT,Mid,Constanta,2023-04-01,259,8,3.2,10,273.5,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-04-01,240,11,4.3,33,316.0,0.0,Potential
+1034,George R.,Vanzari,Junior,Brasov,2023-04-01,248,8,3.5,36,274.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-04-01,253,9,2.4,34,314.5,0.8,Risc Ridicat
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-04-01,150,9,1.4,30,193.0,0.0,Stabil
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-04-01,190,1,5.0,0,205.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-04-01,226,3,2.9,21,201.0,0.8,Risc Ridicat
+1039,Mihai O.,IT,Mid,Bucuresti,2023-04-01,244,10,4.6,20,314.0,0.0,Potential
+1040,Cristina D.,HR,Senior,Constanta,2023-04-01,223,11,2.2,26,315.5,0.8,Risc Ridicat
+1041,Elena D.,HR,Junior,Brasov,2023-04-01,161,6,2.9,0,198.5,0.0,Stabil
+1042,Andrei P.,IT,Senior,Iasi,2023-04-01,201,12,3.2,4,334.5,0.0,Potential
+1043,Andrei P.,IT,Junior,Iasi,2023-04-01,220,5,3.2,33,224.0,0.0,Stabil
+1044,Ana S.,HR,Senior,Brasov,2023-04-01,160,13,4.4,27,348.0,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-04-01,238,5,1.8,4,255.0,1.0,Risc Ridicat
+1046,George R.,IT,Senior,Brasov,2023-04-01,142,6,2.9,32,239.0,0.0,Stabil
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-04-01,246,8,2.3,10,249.0,1.0,Risc Ridicat
+1048,Andrei P.,IT,Senior,Constanta,2023-04-01,224,13,1.7,14,326.0,1.0,Risc Ridicat
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-04-01,156,4,4.1,6,200.0,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-04-01,195,12,1.8,4,253.5,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-04-01,201,9,1.9,7,228.5,1.0,Risc Ridicat
+1052,Ana S.,HR,Senior,Timisoara,2023-04-01,250,10,3.6,9,347.0,0.0,Potential
+1053,Cristina D.,IT,Junior,Brasov,2023-04-01,181,7,3.0,24,220.5,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-04-01,166,11,2.4,26,291.0,0.0,Stabil
+1055,George R.,HR,Junior,Brasov,2023-04-01,248,7,4.4,36,282.0,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-04-01,206,9,3.8,13,269.0,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-04-01,143,6,3.2,30,195.5,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-04-01,162,4,1.7,23,205.0,0.0,Stabil
+1059,Elena D.,IT,Junior,Bucuresti,2023-04-01,160,3,1.6,18,142.0,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-04-01,207,6,3.0,32,273.5,0.0,Stabil
+1061,Elena D.,Marketing,Junior,Iasi,2023-04-01,244,4,4.6,14,254.0,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-04-01,166,11,3.2,29,307.0,0.0,Potential
+1063,Cristina D.,HR,Senior,Sibiu,2023-04-01,211,12,4.8,27,371.5,0.0,Potential
+1064,Maria I.,HR,Mid,Bucuresti,2023-04-01,184,5,4.0,32,222.0,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-04-01,236,4,1.0,37,178.0,0.8,Risc Ridicat
+1066,Ion V.,IT,Junior,Brasov,2023-04-01,232,1,4.8,28,222.0,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-04-01,157,1,4.5,20,178.5,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-04-01,212,6,3.2,25,230.0,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-04-01,222,5,3.0,19,271.0,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-04-01,189,12,1.9,24,252.5,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-04-01,242,11,4.9,3,329.0,0.0,Potential
+1072,Mihai O.,IT,Mid,Iasi,2023-04-01,177,6,2.4,24,196.5,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-04-01,147,7,1.5,6,173.5,0.0,Stabil
+1074,Ion V.,Marketing,Mid,Brasov,2023-04-01,178,12,4.2,0,293.0,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-04-01,149,1,3.9,36,212.5,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-04-01,218,6,1.1,30,191.0,0.8,Risc Ridicat
+1077,Ana S.,Vanzari,Mid,Constanta,2023-04-01,194,13,2.6,9,279.0,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-04-01,159,7,1.1,24,171.5,0.0,Stabil
+1079,Elena D.,Marketing,Mid,Timisoara,2023-04-01,204,3,3.3,7,198.0,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-04-01,194,8,1.9,23,215.0,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-04-01,209,2,3.5,16,194.5,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-04-01,164,12,4.6,12,294.0,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-04-01,226,8,2.0,5,233.0,1.0,Risc Ridicat
+1084,Ion V.,Vanzari,Mid,Constanta,2023-04-01,176,14,2.9,25,286.0,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-04-01,256,11,4.8,31,334.0,0.0,Potential
+1086,Maria I.,IT,Mid,Sibiu,2023-04-01,179,1,2.6,9,151.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-04-01,173,11,3.1,14,258.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-04-01,183,3,1.3,27,147.5,0.0,Stabil
+1089,Ana S.,Marketing,Mid,Timisoara,2023-04-01,218,11,3.0,9,279.0,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-04-01,183,3,4.1,23,253.5,0.0,Stabil
+1091,Cristina D.,HR,Mid,Brasov,2023-04-01,251,11,4.3,22,321.5,0.0,Potential
+1092,Maria I.,HR,Junior,Iasi,2023-04-01,156,10,2.7,35,232.0,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-04-01,152,13,3.7,20,280.0,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-04-01,224,11,3.3,11,288.0,0.0,Stabil
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-04-01,200,8,2.6,10,232.0,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-04-01,158,8,3.5,15,229.0,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-04-01,179,9,1.0,8,249.5,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-04-01,144,2,1.2,29,166.0,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-04-01,158,14,4.2,32,303.0,0.0,Potential
+1100,Cristina D.,Marketing,Junior,Iasi,2023-04-01,215,7,1.1,4,199.5,1.0,Risc Ridicat
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-04-01,228,5,3.2,3,228.0,0.0,Stabil
+1102,Ana S.,Marketing,Mid,Constanta,2023-04-01,142,7,2.4,25,189.0,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-04-01,145,14,3.3,5,328.5,0.0,Potential
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-04-01,151,2,3.2,33,159.5,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-04-01,245,4,1.2,21,186.5,0.8,Risc Ridicat
+1106,George R.,Marketing,Mid,Brasov,2023-04-01,183,2,4.9,8,209.5,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-04-01,192,3,2.3,34,172.0,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-04-01,184,14,1.7,25,316.0,0.0,Potential
+1109,George R.,Marketing,Junior,Iasi,2023-04-01,176,6,1.1,25,170.0,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-04-01,224,3,3.1,26,204.0,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-04-01,173,4,4.7,28,220.5,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-04-01,144,12,2.0,37,232.0,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-04-01,199,12,1.9,35,257.5,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-04-01,219,4,4.2,14,283.5,0.0,Stabil
+1115,Ion V.,Marketing,Senior,Sibiu,2023-04-01,186,5,3.4,9,261.0,0.0,Stabil
+1116,Elena D.,HR,Junior,Brasov,2023-04-01,160,8,3.9,11,238.0,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-04-01,225,2,2.9,18,190.5,1.0,Risc Ridicat
+1118,Cristina D.,Marketing,Senior,Iasi,2023-04-01,162,11,1.7,3,275.0,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-04-01,188,5,1.7,33,178.0,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-04-01,193,9,1.7,13,220.5,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-04-01,236,12,4.8,6,334.0,0.0,Potential
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-04-01,173,9,3.5,8,296.5,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-04-01,158,4,3.0,23,179.0,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-04-01,179,5,1.8,27,175.5,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-04-01,158,7,2.1,23,191.0,0.0,Stabil
+1126,Elena D.,Marketing,Junior,Constanta,2023-04-01,186,7,3.7,28,237.0,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-04-01,161,1,4.2,8,224.5,0.0,Stabil
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-04-01,162,2,3.6,29,173.0,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-04-01,224,12,1.7,2,316.0,1.0,Risc Ridicat
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-04-01,190,11,3.1,25,267.0,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-04-01,181,12,4.6,7,302.5,0.0,Potential
+1132,Andrei P.,IT,Senior,Sibiu,2023-04-01,150,10,3.7,29,299.0,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-04-01,211,9,4.7,36,289.5,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-04-01,236,1,1.3,36,154.0,0.8,Risc Ridicat
+1135,George R.,IT,Junior,Cluj-Napoca,2023-04-01,165,10,2.5,4,232.5,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-04-01,244,11,3.7,26,356.0,0.0,Potential
+1137,Elena D.,IT,Mid,Constanta,2023-04-01,213,8,4.8,18,282.5,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-04-01,150,4,4.0,6,195.0,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-04-01,158,10,1.7,2,213.0,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-04-01,245,13,3.9,5,330.5,0.0,Potential
+1141,George R.,IT,Junior,Iasi,2023-04-01,185,12,1.4,11,240.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-04-01,164,9,2.7,3,226.0,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-04-01,170,2,3.6,37,177.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-04-01,221,5,1.7,12,194.5,1.0,Risc Ridicat
+1145,Mihai O.,Marketing,Mid,Constanta,2023-04-01,234,7,1.4,1,215.0,1.0,Risc Ridicat
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-04-01,193,9,4.6,31,278.5,0.0,Stabil
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-04-01,215,12,2.0,37,317.5,0.8,Risc Ridicat
+1148,Andrei P.,IT,Mid,Sibiu,2023-04-01,234,7,1.4,25,215.0,0.8,Risc Ridicat
+1149,Ana S.,Vanzari,Junior,Constanta,2023-04-01,231,13,1.4,19,273.5,1.0,Risc Ridicat
+1150,Elena D.,Marketing,Senior,Iasi,2023-04-01,241,2,4.5,25,280.5,0.0,Stabil
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-04-01,160,14,2.2,12,264.0,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-04-01,154,14,2.2,11,261.0,0.0,Stabil
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-04-01,143,7,2.6,30,243.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-04-01,204,3,2.4,9,180.0,1.0,Risc Ridicat
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-04-01,242,2,1.7,31,175.0,0.8,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-04-01,142,6,3.4,21,199.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-04-01,161,2,4.1,31,182.5,0.0,Stabil
+1158,Ana S.,IT,Junior,Bucuresti,2023-04-01,233,5,1.5,18,196.5,1.0,Risc Ridicat
+1159,Ana S.,Vanzari,Junior,Brasov,2023-04-01,214,10,1.2,25,231.0,0.8,Risc Ridicat
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-04-01,212,3,4.7,35,230.0,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-04-01,191,7,4.2,16,249.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-04-01,187,11,2.6,17,255.5,0.0,Stabil
+1163,Cristina D.,IT,Senior,Timisoara,2023-04-01,243,8,2.5,23,301.5,0.8,Risc Ridicat
+1164,George R.,HR,Mid,Sibiu,2023-04-01,154,1,4.7,39,181.0,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-04-01,238,4,3.2,16,273.0,0.0,Stabil
+1166,Elena D.,IT,Junior,Sibiu,2023-04-01,206,10,5.0,39,303.0,0.0,Potential
+1167,Maria I.,HR,Junior,Iasi,2023-04-01,215,8,1.9,5,225.5,1.0,Risc Ridicat
+1168,Ana S.,HR,Junior,Bucuresti,2023-04-01,161,10,3.5,8,250.5,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-04-01,228,11,1.6,30,256.0,0.8,Risc Ridicat
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-04-01,250,10,3.1,39,337.0,0.0,Potential
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-04-01,146,8,1.2,0,177.0,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-04-01,237,5,4.0,11,248.5,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-04-01,246,7,2.9,7,251.0,1.0,Risc Ridicat
+1174,Cristina D.,HR,Senior,Constanta,2023-04-01,247,13,2.1,31,345.5,0.8,Risc Ridicat
+1175,Mihai O.,HR,Junior,Constanta,2023-04-01,234,7,1.6,4,219.0,1.0,Risc Ridicat
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-04-01,141,13,4.5,38,290.5,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-04-01,223,8,4.3,30,277.5,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-04-01,190,9,2.7,17,239.0,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-04-01,222,11,4.2,8,305.0,0.0,Potential
+1180,Mihai O.,HR,Mid,Iasi,2023-04-01,171,11,4.5,31,285.5,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-04-01,150,3,1.4,36,133.0,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-04-01,238,5,4.8,3,265.0,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-04-01,214,14,1.7,31,331.0,0.8,Risc Ridicat
+1184,Mihai O.,Marketing,Senior,Brasov,2023-04-01,215,7,1.3,38,253.5,0.8,Risc Ridicat
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-04-01,140,8,4.7,13,244.0,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-04-01,209,6,2.1,29,206.5,0.8,Risc Ridicat
+1187,Andrei P.,IT,Mid,Iasi,2023-04-01,236,2,3.7,37,212.0,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-04-01,248,3,3.5,17,224.0,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-04-01,250,9,1.7,0,249.0,1.0,Risc Ridicat
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-04-01,164,6,1.7,5,226.0,0.0,Stabil
+1191,Maria I.,HR,Mid,Constanta,2023-04-01,173,3,3.0,19,176.5,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-04-01,162,6,4.2,17,225.0,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-04-01,164,14,3.0,28,282.0,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-04-01,196,4,4.1,11,220.0,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-04-01,193,12,3.9,17,294.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-04-01,256,5,3.7,1,252.0,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-04-01,166,1,1.5,14,123.0,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-04-01,244,3,4.5,29,242.0,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-04-01,185,2,1.4,33,140.5,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-05-01,252,12,4.4,20,334.0,0.0,Potential
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-05-01,246,7,3.7,38,267.0,0.0,Stabil
+1002,Elena D.,IT,Senior,Constanta,2023-05-01,163,10,4.1,28,313.5,0.0,Potential
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-05-01,220,7,3.9,30,258.0,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-05-01,144,1,1.8,31,118.0,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-05-01,208,8,3.4,2,252.0,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-05-01,212,13,4.6,1,328.0,0.0,Potential
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-05-01,142,2,2.8,6,197.0,0.0,Stabil
+1008,Mihai O.,HR,Mid,Brasov,2023-05-01,244,3,2.8,30,208.0,0.8,Risc Ridicat
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-05-01,143,3,2.4,34,149.5,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-05-01,160,9,3.7,13,244.0,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-05-01,224,11,2.4,30,320.0,0.8,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-05-01,231,4,2.2,9,199.5,1.0,Risc Ridicat
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-05-01,230,1,4.5,27,215.0,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-05-01,250,13,3.0,35,315.0,0.0,Potential
+1015,Maria I.,Marketing,Mid,Sibiu,2023-05-01,208,4,4.0,19,224.0,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-05-01,234,7,2.0,21,227.0,0.8,Risc Ridicat
+1017,Maria I.,Marketing,Mid,Sibiu,2023-05-01,241,7,4.7,39,284.5,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-05-01,190,4,2.8,34,191.0,0.0,Stabil
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-05-01,228,8,4.1,10,276.0,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-05-01,252,12,1.2,31,320.0,0.8,Risc Ridicat
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-05-01,207,5,2.5,13,203.5,1.0,Risc Ridicat
+1022,Ion V.,HR,Mid,Bucuresti,2023-05-01,219,7,3.4,34,247.5,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-05-01,244,6,3.9,19,310.0,0.0,Potential
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-05-01,192,3,1.7,0,210.0,0.0,Stabil
+1025,Maria I.,IT,Mid,Iasi,2023-05-01,232,5,1.5,27,196.0,0.8,Risc Ridicat
+1026,Ana S.,Marketing,Senior,Iasi,2023-05-01,163,13,1.3,26,287.5,0.0,Stabil
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-05-01,201,9,1.9,27,228.5,0.8,Risc Ridicat
+1028,George R.,Marketing,Mid,Brasov,2023-05-01,241,14,4.9,1,358.5,0.0,Potential
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-05-01,243,10,3.4,21,289.5,0.0,Stabil
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-05-01,211,4,3.9,6,223.5,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-05-01,142,2,4.5,13,181.0,0.0,Stabil
+1032,George R.,IT,Mid,Constanta,2023-05-01,251,8,4.7,37,299.5,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-05-01,246,6,1.6,36,215.0,0.8,Risc Ridicat
+1034,George R.,Vanzari,Junior,Brasov,2023-05-01,170,12,3.0,33,265.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-05-01,144,8,3.1,9,264.0,0.0,Stabil
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-05-01,225,4,2.6,39,204.5,0.8,Risc Ridicat
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-05-01,211,8,4.5,27,275.5,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-05-01,146,5,1.2,19,147.0,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-05-01,195,6,1.4,37,185.5,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-05-01,169,12,2.2,3,298.5,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-05-01,217,3,1.2,12,162.5,1.0,Risc Ridicat
+1042,Andrei P.,IT,Senior,Iasi,2023-05-01,162,14,5.0,4,371.0,0.0,Potential
+1043,Andrei P.,IT,Junior,Iasi,2023-05-01,253,14,3.9,20,344.5,0.0,Potential
+1044,Ana S.,HR,Senior,Brasov,2023-05-01,248,11,3.3,8,350.0,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-05-01,146,9,1.9,36,251.0,0.0,Stabil
+1046,George R.,IT,Senior,Brasov,2023-05-01,219,14,1.2,28,323.5,0.8,Risc Ridicat
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-05-01,236,8,4.9,10,296.0,0.0,Stabil
+1048,Andrei P.,IT,Senior,Constanta,2023-05-01,222,1,4.8,13,267.0,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-05-01,175,1,4.8,2,193.5,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-05-01,239,2,1.4,22,167.5,0.8,Risc Ridicat
+1051,Mihai O.,Marketing,Junior,Brasov,2023-05-01,149,4,2.5,37,164.5,0.0,Stabil
+1052,Ana S.,HR,Senior,Timisoara,2023-05-01,160,6,4.8,14,286.0,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-05-01,153,5,3.4,27,194.5,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-05-01,257,2,4.3,9,284.5,0.0,Stabil
+1055,George R.,HR,Junior,Brasov,2023-05-01,142,4,3.8,5,187.0,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-05-01,255,8,2.9,14,265.5,1.0,Risc Ridicat
+1057,Maria I.,Marketing,Mid,Brasov,2023-05-01,217,10,2.2,12,252.5,1.0,Risc Ridicat
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-05-01,247,4,1.6,27,245.5,0.8,Risc Ridicat
+1059,Elena D.,IT,Junior,Bucuresti,2023-05-01,140,14,1.7,22,244.0,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-05-01,242,5,2.4,11,269.0,1.0,Risc Ridicat
+1061,Elena D.,Marketing,Junior,Iasi,2023-05-01,141,4,3.2,16,174.5,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-05-01,189,14,1.1,19,306.5,0.0,Potential
+1063,Cristina D.,HR,Senior,Sibiu,2023-05-01,161,3,2.5,17,210.5,0.0,Stabil
+1064,Maria I.,HR,Mid,Bucuresti,2023-05-01,204,14,2.8,33,298.0,0.8,Risc Ridicat
+1065,Elena D.,Vanzari,Junior,Brasov,2023-05-01,168,14,3.4,17,292.0,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-05-01,230,12,4.3,21,321.0,0.0,Potential
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-05-01,205,7,2.8,17,228.5,1.0,Risc Ridicat
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-05-01,181,7,3.3,36,226.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-05-01,146,9,2.7,22,267.0,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-05-01,202,2,2.9,14,179.0,1.0,Risc Ridicat
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-05-01,187,3,4.7,19,217.5,0.0,Stabil
+1072,Mihai O.,IT,Mid,Iasi,2023-05-01,173,2,1.3,22,132.5,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-05-01,210,4,1.5,31,175.0,0.8,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-05-01,235,11,3.1,22,289.5,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-05-01,154,5,4.2,20,261.0,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-05-01,215,4,4.5,2,237.5,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-05-01,228,3,4.8,4,240.0,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-05-01,231,6,2.6,19,227.5,1.0,Risc Ridicat
+1079,Elena D.,Marketing,Mid,Timisoara,2023-05-01,254,3,2.0,3,197.0,1.0,Risc Ridicat
+1080,Ion V.,Marketing,Junior,Iasi,2023-05-01,202,12,4.9,22,319.0,0.0,Potential
+1081,Elena D.,Vanzari,Junior,Constanta,2023-05-01,258,13,3.6,18,331.0,0.0,Potential
+1082,Ana S.,IT,Junior,Constanta,2023-05-01,244,7,3.7,10,266.0,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-05-01,150,4,1.7,24,149.0,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-05-01,194,14,4.9,33,335.0,0.0,Potential
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-05-01,149,10,1.2,26,198.5,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-05-01,176,3,2.4,2,166.0,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-05-01,253,1,4.6,8,228.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-05-01,259,10,4.6,14,321.5,0.0,Potential
+1089,Ana S.,Marketing,Mid,Timisoara,2023-05-01,221,8,2.9,10,248.5,1.0,Risc Ridicat
+1090,Elena D.,IT,Senior,Timisoara,2023-05-01,203,3,3.9,13,259.5,0.0,Stabil
+1091,Cristina D.,HR,Mid,Brasov,2023-05-01,202,5,4.8,24,247.0,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-05-01,153,4,3.9,36,194.5,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-05-01,215,8,2.5,5,237.5,1.0,Risc Ridicat
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-05-01,245,8,2.5,9,252.5,1.0,Risc Ridicat
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-05-01,231,14,4.9,4,353.5,0.0,Potential
+1096,Andrei P.,IT,Junior,Constanta,2023-05-01,163,6,3.3,0,207.5,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-05-01,219,11,1.7,5,303.5,1.0,Risc Ridicat
+1098,Andrei P.,IT,Senior,Brasov,2023-05-01,181,8,1.7,22,254.5,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-05-01,195,6,4.2,29,241.5,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-05-01,218,8,3.1,23,251.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-05-01,255,13,4.5,9,347.5,0.0,Potential
+1102,Ana S.,Marketing,Mid,Constanta,2023-05-01,195,12,4.2,4,301.5,0.0,Potential
+1103,Maria I.,Marketing,Senior,Timisoara,2023-05-01,198,2,3.8,3,245.0,0.0,Stabil
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-05-01,160,12,2.9,23,258.0,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-05-01,160,11,2.8,15,246.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-05-01,226,9,1.9,0,241.0,1.0,Risc Ridicat
+1107,Maria I.,IT,Mid,Sibiu,2023-05-01,197,13,3.4,17,296.5,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-05-01,155,4,3.6,12,239.5,0.0,Stabil
+1109,George R.,Marketing,Junior,Iasi,2023-05-01,165,11,3.0,35,252.5,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-05-01,208,3,4.9,7,232.0,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-05-01,224,13,3.1,9,304.0,0.0,Potential
+1112,Cristina D.,IT,Mid,Iasi,2023-05-01,178,9,4.2,23,263.0,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-05-01,206,9,4.6,5,285.0,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-05-01,171,13,2.8,11,321.5,0.0,Potential
+1115,Ion V.,Marketing,Senior,Sibiu,2023-05-01,149,4,1.8,30,200.5,0.0,Stabil
+1116,Elena D.,HR,Junior,Brasov,2023-05-01,239,12,3.2,23,303.5,0.0,Potential
+1117,George R.,IT,Mid,Brasov,2023-05-01,191,11,4.1,0,287.5,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-05-01,208,6,3.8,10,290.0,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-05-01,172,3,4.2,38,200.0,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-05-01,233,1,3.0,19,186.5,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-05-01,193,10,4.0,33,276.5,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-05-01,215,5,1.6,18,239.5,1.0,Risc Ridicat
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-05-01,235,12,3.2,34,301.5,0.0,Potential
+1124,Ana S.,Vanzari,Mid,Constanta,2023-05-01,186,3,3.6,0,195.0,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-05-01,259,10,2.9,6,287.5,1.0,Risc Ridicat
+1126,Elena D.,Marketing,Junior,Constanta,2023-05-01,212,4,3.0,21,206.0,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-05-01,199,9,4.9,8,337.5,0.0,Potential
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-05-01,207,3,4.4,3,221.5,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-05-01,165,9,4.9,33,320.5,0.0,Potential
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-05-01,196,6,4.8,23,254.0,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-05-01,141,2,4.9,13,188.5,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-05-01,248,8,3.4,1,322.0,0.0,Potential
+1133,Maria I.,Marketing,Junior,Timisoara,2023-05-01,256,14,1.8,29,304.0,0.8,Risc Ridicat
+1134,Mihai O.,IT,Junior,Sibiu,2023-05-01,206,10,1.4,0,231.0,1.0,Risc Ridicat
+1135,George R.,IT,Junior,Cluj-Napoca,2023-05-01,234,14,2.9,26,315.0,0.8,Risc Ridicat
+1136,Ion V.,IT,Senior,Iasi,2023-05-01,247,10,4.0,0,353.5,0.0,Potential
+1137,Elena D.,IT,Mid,Constanta,2023-05-01,248,14,1.7,29,298.0,0.8,Risc Ridicat
+1138,Maria I.,Marketing,Mid,Constanta,2023-05-01,163,2,1.5,33,131.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-05-01,255,4,4.5,19,257.5,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-05-01,249,2,1.0,17,164.5,1.0,Risc Ridicat
+1141,George R.,IT,Junior,Iasi,2023-05-01,183,5,4.3,23,227.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-05-01,161,11,1.8,5,226.5,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-05-01,145,7,3.6,33,214.5,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-05-01,152,2,2.8,21,152.0,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-05-01,244,6,4.3,16,268.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-05-01,207,3,2.1,25,175.5,0.8,Risc Ridicat
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-05-01,159,4,4.0,19,249.5,0.0,Stabil
+1148,Andrei P.,IT,Mid,Sibiu,2023-05-01,249,6,3.8,14,260.5,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-05-01,228,11,1.9,26,262.0,0.8,Risc Ridicat
+1150,Elena D.,Marketing,Senior,Iasi,2023-05-01,150,7,3.6,5,267.0,0.0,Stabil
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-05-01,249,8,5.0,23,304.5,0.0,Potential
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-05-01,211,3,4.8,33,231.5,0.0,Stabil
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-05-01,177,3,4.1,28,250.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-05-01,247,6,3.1,8,245.5,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-05-01,140,8,4.8,9,246.0,0.0,Stabil
+1156,Mihai O.,IT,Junior,Sibiu,2023-05-01,178,3,4.9,19,217.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-05-01,255,1,1.7,15,171.5,1.0,Risc Ridicat
+1158,Ana S.,IT,Junior,Bucuresti,2023-05-01,183,3,1.9,3,159.5,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-05-01,246,8,2.2,24,247.0,0.8,Risc Ridicat
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-05-01,156,11,2.1,35,230.0,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-05-01,150,7,2.5,7,195.0,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-05-01,216,6,3.8,1,244.0,0.0,Stabil
+1163,Cristina D.,IT,Senior,Timisoara,2023-05-01,182,6,4.0,32,281.0,0.0,Stabil
+1164,George R.,HR,Mid,Sibiu,2023-05-01,164,13,4.9,32,310.0,0.0,Potential
+1165,Mihai O.,HR,Senior,Brasov,2023-05-01,248,14,4.9,29,412.0,0.0,Potential
+1166,Elena D.,IT,Junior,Sibiu,2023-05-01,185,8,4.6,8,264.5,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-05-01,246,2,3.0,18,203.0,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-05-01,152,6,2.9,10,194.0,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-05-01,142,14,1.7,2,245.0,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-05-01,174,8,1.2,19,241.0,0.0,Stabil
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-05-01,246,11,4.7,15,327.0,0.0,Potential
+1172,George R.,HR,Junior,Bucuresti,2023-05-01,220,10,4.1,26,292.0,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-05-01,162,13,3.0,17,271.0,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-05-01,226,12,1.2,23,307.0,0.8,Risc Ridicat
+1175,Mihai O.,HR,Junior,Constanta,2023-05-01,235,6,4.7,38,271.5,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-05-01,202,14,3.4,5,309.0,0.0,Potential
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-05-01,183,11,4.4,30,289.5,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-05-01,198,12,4.3,30,305.0,0.0,Potential
+1179,Ion V.,HR,Junior,Iasi,2023-05-01,233,7,1.7,23,220.5,0.8,Risc Ridicat
+1180,Mihai O.,HR,Mid,Iasi,2023-05-01,223,11,1.7,20,255.5,1.0,Risc Ridicat
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-05-01,249,12,4.8,27,340.5,0.0,Potential
+1182,George R.,Vanzari,Mid,Brasov,2023-05-01,169,13,4.5,24,304.5,0.0,Potential
+1183,Maria I.,Vanzari,Senior,Brasov,2023-05-01,143,3,4.7,36,245.5,0.0,Stabil
+1184,Mihai O.,Marketing,Senior,Brasov,2023-05-01,236,12,4.7,16,382.0,0.0,Potential
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-05-01,166,3,4.2,16,197.0,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-05-01,186,4,2.7,35,187.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-05-01,215,12,4.9,18,325.5,0.0,Potential
+1188,Andrei P.,HR,Junior,Constanta,2023-05-01,248,4,3.2,5,228.0,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-05-01,241,2,2.6,7,192.5,1.0,Risc Ridicat
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-05-01,224,4,1.4,22,230.0,0.8,Risc Ridicat
+1191,Maria I.,HR,Mid,Constanta,2023-05-01,228,1,5.0,26,224.0,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-05-01,219,1,3.5,34,189.5,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-05-01,141,9,3.2,34,224.5,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-05-01,244,3,2.3,13,198.0,1.0,Risc Ridicat
+1195,Mihai O.,IT,Mid,Brasov,2023-05-01,217,7,2.6,16,230.5,1.0,Risc Ridicat
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-05-01,245,9,3.5,3,282.5,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-05-01,192,8,4.9,16,274.0,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-05-01,157,12,4.9,8,296.5,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-05-01,247,5,3.3,38,239.5,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-06-01,227,9,2.9,6,261.5,1.0,Risc Ridicat
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-06-01,196,6,2.9,1,216.0,0.0,Stabil
+1002,Elena D.,IT,Senior,Constanta,2023-06-01,224,4,2.4,11,250.0,1.0,Risc Ridicat
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-06-01,222,6,1.6,36,203.0,0.8,Risc Ridicat
+1004,Cristina D.,Marketing,Mid,Iasi,2023-06-01,169,11,1.7,21,228.5,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-06-01,160,7,3.0,22,210.0,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-06-01,241,4,2.8,34,216.5,0.8,Risc Ridicat
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-06-01,173,3,4.8,31,262.5,0.0,Stabil
+1008,Mihai O.,HR,Mid,Brasov,2023-06-01,240,12,4.4,5,328.0,0.0,Potential
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-06-01,181,8,5.0,26,270.5,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-06-01,158,6,3.3,24,205.0,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-06-01,246,2,1.9,0,231.0,1.0,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-06-01,223,3,2.2,6,185.5,1.0,Risc Ridicat
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-06-01,159,1,4.8,9,185.5,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-06-01,224,7,3.0,3,242.0,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-06-01,210,12,1.9,17,263.0,1.0,Risc Ridicat
+1016,Maria I.,HR,Mid,Brasov,2023-06-01,149,9,2.2,7,208.5,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-06-01,218,8,2.4,13,237.0,1.0,Risc Ridicat
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-06-01,229,14,1.3,11,280.5,1.0,Risc Ridicat
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-06-01,168,1,1.3,14,120.0,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-06-01,178,10,1.9,18,277.0,0.0,Stabil
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-06-01,197,3,1.2,14,152.5,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-06-01,208,12,4.5,31,314.0,0.0,Potential
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-06-01,169,7,1.0,12,224.5,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-06-01,171,3,1.2,11,189.5,0.0,Stabil
+1025,Maria I.,IT,Mid,Iasi,2023-06-01,159,6,2.4,15,187.5,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-06-01,194,10,2.7,37,301.0,0.0,Potential
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-06-01,194,8,4.6,6,269.0,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-06-01,254,2,3.0,39,207.0,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-06-01,180,2,3.0,17,170.0,0.0,Stabil
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-06-01,236,3,2.1,10,190.0,1.0,Risc Ridicat
+1031,Maria I.,IT,Mid,Iasi,2023-06-01,213,4,2.3,4,192.5,1.0,Risc Ridicat
+1032,George R.,IT,Mid,Constanta,2023-06-01,179,7,1.4,3,187.5,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-06-01,207,8,4.2,15,267.5,0.0,Stabil
+1034,George R.,Vanzari,Junior,Brasov,2023-06-01,205,13,4.7,28,326.5,0.0,Potential
+1035,Maria I.,Marketing,Senior,Iasi,2023-06-01,151,5,4.2,18,259.5,0.0,Stabil
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-06-01,229,11,2.1,7,266.5,1.0,Risc Ridicat
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-06-01,184,10,4.5,27,282.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-06-01,234,6,2.0,6,217.0,1.0,Risc Ridicat
+1039,Mihai O.,IT,Mid,Bucuresti,2023-06-01,193,14,3.4,35,304.5,0.0,Potential
+1040,Cristina D.,HR,Senior,Constanta,2023-06-01,191,9,4.1,4,317.5,0.0,Potential
+1041,Elena D.,HR,Junior,Brasov,2023-06-01,201,10,4.2,23,284.5,0.0,Stabil
+1042,Andrei P.,IT,Senior,Iasi,2023-06-01,253,6,4.8,36,332.5,0.0,Potential
+1043,Andrei P.,IT,Junior,Iasi,2023-06-01,250,5,2.5,35,225.0,0.8,Risc Ridicat
+1044,Ana S.,HR,Senior,Brasov,2023-06-01,164,8,2.5,1,262.0,0.0,Stabil
+1045,Andrei P.,IT,Senior,Timisoara,2023-06-01,180,4,1.6,14,212.0,0.0,Stabil
+1046,George R.,IT,Senior,Brasov,2023-06-01,238,5,4.1,11,301.0,0.0,Potential
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-06-01,166,9,2.0,18,213.0,0.0,Stabil
+1048,Andrei P.,IT,Senior,Constanta,2023-06-01,171,4,2.4,35,223.5,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-06-01,179,6,2.5,36,199.5,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-06-01,219,12,3.8,18,305.5,0.0,Potential
+1051,Mihai O.,Marketing,Junior,Brasov,2023-06-01,231,6,2.7,14,229.5,1.0,Risc Ridicat
+1052,Ana S.,HR,Senior,Timisoara,2023-06-01,147,4,2.1,11,205.5,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-06-01,232,7,1.4,27,214.0,0.8,Risc Ridicat
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-06-01,205,14,4.6,22,384.5,0.0,Potential
+1055,George R.,HR,Junior,Brasov,2023-06-01,238,3,1.0,35,169.0,0.8,Risc Ridicat
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-06-01,152,8,3.9,27,234.0,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-06-01,205,11,2.0,4,252.5,1.0,Risc Ridicat
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-06-01,236,8,1.7,24,282.0,0.8,Risc Ridicat
+1059,Elena D.,IT,Junior,Bucuresti,2023-06-01,141,4,2.2,27,154.5,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-06-01,212,9,1.8,19,282.0,1.0,Risc Ridicat
+1061,Elena D.,Marketing,Junior,Iasi,2023-06-01,234,3,4.4,24,235.0,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-06-01,222,1,3.4,11,239.0,0.0,Stabil
+1063,Cristina D.,HR,Senior,Sibiu,2023-06-01,147,9,1.4,20,241.5,0.0,Stabil
+1064,Maria I.,HR,Mid,Bucuresti,2023-06-01,154,4,1.4,11,145.0,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-06-01,180,8,1.3,12,196.0,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-06-01,190,7,4.3,37,251.0,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-06-01,259,8,3.9,26,287.5,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-06-01,248,9,4.6,23,306.0,0.0,Potential
+1069,Ana S.,HR,Senior,Iasi,2023-06-01,183,7,3.2,17,275.5,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-06-01,197,13,3.9,30,306.5,0.0,Potential
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-06-01,168,1,1.5,16,124.0,0.0,Stabil
+1072,Mihai O.,IT,Mid,Iasi,2023-06-01,225,5,1.1,19,184.5,1.0,Risc Ridicat
+1073,Ion V.,HR,Junior,Brasov,2023-06-01,222,5,2.3,12,207.0,1.0,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-06-01,220,11,2.5,12,270.0,1.0,Risc Ridicat
+1075,Maria I.,Marketing,Senior,Iasi,2023-06-01,142,4,2.6,38,213.0,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-06-01,194,13,4.5,0,317.0,0.0,Potential
+1077,Ana S.,Vanzari,Mid,Constanta,2023-06-01,200,8,1.6,2,212.0,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-06-01,250,1,4.3,21,221.0,0.0,Stabil
+1079,Elena D.,Marketing,Mid,Timisoara,2023-06-01,187,10,1.8,37,229.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-06-01,198,5,4.0,3,229.0,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-06-01,215,1,4.9,25,215.5,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-06-01,147,12,5.0,31,293.5,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-06-01,221,1,2.0,9,160.5,1.0,Risc Ridicat
+1084,Ion V.,Vanzari,Mid,Constanta,2023-06-01,242,11,1.2,11,255.0,1.0,Risc Ridicat
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-06-01,219,5,3.2,19,223.5,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-06-01,197,5,4.3,31,234.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-06-01,215,13,4.9,16,335.5,0.0,Potential
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-06-01,184,10,2.7,15,246.0,0.0,Stabil
+1089,Ana S.,Marketing,Mid,Timisoara,2023-06-01,234,11,2.3,21,273.0,0.8,Risc Ridicat
+1090,Elena D.,IT,Senior,Timisoara,2023-06-01,208,11,3.7,39,338.0,0.0,Potential
+1091,Cristina D.,HR,Mid,Brasov,2023-06-01,176,5,4.0,0,218.0,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-06-01,244,13,4.6,5,344.0,0.0,Potential
+1093,Ana S.,IT,Junior,Iasi,2023-06-01,211,14,1.7,18,279.5,1.0,Risc Ridicat
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-06-01,162,5,5.0,30,231.0,0.0,Stabil
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-06-01,216,3,2.7,29,192.0,0.8,Risc Ridicat
+1096,Andrei P.,IT,Junior,Constanta,2023-06-01,190,3,4.1,25,207.0,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-06-01,147,7,1.7,19,227.5,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-06-01,149,3,1.9,35,192.5,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-06-01,254,2,3.3,2,213.0,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-06-01,144,13,3.7,8,276.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-06-01,160,10,2.7,18,234.0,0.0,Stabil
+1102,Ana S.,Marketing,Mid,Constanta,2023-06-01,180,1,4.4,18,188.0,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-06-01,166,7,3.4,26,271.0,0.0,Stabil
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-06-01,239,4,1.5,36,189.5,0.8,Risc Ridicat
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-06-01,156,9,3.5,21,238.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-06-01,224,14,4.4,32,340.0,0.0,Potential
+1107,Maria I.,IT,Mid,Sibiu,2023-06-01,255,14,1.4,10,295.5,1.0,Risc Ridicat
+1108,Ion V.,HR,Senior,Bucuresti,2023-06-01,140,6,4.1,27,262.0,0.0,Stabil
+1109,George R.,Marketing,Junior,Iasi,2023-06-01,227,10,4.2,9,297.5,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-06-01,217,7,3.8,39,254.5,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-06-01,210,8,4.0,15,265.0,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-06-01,145,6,4.6,25,224.5,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-06-01,222,6,1.7,6,205.0,1.0,Risc Ridicat
+1114,George R.,Marketing,Senior,Constanta,2023-06-01,203,4,3.7,13,265.5,0.0,Stabil
+1115,Ion V.,Marketing,Senior,Sibiu,2023-06-01,214,3,1.8,4,223.0,1.0,Risc Ridicat
+1116,Elena D.,HR,Junior,Brasov,2023-06-01,167,11,1.6,1,225.5,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-06-01,186,6,4.6,32,245.0,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-06-01,251,8,2.6,22,307.5,0.8,Risc Ridicat
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-06-01,193,13,3.4,25,294.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-06-01,213,7,3.7,29,250.5,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-06-01,255,2,4.9,32,245.5,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-06-01,226,1,2.4,4,221.0,1.0,Risc Ridicat
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-06-01,177,3,1.7,2,152.5,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-06-01,175,14,3.7,37,301.5,0.0,Potential
+1125,Maria I.,Marketing,Junior,Iasi,2023-06-01,197,11,3.2,29,272.5,0.0,Stabil
+1126,Elena D.,Marketing,Junior,Constanta,2023-06-01,233,4,4.9,3,254.5,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-06-01,217,13,1.4,37,316.5,0.8,Risc Ridicat
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-06-01,180,7,4.2,3,244.0,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-06-01,248,2,1.4,8,222.0,1.0,Risc Ridicat
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-06-01,148,12,2.4,16,242.0,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-06-01,249,12,2.9,17,302.5,1.0,Risc Ridicat
+1132,Andrei P.,IT,Senior,Sibiu,2023-06-01,183,3,1.4,19,199.5,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-06-01,165,11,2.7,39,246.5,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-06-01,157,3,2.3,37,154.5,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-06-01,170,2,3.4,33,173.0,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-06-01,171,12,3.6,3,327.5,0.0,Potential
+1137,Elena D.,IT,Mid,Constanta,2023-06-01,250,1,1.8,19,171.0,1.0,Risc Ridicat
+1138,Maria I.,Marketing,Mid,Constanta,2023-06-01,171,10,4.5,12,275.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-06-01,150,11,1.8,15,221.0,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-06-01,168,4,2.2,16,168.0,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-06-01,175,14,1.0,26,247.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-06-01,249,5,1.8,8,210.5,1.0,Risc Ridicat
+1143,Mihai O.,HR,Junior,Sibiu,2023-06-01,238,2,4.1,14,221.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-06-01,155,5,2.0,36,167.5,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-06-01,143,3,4.7,35,195.5,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-06-01,204,14,2.5,20,292.0,1.0,Risc Ridicat
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-06-01,229,13,1.3,9,320.5,1.0,Risc Ridicat
+1148,Andrei P.,IT,Mid,Sibiu,2023-06-01,152,6,2.4,39,184.0,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-06-01,244,13,3.6,14,324.0,0.0,Potential
+1150,Elena D.,Marketing,Senior,Iasi,2023-06-01,226,6,3.0,18,283.0,0.0,Stabil
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-06-01,200,4,3.1,35,202.0,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-06-01,215,11,2.5,34,267.5,0.8,Risc Ridicat
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-06-01,146,10,1.2,21,247.0,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-06-01,240,5,4.0,18,250.0,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-06-01,205,7,1.3,33,198.5,0.8,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-06-01,228,1,4.3,2,210.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-06-01,244,14,3.1,25,324.0,0.0,Potential
+1158,Ana S.,IT,Junior,Bucuresti,2023-06-01,254,12,4.5,32,337.0,0.0,Potential
+1159,Ana S.,Vanzari,Junior,Brasov,2023-06-01,223,13,1.4,25,269.5,0.8,Risc Ridicat
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-06-01,258,4,3.5,34,239.0,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-06-01,147,2,3.7,7,167.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-06-01,176,8,4.0,0,248.0,0.0,Stabil
+1163,Cristina D.,IT,Senior,Timisoara,2023-06-01,175,5,4.8,6,283.5,0.0,Stabil
+1164,George R.,HR,Mid,Sibiu,2023-06-01,238,12,4.4,22,327.0,0.0,Potential
+1165,Mihai O.,HR,Senior,Brasov,2023-06-01,258,7,1.6,25,281.0,0.8,Risc Ridicat
+1166,Elena D.,IT,Junior,Sibiu,2023-06-01,202,10,1.9,5,239.0,1.0,Risc Ridicat
+1167,Maria I.,HR,Junior,Iasi,2023-06-01,241,2,1.8,14,176.5,1.0,Risc Ridicat
+1168,Ana S.,HR,Junior,Bucuresti,2023-06-01,149,9,3.4,24,232.5,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-06-01,162,5,4.0,34,211.0,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-06-01,198,10,3.9,29,327.0,0.0,Potential
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-06-01,197,9,2.2,39,232.5,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-06-01,176,12,4.2,5,292.0,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-06-01,181,13,3.2,36,284.5,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-06-01,151,3,4.8,39,251.5,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-06-01,244,14,1.7,21,296.0,0.8,Risc Ridicat
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-06-01,209,7,1.8,9,210.5,1.0,Risc Ridicat
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-06-01,149,5,1.7,12,158.5,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-06-01,228,13,1.6,13,276.0,1.0,Risc Ridicat
+1179,Ion V.,HR,Junior,Iasi,2023-06-01,258,5,1.2,23,203.0,0.8,Risc Ridicat
+1180,Mihai O.,HR,Mid,Iasi,2023-06-01,244,12,4.4,35,330.0,0.0,Potential
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-06-01,234,1,4.2,9,211.0,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-06-01,150,6,2.1,29,177.0,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-06-01,226,8,2.9,37,301.0,0.8,Risc Ridicat
+1184,Mihai O.,Marketing,Senior,Brasov,2023-06-01,249,10,2.3,25,320.5,0.8,Risc Ridicat
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-06-01,227,11,4.4,25,311.5,0.0,Potential
+1186,Ana S.,IT,Junior,Timisoara,2023-06-01,156,11,2.9,8,246.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-06-01,252,3,3.2,29,220.0,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-06-01,166,7,2.4,32,201.0,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-06-01,152,11,4.8,30,282.0,0.0,Stabil
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-06-01,142,1,1.8,13,167.0,0.0,Stabil
+1191,Maria I.,HR,Mid,Constanta,2023-06-01,258,3,4.7,22,253.0,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-06-01,161,9,2.0,33,210.5,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-06-01,180,8,4.4,2,258.0,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-06-01,255,9,1.5,37,247.5,0.8,Risc Ridicat
+1195,Mihai O.,IT,Mid,Brasov,2023-06-01,140,14,4.4,19,298.0,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-06-01,207,7,3.4,5,241.5,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-06-01,143,9,4.5,11,251.5,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-06-01,258,7,2.4,5,247.0,1.0,Risc Ridicat
+1199,Cristina D.,IT,Junior,Bucuresti,2023-06-01,225,2,2.1,4,174.5,1.0,Risc Ridicat
+1000,Cristina D.,Marketing,Junior,Iasi,2023-07-01,143,13,4.2,31,285.5,0.0,Stabil
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-07-01,175,11,2.0,30,237.5,0.0,Stabil
+1002,Elena D.,IT,Senior,Constanta,2023-07-01,143,10,1.4,6,249.5,0.0,Stabil
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-07-01,199,3,2.0,34,169.5,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-07-01,207,6,1.1,24,185.5,0.8,Risc Ridicat
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-07-01,168,4,2.2,19,168.0,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-07-01,234,7,2.0,7,227.0,1.0,Risc Ridicat
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-07-01,193,4,2.6,32,238.5,0.0,Stabil
+1008,Mihai O.,HR,Mid,Brasov,2023-07-01,251,8,2.2,17,249.5,1.0,Risc Ridicat
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-07-01,148,12,1.6,38,226.0,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-07-01,140,7,1.5,25,170.0,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-07-01,203,12,2.2,10,315.5,1.0,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-07-01,249,12,2.6,14,296.5,1.0,Risc Ridicat
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-07-01,252,2,4.1,2,228.0,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-07-01,259,7,2.1,9,241.5,1.0,Risc Ridicat
+1015,Maria I.,Marketing,Mid,Sibiu,2023-07-01,150,2,1.1,30,117.0,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-07-01,246,3,4.5,24,243.0,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-07-01,165,4,1.9,2,160.5,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-07-01,185,9,3.8,33,258.5,0.0,Stabil
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-07-01,188,2,4.3,5,200.0,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-07-01,237,11,2.4,29,326.5,0.8,Risc Ridicat
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-07-01,209,3,1.0,17,154.5,1.0,Risc Ridicat
+1022,Ion V.,HR,Mid,Bucuresti,2023-07-01,183,5,1.7,20,175.5,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-07-01,182,5,3.2,16,255.0,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-07-01,204,8,2.9,21,290.0,0.8,Risc Ridicat
+1025,Maria I.,IT,Mid,Iasi,2023-07-01,164,14,1.9,21,260.0,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-07-01,247,1,1.4,33,211.5,0.8,Risc Ridicat
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-07-01,221,11,2.6,9,272.5,1.0,Risc Ridicat
+1028,George R.,Marketing,Mid,Brasov,2023-07-01,183,13,3.6,35,293.5,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-07-01,259,4,4.3,24,255.5,0.0,Stabil
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-07-01,169,8,4.9,0,262.5,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-07-01,193,9,2.0,1,226.5,0.0,Stabil
+1032,George R.,IT,Mid,Constanta,2023-07-01,246,2,1.9,27,181.0,0.8,Risc Ridicat
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-07-01,174,9,2.4,16,225.0,0.0,Stabil
+1034,George R.,Vanzari,Junior,Brasov,2023-07-01,256,8,1.1,34,230.0,0.8,Risc Ridicat
+1035,Maria I.,Marketing,Senior,Iasi,2023-07-01,224,13,4.3,38,378.0,0.0,Potential
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-07-01,228,12,4.5,1,324.0,0.0,Potential
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-07-01,184,4,4.8,10,228.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-07-01,162,3,3.6,36,183.0,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-07-01,176,9,4.0,29,258.0,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-07-01,175,13,1.3,21,293.5,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-07-01,190,1,2.6,22,157.0,0.0,Stabil
+1042,Andrei P.,IT,Senior,Iasi,2023-07-01,209,2,4.5,22,264.5,0.0,Stabil
+1043,Andrei P.,IT,Junior,Iasi,2023-07-01,254,10,2.8,23,283.0,0.8,Risc Ridicat
+1044,Ana S.,HR,Senior,Brasov,2023-07-01,186,11,2.7,8,307.0,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-07-01,245,6,1.2,19,256.5,1.0,Risc Ridicat
+1046,George R.,IT,Senior,Brasov,2023-07-01,249,14,3.0,38,374.5,0.0,Potential
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-07-01,214,12,2.1,10,269.0,1.0,Risc Ridicat
+1048,Andrei P.,IT,Senior,Constanta,2023-07-01,158,8,2.9,39,267.0,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-07-01,207,7,1.8,12,209.5,1.0,Risc Ridicat
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-07-01,237,4,4.1,15,240.5,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-07-01,176,11,2.5,2,248.0,0.0,Stabil
+1052,Ana S.,HR,Senior,Timisoara,2023-07-01,192,2,1.4,37,194.0,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-07-01,193,4,1.5,27,166.5,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-07-01,215,2,2.5,37,227.5,0.8,Risc Ridicat
+1055,George R.,HR,Junior,Brasov,2023-07-01,193,2,4.2,3,200.5,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-07-01,217,12,3.5,11,298.5,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-07-01,229,14,3.1,39,316.5,0.0,Potential
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-07-01,227,12,2.7,20,337.5,1.0,Risc Ridicat
+1059,Elena D.,IT,Junior,Bucuresti,2023-07-01,193,1,1.6,13,138.5,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-07-01,244,12,4.7,17,386.0,0.0,Potential
+1061,Elena D.,Marketing,Junior,Iasi,2023-07-01,245,12,2.1,30,284.5,0.8,Risc Ridicat
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-07-01,220,8,3.0,18,300.0,0.0,Stabil
+1063,Cristina D.,HR,Senior,Sibiu,2023-07-01,179,11,1.5,9,279.5,0.0,Stabil
+1064,Maria I.,HR,Mid,Bucuresti,2023-07-01,169,4,1.7,8,158.5,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-07-01,177,11,2.8,16,254.5,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-07-01,196,11,1.1,36,230.0,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-07-01,202,11,2.3,8,257.0,1.0,Risc Ridicat
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-07-01,163,8,1.5,13,191.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-07-01,180,2,2.7,5,214.0,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-07-01,203,8,3.7,8,255.5,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-07-01,178,12,2.2,35,253.0,0.0,Stabil
+1072,Mihai O.,IT,Mid,Iasi,2023-07-01,252,11,4.3,2,322.0,0.0,Potential
+1073,Ion V.,HR,Junior,Brasov,2023-07-01,225,6,2.7,30,226.5,0.8,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-07-01,173,12,3.1,19,268.5,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-07-01,212,5,3.6,36,278.0,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-07-01,144,3,1.8,10,138.0,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-07-01,222,1,2.0,36,161.0,0.8,Risc Ridicat
+1078,Maria I.,Marketing,Mid,Timisoara,2023-07-01,231,13,1.7,17,279.5,1.0,Risc Ridicat
+1079,Elena D.,Marketing,Mid,Timisoara,2023-07-01,171,11,3.5,15,265.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-07-01,183,5,2.9,11,199.5,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-07-01,234,9,2.1,7,249.0,1.0,Risc Ridicat
+1082,Ana S.,IT,Junior,Constanta,2023-07-01,216,14,1.3,5,274.0,1.0,Risc Ridicat
+1083,George R.,Marketing,Mid,Sibiu,2023-07-01,241,14,1.7,23,294.5,0.8,Risc Ridicat
+1084,Ion V.,Vanzari,Mid,Constanta,2023-07-01,206,6,1.2,19,187.0,1.0,Risc Ridicat
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-07-01,150,5,3.1,3,187.0,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-07-01,177,12,2.3,29,254.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-07-01,193,7,4.6,15,258.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-07-01,227,10,2.7,3,267.5,1.0,Risc Ridicat
+1089,Ana S.,Marketing,Mid,Timisoara,2023-07-01,146,10,3.8,5,249.0,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-07-01,168,1,4.8,8,240.0,0.0,Stabil
+1091,Cristina D.,HR,Mid,Brasov,2023-07-01,227,6,3.1,25,235.5,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-07-01,211,5,3.8,7,231.5,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-07-01,144,13,4.7,29,296.0,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-07-01,246,3,1.7,12,187.0,1.0,Risc Ridicat
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-07-01,207,9,2.7,21,247.5,0.8,Risc Ridicat
+1096,Andrei P.,IT,Junior,Constanta,2023-07-01,249,1,1.9,6,172.5,1.0,Risc Ridicat
+1097,Mihai O.,IT,Senior,Iasi,2023-07-01,251,8,1.8,7,291.5,1.0,Risc Ridicat
+1098,Andrei P.,IT,Senior,Brasov,2023-07-01,256,7,4.6,33,340.0,0.0,Potential
+1099,Mihai O.,IT,Junior,Iasi,2023-07-01,193,8,4.5,20,266.5,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-07-01,207,1,4.8,38,209.5,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-07-01,167,9,3.0,24,233.5,0.0,Stabil
+1102,Ana S.,Marketing,Mid,Constanta,2023-07-01,166,6,3.6,29,215.0,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-07-01,243,7,4.3,29,327.5,0.0,Potential
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-07-01,145,1,3.7,2,156.5,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-07-01,160,1,1.8,6,126.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-07-01,140,2,4.2,7,174.0,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-07-01,191,8,4.5,13,265.5,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-07-01,234,9,3.1,36,319.0,0.0,Potential
+1109,George R.,Marketing,Junior,Iasi,2023-07-01,228,9,3.2,23,268.0,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-07-01,181,9,1.2,14,204.5,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-07-01,241,10,3.9,30,298.5,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-07-01,230,4,1.3,3,181.0,1.0,Risc Ridicat
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-07-01,178,13,1.8,36,255.0,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-07-01,217,1,4.8,30,264.5,0.0,Stabil
+1115,Ion V.,Marketing,Senior,Sibiu,2023-07-01,236,11,2.8,1,334.0,1.0,Risc Ridicat
+1116,Elena D.,HR,Junior,Brasov,2023-07-01,153,8,2.9,27,214.5,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-07-01,242,12,2.7,24,295.0,0.8,Risc Ridicat
+1118,Cristina D.,Marketing,Senior,Iasi,2023-07-01,194,9,3.0,9,297.0,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-07-01,143,6,4.8,34,227.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-07-01,257,3,4.7,36,252.5,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-07-01,248,12,4.1,0,326.0,0.0,Potential
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-07-01,149,8,3.8,20,280.5,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-07-01,140,14,4.5,39,300.0,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-07-01,242,13,3.5,4,321.0,0.0,Potential
+1125,Maria I.,Marketing,Junior,Iasi,2023-07-01,255,3,2.2,37,201.5,0.8,Risc Ridicat
+1126,Elena D.,Marketing,Junior,Constanta,2023-07-01,241,12,2.1,6,282.5,1.0,Risc Ridicat
+1127,Ion V.,IT,Senior,Brasov,2023-07-01,162,12,2.6,1,303.0,0.0,Potential
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-07-01,168,3,2.5,4,164.0,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-07-01,258,5,3.2,17,293.0,0.0,Stabil
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-07-01,227,7,3.0,34,243.5,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-07-01,249,10,3.2,26,288.5,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-07-01,155,6,1.3,23,213.5,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-07-01,220,5,3.1,35,222.0,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-07-01,248,10,2.9,33,282.0,0.8,Risc Ridicat
+1135,George R.,IT,Junior,Cluj-Napoca,2023-07-01,253,12,1.9,16,284.5,1.0,Risc Ridicat
+1136,Ion V.,IT,Senior,Iasi,2023-07-01,238,14,1.1,22,331.0,0.8,Risc Ridicat
+1137,Elena D.,IT,Mid,Constanta,2023-07-01,151,2,4.3,18,181.5,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-07-01,155,10,2.0,7,217.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-07-01,172,9,1.5,6,206.0,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-07-01,193,12,3.4,30,284.5,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-07-01,211,3,4.3,26,221.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-07-01,179,5,4.6,35,231.5,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-07-01,144,13,3.9,31,280.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-07-01,155,9,4.4,18,255.5,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-07-01,154,3,2.5,38,157.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-07-01,150,4,2.2,15,159.0,0.0,Stabil
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-07-01,185,3,4.5,1,262.5,0.0,Stabil
+1148,Andrei P.,IT,Mid,Sibiu,2023-07-01,204,4,2.2,22,186.0,0.8,Risc Ridicat
+1149,Ana S.,Vanzari,Junior,Constanta,2023-07-01,214,14,1.5,24,277.0,0.8,Risc Ridicat
+1150,Elena D.,Marketing,Senior,Iasi,2023-07-01,161,10,3.2,35,294.5,0.0,Stabil
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-07-01,207,1,4.4,7,201.5,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-07-01,179,13,4.3,27,305.5,0.0,Potential
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-07-01,177,6,3.3,16,264.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-07-01,237,6,2.3,38,224.5,0.8,Risc Ridicat
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-07-01,245,7,1.5,29,222.5,0.8,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-07-01,170,7,3.4,19,223.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-07-01,241,12,2.8,36,296.5,0.8,Risc Ridicat
+1158,Ana S.,IT,Junior,Bucuresti,2023-07-01,182,13,1.2,13,245.0,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-07-01,140,6,2.8,35,186.0,0.0,Stabil
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-07-01,174,12,2.0,19,247.0,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-07-01,257,4,1.8,29,204.5,0.8,Risc Ridicat
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-07-01,153,8,3.3,27,222.5,0.0,Stabil
+1163,Cristina D.,IT,Senior,Timisoara,2023-07-01,182,14,4.6,10,373.0,0.0,Potential
+1164,George R.,HR,Mid,Sibiu,2023-07-01,197,7,3.5,2,238.5,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-07-01,229,4,2.3,17,250.5,1.0,Risc Ridicat
+1166,Elena D.,IT,Junior,Sibiu,2023-07-01,207,1,2.6,10,165.5,1.0,Risc Ridicat
+1167,Maria I.,HR,Junior,Iasi,2023-07-01,230,13,3.9,38,323.0,0.0,Potential
+1168,Ana S.,HR,Junior,Bucuresti,2023-07-01,252,13,3.9,19,334.0,0.0,Potential
+1169,George R.,HR,Junior,Iasi,2023-07-01,230,2,4.7,28,229.0,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-07-01,189,8,3.6,5,296.5,0.0,Stabil
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-07-01,234,13,2.3,25,293.0,0.8,Risc Ridicat
+1172,George R.,HR,Junior,Bucuresti,2023-07-01,251,11,5.0,9,335.5,0.0,Potential
+1173,Andrei P.,IT,Mid,Brasov,2023-07-01,171,13,2.5,23,265.5,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-07-01,170,11,2.5,21,295.0,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-07-01,238,9,4.5,2,299.0,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-07-01,207,6,1.1,33,185.5,0.8,Risc Ridicat
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-07-01,154,13,3.8,28,283.0,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-07-01,211,9,4.6,39,287.5,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-07-01,195,11,3.0,9,267.5,0.0,Stabil
+1180,Mihai O.,HR,Mid,Iasi,2023-07-01,151,2,4.1,10,177.5,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-07-01,212,10,3.6,17,278.0,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-07-01,219,8,3.4,19,257.5,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-07-01,243,5,2.8,17,277.5,1.0,Risc Ridicat
+1184,Mihai O.,Marketing,Senior,Brasov,2023-07-01,171,9,4.3,36,311.5,0.0,Potential
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-07-01,179,11,1.0,31,219.5,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-07-01,142,3,1.9,8,139.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-07-01,169,12,4.9,9,302.5,0.0,Potential
+1188,Andrei P.,HR,Junior,Constanta,2023-07-01,187,6,2.2,29,197.5,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-07-01,225,14,3.8,3,328.5,0.0,Potential
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-07-01,140,13,3.2,19,314.0,0.0,Potential
+1191,Maria I.,HR,Mid,Constanta,2023-07-01,153,3,3.3,38,172.5,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-07-01,228,13,1.5,35,274.0,0.8,Risc Ridicat
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-07-01,168,2,2.5,33,154.0,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-07-01,156,11,4.5,0,278.0,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-07-01,177,3,2.6,13,170.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-07-01,167,1,4.3,13,179.5,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-07-01,226,10,1.7,21,247.0,0.8,Risc Ridicat
+1198,Mihai O.,HR,Mid,Timisoara,2023-07-01,147,6,2.6,6,185.5,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-07-01,142,14,4.7,13,305.0,0.0,Potential
+1000,Cristina D.,Marketing,Junior,Iasi,2023-08-01,231,11,3.8,22,301.5,0.0,Potential
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-08-01,202,12,1.6,16,253.0,1.0,Risc Ridicat
+1002,Elena D.,IT,Senior,Constanta,2023-08-01,229,8,3.8,2,320.5,0.0,Potential
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-08-01,174,4,4.1,2,209.0,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-08-01,252,14,2.6,10,318.0,1.0,Risc Ridicat
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-08-01,235,9,2.2,14,251.5,1.0,Risc Ridicat
+1006,Maria I.,Marketing,Mid,Sibiu,2023-08-01,251,11,1.1,12,257.5,1.0,Risc Ridicat
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-08-01,244,4,1.3,3,238.0,1.0,Risc Ridicat
+1008,Mihai O.,HR,Mid,Brasov,2023-08-01,175,6,2.7,1,201.5,0.0,Stabil
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-08-01,142,14,2.0,0,251.0,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-08-01,148,11,1.8,34,220.0,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-08-01,230,7,2.4,21,283.0,0.8,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-08-01,242,10,3.2,12,285.0,0.0,Stabil
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-08-01,187,14,2.5,26,283.5,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-08-01,182,14,2.5,30,281.0,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-08-01,203,2,1.9,22,159.5,0.8,Risc Ridicat
+1016,Maria I.,HR,Mid,Brasov,2023-08-01,190,14,3.7,8,309.0,0.0,Potential
+1017,Maria I.,Marketing,Mid,Sibiu,2023-08-01,212,7,2.9,19,234.0,1.0,Risc Ridicat
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-08-01,213,4,2.2,8,190.5,1.0,Risc Ridicat
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-08-01,195,1,1.4,8,135.5,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-08-01,247,5,3.8,16,299.5,0.0,Stabil
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-08-01,186,4,1.0,6,153.0,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-08-01,181,4,5.0,27,230.5,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-08-01,219,3,4.1,24,271.5,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-08-01,199,3,2.5,33,229.5,0.0,Stabil
+1025,Maria I.,IT,Mid,Iasi,2023-08-01,227,13,3.2,37,307.5,0.0,Potential
+1026,Ana S.,Marketing,Senior,Iasi,2023-08-01,235,13,4.1,32,379.5,0.0,Potential
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-08-01,184,1,1.2,22,126.0,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-08-01,211,10,4.0,6,285.5,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-08-01,224,10,4.4,34,300.0,0.0,Stabil
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-08-01,155,5,2.0,1,167.5,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-08-01,204,3,2.3,33,178.0,0.8,Risc Ridicat
+1032,George R.,IT,Mid,Constanta,2023-08-01,166,10,4.9,2,281.0,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-08-01,241,10,2.3,27,266.5,0.8,Risc Ridicat
+1034,George R.,Vanzari,Junior,Brasov,2023-08-01,214,3,3.6,38,209.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-08-01,201,7,4.3,1,306.5,0.0,Potential
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-08-01,162,10,4.5,15,271.0,0.0,Stabil
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-08-01,252,11,2.9,37,294.0,0.8,Risc Ridicat
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-08-01,245,5,3.4,36,240.5,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-08-01,191,10,3.4,0,263.5,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-08-01,158,12,4.7,27,343.0,0.0,Potential
+1041,Elena D.,HR,Junior,Brasov,2023-08-01,150,7,1.3,23,171.0,0.0,Stabil
+1042,Andrei P.,IT,Senior,Iasi,2023-08-01,140,14,4.9,29,358.0,0.0,Potential
+1043,Andrei P.,IT,Junior,Iasi,2023-08-01,217,11,4.7,3,312.5,0.0,Potential
+1044,Ana S.,HR,Senior,Brasov,2023-08-01,171,5,2.1,22,227.5,0.0,Stabil
+1045,Andrei P.,IT,Senior,Timisoara,2023-08-01,254,7,3.1,37,309.0,0.0,Potential
+1046,George R.,IT,Senior,Brasov,2023-08-01,208,3,3.9,24,262.0,0.0,Stabil
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-08-01,250,2,2.2,28,189.0,0.8,Risc Ridicat
+1048,Andrei P.,IT,Senior,Constanta,2023-08-01,210,12,2.0,16,315.0,1.0,Risc Ridicat
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-08-01,256,5,3.0,39,238.0,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-08-01,167,2,4.3,14,189.5,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-08-01,234,3,2.0,31,187.0,0.8,Risc Ridicat
+1052,Ana S.,HR,Senior,Timisoara,2023-08-01,147,4,3.9,24,241.5,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-08-01,198,2,2.0,18,159.0,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-08-01,231,9,2.8,17,311.5,1.0,Risc Ridicat
+1055,George R.,HR,Junior,Brasov,2023-08-01,171,12,2.5,10,255.5,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-08-01,160,11,3.6,28,262.0,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-08-01,154,1,1.8,39,123.0,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-08-01,256,4,4.0,26,298.0,0.0,Stabil
+1059,Elena D.,IT,Junior,Bucuresti,2023-08-01,221,5,4.6,26,252.5,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-08-01,189,6,4.1,32,286.5,0.0,Stabil
+1061,Elena D.,Marketing,Junior,Iasi,2023-08-01,234,12,1.7,0,271.0,1.0,Risc Ridicat
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-08-01,165,1,1.7,4,176.5,0.0,Stabil
+1063,Cristina D.,HR,Senior,Sibiu,2023-08-01,177,14,4.4,17,366.5,0.0,Potential
+1064,Maria I.,HR,Mid,Bucuresti,2023-08-01,185,6,2.3,2,198.5,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-08-01,214,2,2.7,28,181.0,0.8,Risc Ridicat
+1066,Ion V.,IT,Junior,Brasov,2023-08-01,176,3,3.2,26,182.0,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-08-01,194,10,1.2,15,221.0,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-08-01,236,11,2.6,36,280.0,0.8,Risc Ridicat
+1069,Ana S.,HR,Senior,Iasi,2023-08-01,159,12,4.3,14,335.5,0.0,Potential
+1070,Elena D.,HR,Junior,Constanta,2023-08-01,222,14,4.2,23,335.0,0.0,Potential
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-08-01,251,12,4.3,11,331.5,0.0,Potential
+1072,Mihai O.,IT,Mid,Iasi,2023-08-01,198,7,3.3,0,235.0,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-08-01,233,7,2.5,26,236.5,0.8,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-08-01,176,6,1.3,1,174.0,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-08-01,254,9,2.8,0,323.0,1.0,Risc Ridicat
+1076,Ion V.,HR,Mid,Bucuresti,2023-08-01,145,5,3.5,30,192.5,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-08-01,175,5,2.1,15,179.5,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-08-01,221,13,1.2,22,264.5,0.8,Risc Ridicat
+1079,Elena D.,Marketing,Mid,Timisoara,2023-08-01,223,13,3.3,6,307.5,0.0,Potential
+1080,Ion V.,Marketing,Junior,Iasi,2023-08-01,188,5,3.6,1,216.0,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-08-01,186,1,2.6,13,155.0,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-08-01,233,9,1.5,24,236.5,0.8,Risc Ridicat
+1083,George R.,Marketing,Mid,Sibiu,2023-08-01,189,13,3.4,30,292.5,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-08-01,178,1,4.9,1,197.0,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-08-01,160,5,2.9,32,188.0,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-08-01,168,14,4.4,5,312.0,0.0,Potential
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-08-01,180,6,3.8,20,226.0,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-08-01,244,10,1.8,31,258.0,0.8,Risc Ridicat
+1089,Ana S.,Marketing,Mid,Timisoara,2023-08-01,181,5,2.8,34,196.5,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-08-01,196,12,2.9,23,326.0,0.0,Potential
+1091,Cristina D.,HR,Mid,Brasov,2023-08-01,197,12,4.9,32,316.5,0.0,Potential
+1092,Maria I.,HR,Junior,Iasi,2023-08-01,140,4,1.6,14,142.0,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-08-01,174,5,1.3,15,163.0,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-08-01,250,4,3.1,11,227.0,0.0,Stabil
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-08-01,176,11,1.9,38,236.0,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-08-01,244,9,4.3,13,298.0,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-08-01,257,10,2.0,16,318.5,1.0,Risc Ridicat
+1098,Andrei P.,IT,Senior,Brasov,2023-08-01,159,11,2.4,16,287.5,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-08-01,195,8,4.7,18,271.5,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-08-01,196,5,3.8,31,224.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-08-01,221,6,2.0,12,210.5,1.0,Risc Ridicat
+1102,Ana S.,Marketing,Mid,Constanta,2023-08-01,163,14,2.1,13,263.5,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-08-01,247,1,1.5,14,213.5,1.0,Risc Ridicat
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-08-01,245,4,1.2,29,186.5,0.8,Risc Ridicat
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-08-01,257,10,4.3,10,314.5,0.0,Potential
+1106,George R.,Marketing,Mid,Brasov,2023-08-01,235,7,4.1,3,269.5,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-08-01,242,3,3.7,17,225.0,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-08-01,240,4,2.3,35,256.0,0.8,Risc Ridicat
+1109,George R.,Marketing,Junior,Iasi,2023-08-01,256,7,4.4,33,286.0,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-08-01,249,4,1.1,1,186.5,1.0,Risc Ridicat
+1111,Ion V.,IT,Junior,Bucuresti,2023-08-01,219,4,1.9,1,187.5,1.0,Risc Ridicat
+1112,Cristina D.,IT,Mid,Iasi,2023-08-01,153,8,4.6,28,248.5,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-08-01,179,7,4.0,16,239.5,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-08-01,167,4,4.9,31,271.5,0.0,Stabil
+1115,Ion V.,Marketing,Senior,Sibiu,2023-08-01,142,5,1.7,13,205.0,0.0,Stabil
+1116,Elena D.,HR,Junior,Brasov,2023-08-01,145,7,3.6,37,214.5,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-08-01,205,10,3.7,25,276.5,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-08-01,253,3,3.4,3,274.5,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-08-01,175,9,2.4,37,225.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-08-01,254,11,2.2,15,281.0,1.0,Risc Ridicat
+1121,Cristina D.,IT,Mid,Timisoara,2023-08-01,204,6,2.2,33,206.0,0.8,Risc Ridicat
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-08-01,247,2,3.0,8,253.5,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-08-01,253,12,1.4,21,274.5,0.8,Risc Ridicat
+1124,Ana S.,Vanzari,Mid,Constanta,2023-08-01,251,13,2.3,24,301.5,0.8,Risc Ridicat
+1125,Maria I.,Marketing,Junior,Iasi,2023-08-01,243,2,3.5,25,211.5,0.0,Stabil
+1126,Elena D.,Marketing,Junior,Constanta,2023-08-01,199,11,3.2,35,273.5,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-08-01,141,3,1.6,4,182.5,0.0,Stabil
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-08-01,208,6,4.9,37,262.0,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-08-01,202,6,2.7,29,265.0,0.8,Risc Ridicat
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-08-01,149,2,3.8,33,170.5,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-08-01,183,13,3.5,30,291.5,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-08-01,174,7,2.5,15,257.0,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-08-01,214,5,1.3,26,183.0,0.8,Risc Ridicat
+1134,Mihai O.,IT,Junior,Sibiu,2023-08-01,231,13,2.6,28,297.5,0.8,Risc Ridicat
+1135,George R.,IT,Junior,Cluj-Napoca,2023-08-01,159,1,2.3,5,135.5,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-08-01,147,5,2.1,36,215.5,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-08-01,186,6,4.8,34,249.0,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-08-01,149,5,3.7,8,198.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-08-01,210,4,4.1,21,227.0,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-08-01,188,7,4.3,20,250.0,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-08-01,167,6,3.6,20,215.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-08-01,214,1,4.1,27,199.0,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-08-01,156,5,4.2,22,212.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-08-01,258,14,1.8,21,305.0,0.8,Risc Ridicat
+1145,Mihai O.,Marketing,Mid,Constanta,2023-08-01,152,1,4.9,30,184.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-08-01,141,3,1.8,18,136.5,0.0,Stabil
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-08-01,199,14,4.4,10,377.5,0.0,Potential
+1148,Andrei P.,IT,Mid,Sibiu,2023-08-01,168,8,1.0,3,184.0,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-08-01,249,10,1.0,20,244.5,1.0,Risc Ridicat
+1150,Elena D.,Marketing,Senior,Iasi,2023-08-01,205,10,1.5,5,282.5,1.0,Risc Ridicat
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-08-01,184,13,2.2,35,266.0,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-08-01,259,2,3.4,13,217.5,0.0,Stabil
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-08-01,205,3,3.6,24,254.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-08-01,183,1,4.6,39,193.5,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-08-01,259,5,2.0,3,219.5,1.0,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-08-01,184,5,1.4,21,170.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-08-01,248,3,2.0,28,194.0,0.8,Risc Ridicat
+1158,Ana S.,IT,Junior,Bucuresti,2023-08-01,188,1,1.0,29,124.0,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-08-01,178,4,4.9,6,227.0,0.0,Stabil
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-08-01,143,4,1.4,14,139.5,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-08-01,237,6,4.9,5,276.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-08-01,165,12,3.1,32,264.5,0.0,Stabil
+1163,Cristina D.,IT,Senior,Timisoara,2023-08-01,180,13,1.7,10,304.0,0.0,Potential
+1164,George R.,HR,Mid,Sibiu,2023-08-01,184,10,1.4,33,220.0,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-08-01,241,13,1.3,37,326.5,0.8,Risc Ridicat
+1166,Elena D.,IT,Junior,Sibiu,2023-08-01,178,5,1.7,11,173.0,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-08-01,213,13,1.9,26,274.5,0.8,Risc Ridicat
+1168,Ana S.,HR,Junior,Bucuresti,2023-08-01,253,13,4.2,12,340.5,0.0,Potential
+1169,George R.,HR,Junior,Iasi,2023-08-01,236,14,3.6,21,330.0,0.0,Potential
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-08-01,239,9,4.1,17,341.5,0.0,Potential
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-08-01,241,7,4.9,8,288.5,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-08-01,218,3,3.3,18,205.0,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-08-01,235,9,3.8,30,283.5,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-08-01,181,5,2.2,24,234.5,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-08-01,172,1,2.3,36,142.0,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-08-01,236,7,3.8,8,264.0,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-08-01,170,9,4.0,11,255.0,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-08-01,154,1,3.5,23,157.0,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-08-01,215,1,2.4,13,165.5,1.0,Risc Ridicat
+1180,Mihai O.,HR,Mid,Iasi,2023-08-01,227,8,1.7,28,227.5,0.8,Risc Ridicat
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-08-01,141,9,4.3,30,246.5,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-08-01,158,6,3.6,0,211.0,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-08-01,152,12,3.0,33,306.0,0.0,Potential
+1184,Mihai O.,Marketing,Senior,Brasov,2023-08-01,242,1,2.4,24,229.0,0.8,Risc Ridicat
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-08-01,213,4,1.1,30,168.5,0.8,Risc Ridicat
+1186,Ana S.,IT,Junior,Timisoara,2023-08-01,169,2,1.5,7,134.5,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-08-01,191,12,1.7,6,249.5,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-08-01,220,8,2.5,29,240.0,0.8,Risc Ridicat
+1189,Ion V.,IT,Mid,Brasov,2023-08-01,243,13,2.3,29,297.5,0.8,Risc Ridicat
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-08-01,203,8,4.6,25,323.5,0.0,Potential
+1191,Maria I.,HR,Mid,Constanta,2023-08-01,192,1,3.0,11,166.0,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-08-01,204,7,2.7,34,226.0,0.8,Risc Ridicat
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-08-01,243,3,2.3,12,197.5,1.0,Risc Ridicat
+1194,Cristina D.,IT,Junior,Constanta,2023-08-01,161,6,4.5,7,230.5,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-08-01,141,13,1.8,19,236.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-08-01,158,8,2.0,24,199.0,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-08-01,189,2,1.4,28,142.5,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-08-01,179,12,1.7,26,243.5,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-08-01,202,8,1.5,38,211.0,0.8,Risc Ridicat
+1000,Cristina D.,Marketing,Junior,Iasi,2023-09-01,208,4,2.8,0,200.0,1.0,Risc Ridicat
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-09-01,203,7,2.2,31,215.5,0.8,Risc Ridicat
+1002,Elena D.,IT,Senior,Constanta,2023-09-01,238,3,3.0,31,259.0,0.0,Stabil
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-09-01,176,4,4.8,32,224.0,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-09-01,196,10,4.7,1,292.0,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-09-01,192,14,4.7,34,330.0,0.0,Potential
+1006,Maria I.,Marketing,Mid,Sibiu,2023-09-01,192,3,2.3,22,172.0,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-09-01,189,3,2.9,1,232.5,0.0,Stabil
+1008,Mihai O.,HR,Mid,Brasov,2023-09-01,244,14,2.4,39,310.0,0.8,Risc Ridicat
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-09-01,252,4,2.9,26,224.0,0.8,Risc Ridicat
+1010,Ion V.,Marketing,Junior,Sibiu,2023-09-01,155,10,3.3,24,243.5,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-09-01,149,9,1.1,18,236.5,0.0,Stabil
+1012,Ion V.,HR,Junior,Brasov,2023-09-01,180,6,1.3,11,176.0,0.0,Stabil
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-09-01,162,10,4.8,9,277.0,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-09-01,163,7,2.4,9,199.5,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-09-01,185,1,2.6,22,154.5,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-09-01,165,7,1.2,37,176.5,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-09-01,236,10,3.1,37,280.0,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-09-01,232,3,4.4,10,234.0,0.0,Stabil
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-09-01,203,5,3.6,35,223.5,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-09-01,252,8,2.5,4,306.0,1.0,Risc Ridicat
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-09-01,221,12,4.5,36,320.5,0.0,Potential
+1022,Ion V.,HR,Mid,Bucuresti,2023-09-01,164,13,4.9,25,310.0,0.0,Potential
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-09-01,208,3,4.4,13,272.0,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-09-01,234,10,2.5,28,317.0,0.8,Risc Ridicat
+1025,Maria I.,IT,Mid,Iasi,2023-09-01,183,14,3.0,10,291.5,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-09-01,256,5,2.1,11,270.0,1.0,Risc Ridicat
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-09-01,204,13,4.5,5,322.0,0.0,Potential
+1028,George R.,Marketing,Mid,Brasov,2023-09-01,164,6,2.6,25,194.0,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-09-01,237,9,2.3,10,254.5,1.0,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-09-01,249,1,3.2,4,198.5,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-09-01,239,5,1.4,12,197.5,1.0,Risc Ridicat
+1032,George R.,IT,Mid,Constanta,2023-09-01,178,7,4.0,27,239.0,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-09-01,253,9,1.7,33,250.5,0.8,Risc Ridicat
+1034,George R.,Vanzari,Junior,Brasov,2023-09-01,157,12,1.4,11,226.5,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-09-01,157,12,4.0,33,328.5,0.0,Potential
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-09-01,155,14,4.5,35,307.5,0.0,Potential
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-09-01,222,2,3.1,19,193.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-09-01,158,3,4.5,22,199.0,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-09-01,151,2,3.9,28,173.5,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-09-01,169,5,2.1,7,226.5,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-09-01,151,4,2.3,35,161.5,0.0,Stabil
+1042,Andrei P.,IT,Senior,Iasi,2023-09-01,211,6,3.0,35,275.5,0.0,Stabil
+1043,Andrei P.,IT,Junior,Iasi,2023-09-01,215,8,4.5,10,277.5,0.0,Stabil
+1044,Ana S.,HR,Senior,Brasov,2023-09-01,176,13,2.7,29,322.0,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-09-01,165,9,1.0,33,242.5,0.0,Stabil
+1046,George R.,IT,Senior,Brasov,2023-09-01,184,14,1.4,15,310.0,0.0,Potential
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-09-01,201,1,1.3,35,136.5,0.8,Risc Ridicat
+1048,Andrei P.,IT,Senior,Constanta,2023-09-01,168,5,4.9,39,282.0,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-09-01,175,10,3.0,25,247.5,0.0,Stabil
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-09-01,170,14,2.9,25,283.0,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-09-01,197,6,1.3,19,184.5,0.0,Stabil
+1052,Ana S.,HR,Senior,Timisoara,2023-09-01,149,7,4.2,26,278.5,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-09-01,242,4,1.4,15,189.0,1.0,Risc Ridicat
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-09-01,230,6,4.2,0,309.0,0.0,Potential
+1055,George R.,HR,Junior,Brasov,2023-09-01,149,13,2.4,31,252.5,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-09-01,161,14,4.6,24,312.5,0.0,Potential
+1057,Maria I.,Marketing,Mid,Brasov,2023-09-01,172,11,3.5,15,266.0,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-09-01,155,3,3.3,31,223.5,0.0,Stabil
+1059,Elena D.,IT,Junior,Bucuresti,2023-09-01,206,7,3.7,18,247.0,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-09-01,219,1,1.7,27,203.5,0.8,Risc Ridicat
+1061,Elena D.,Marketing,Junior,Iasi,2023-09-01,244,3,4.7,34,246.0,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-09-01,164,11,3.5,16,312.0,0.0,Potential
+1063,Cristina D.,HR,Senior,Sibiu,2023-09-01,205,14,4.8,36,388.5,0.0,Potential
+1064,Maria I.,HR,Mid,Bucuresti,2023-09-01,162,9,4.3,7,257.0,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-09-01,254,2,3.7,2,221.0,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-09-01,219,2,2.1,2,171.5,1.0,Risc Ridicat
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-09-01,253,13,2.2,26,300.5,0.8,Risc Ridicat
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-09-01,205,4,4.9,33,240.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-09-01,222,11,2.1,25,313.0,0.8,Risc Ridicat
+1070,Elena D.,HR,Junior,Constanta,2023-09-01,180,11,1.6,22,232.0,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-09-01,237,4,1.3,37,184.5,0.8,Risc Ridicat
+1072,Mihai O.,IT,Mid,Iasi,2023-09-01,235,10,2.7,27,271.5,0.8,Risc Ridicat
+1073,Ion V.,HR,Junior,Brasov,2023-09-01,195,10,2.0,38,237.5,0.0,Stabil
+1074,Ion V.,Marketing,Mid,Brasov,2023-09-01,240,2,1.1,2,162.0,1.0,Risc Ridicat
+1075,Maria I.,Marketing,Senior,Iasi,2023-09-01,245,1,3.0,1,242.5,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-09-01,249,6,1.6,35,216.5,0.8,Risc Ridicat
+1077,Ana S.,Vanzari,Mid,Constanta,2023-09-01,211,13,3.6,0,307.5,0.0,Potential
+1078,Maria I.,Marketing,Mid,Timisoara,2023-09-01,251,6,4.0,27,265.5,0.0,Stabil
+1079,Elena D.,Marketing,Mid,Timisoara,2023-09-01,205,12,2.2,22,266.5,0.8,Risc Ridicat
+1080,Ion V.,Marketing,Junior,Iasi,2023-09-01,170,10,2.8,12,241.0,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-09-01,174,5,3.1,24,199.0,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-09-01,252,7,3.9,32,274.0,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-09-01,175,2,3.3,6,173.5,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-09-01,178,2,3.8,18,185.0,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-09-01,211,8,4.7,20,279.5,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-09-01,148,11,2.0,24,224.0,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-09-01,151,13,1.8,0,241.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-09-01,195,13,4.8,4,323.5,0.0,Potential
+1089,Ana S.,Marketing,Mid,Timisoara,2023-09-01,187,6,2.8,14,209.5,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-09-01,246,6,2.3,28,279.0,0.8,Risc Ridicat
+1091,Cristina D.,HR,Mid,Brasov,2023-09-01,152,1,3.7,30,160.0,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-09-01,148,8,3.2,3,218.0,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-09-01,191,2,2.7,18,169.5,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-09-01,205,10,3.0,13,262.5,0.0,Stabil
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-09-01,175,9,1.2,18,201.5,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-09-01,185,3,3.3,3,188.5,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-09-01,162,8,3.6,3,283.0,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-09-01,190,2,3.3,9,231.0,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-09-01,219,4,1.0,18,169.5,1.0,Risc Ridicat
+1100,Cristina D.,Marketing,Junior,Iasi,2023-09-01,160,12,1.8,15,236.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-09-01,151,10,1.5,15,205.5,0.0,Stabil
+1102,Ana S.,Marketing,Mid,Constanta,2023-09-01,161,7,3.2,32,214.5,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-09-01,247,10,4.6,5,365.5,0.0,Potential
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-09-01,158,11,2.0,36,229.0,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-09-01,164,7,1.5,32,182.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-09-01,234,5,4.6,22,259.0,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-09-01,195,3,2.2,1,171.5,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-09-01,248,9,1.8,36,300.0,0.8,Risc Ridicat
+1109,George R.,Marketing,Junior,Iasi,2023-09-01,207,3,2.9,33,191.5,0.8,Risc Ridicat
+1110,Elena D.,Marketing,Junior,Constanta,2023-09-01,177,5,3.0,34,198.5,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-09-01,233,14,2.5,0,306.5,1.0,Risc Ridicat
+1112,Cristina D.,IT,Mid,Iasi,2023-09-01,234,3,2.5,2,197.0,1.0,Risc Ridicat
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-09-01,211,3,2.5,33,185.5,0.8,Risc Ridicat
+1114,George R.,Marketing,Senior,Constanta,2023-09-01,231,12,1.8,22,321.5,0.8,Risc Ridicat
+1115,Ion V.,Marketing,Senior,Sibiu,2023-09-01,247,5,1.6,35,255.5,0.8,Risc Ridicat
+1116,Elena D.,HR,Junior,Brasov,2023-09-01,251,7,3.7,5,269.5,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-09-01,206,4,1.7,12,177.0,1.0,Risc Ridicat
+1118,Cristina D.,Marketing,Senior,Iasi,2023-09-01,219,11,3.1,19,331.5,0.0,Potential
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-09-01,210,6,1.3,17,191.0,1.0,Risc Ridicat
+1120,Maria I.,HR,Junior,Iasi,2023-09-01,220,1,4.2,34,204.0,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-09-01,203,7,3.7,22,245.5,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-09-01,159,6,1.2,22,213.5,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-09-01,142,3,3.3,39,167.0,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-09-01,252,1,1.4,26,164.0,0.8,Risc Ridicat
+1125,Maria I.,Marketing,Junior,Iasi,2023-09-01,140,1,2.8,38,136.0,0.0,Stabil
+1126,Elena D.,Marketing,Junior,Constanta,2023-09-01,252,2,4.2,7,230.0,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-09-01,239,12,4.1,10,371.5,0.0,Potential
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-09-01,141,5,2.2,39,164.5,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-09-01,249,4,2.1,16,256.5,1.0,Risc Ridicat
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-09-01,189,7,3.7,33,238.5,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-09-01,170,4,1.7,33,159.0,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-09-01,206,10,4.3,14,339.0,0.0,Potential
+1133,Maria I.,Marketing,Junior,Timisoara,2023-09-01,160,11,3.1,20,252.0,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-09-01,195,7,4.0,31,247.5,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-09-01,248,8,3.7,23,278.0,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-09-01,209,6,2.9,5,272.5,1.0,Risc Ridicat
+1137,Elena D.,IT,Mid,Constanta,2023-09-01,255,13,4.0,6,337.5,0.0,Potential
+1138,Maria I.,Marketing,Mid,Constanta,2023-09-01,229,6,2.4,19,222.5,1.0,Risc Ridicat
+1139,Maria I.,Marketing,Mid,Brasov,2023-09-01,209,4,3.2,38,208.5,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-09-01,148,2,1.7,1,128.0,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-09-01,190,2,3.8,18,191.0,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-09-01,221,9,1.7,3,234.5,1.0,Risc Ridicat
+1143,Mihai O.,HR,Junior,Sibiu,2023-09-01,190,8,4.9,24,273.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-09-01,199,4,2.1,17,181.5,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-09-01,196,5,1.6,29,180.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-09-01,251,14,2.9,31,323.5,0.8,Risc Ridicat
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-09-01,215,1,3.2,10,231.5,0.0,Stabil
+1148,Andrei P.,IT,Mid,Sibiu,2023-09-01,191,8,3.1,33,237.5,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-09-01,159,3,1.7,25,143.5,0.0,Stabil
+1150,Elena D.,Marketing,Senior,Iasi,2023-09-01,194,3,4.2,10,261.0,0.0,Stabil
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-09-01,223,1,3.4,10,189.5,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-09-01,145,14,1.3,24,238.5,0.0,Stabil
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-09-01,163,6,2.2,2,235.5,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-09-01,164,13,4.6,5,304.0,0.0,Potential
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-09-01,199,9,3.6,32,261.5,0.0,Stabil
+1156,Mihai O.,IT,Junior,Sibiu,2023-09-01,168,14,3.3,19,290.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-09-01,161,13,2.2,9,254.5,0.0,Stabil
+1158,Ana S.,IT,Junior,Bucuresti,2023-09-01,180,5,2.0,20,180.0,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-09-01,243,8,1.6,26,233.5,0.8,Risc Ridicat
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-09-01,203,3,4.3,22,217.5,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-09-01,169,11,5.0,38,294.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-09-01,230,8,1.1,34,217.0,0.8,Risc Ridicat
+1163,Cristina D.,IT,Senior,Timisoara,2023-09-01,223,10,1.7,20,295.5,1.0,Risc Ridicat
+1164,George R.,HR,Mid,Sibiu,2023-09-01,181,12,1.1,6,232.5,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-09-01,146,12,2.9,13,301.0,0.0,Potential
+1166,Elena D.,IT,Junior,Sibiu,2023-09-01,184,12,1.7,21,246.0,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-09-01,195,7,1.6,6,199.5,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-09-01,250,11,1.8,3,271.0,1.0,Risc Ridicat
+1169,George R.,HR,Junior,Iasi,2023-09-01,178,12,4.8,34,305.0,0.0,Potential
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-09-01,185,9,2.0,14,272.5,0.0,Stabil
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-09-01,256,7,4.3,14,284.0,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-09-01,248,6,1.2,22,208.0,0.8,Risc Ridicat
+1173,Andrei P.,IT,Mid,Brasov,2023-09-01,248,7,1.3,8,220.0,1.0,Risc Ridicat
+1174,Cristina D.,HR,Senior,Constanta,2023-09-01,213,9,2.7,29,300.5,0.8,Risc Ridicat
+1175,Mihai O.,HR,Junior,Constanta,2023-09-01,246,12,4.0,15,323.0,0.0,Potential
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-09-01,227,7,3.0,33,243.5,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-09-01,175,4,4.9,20,225.5,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-09-01,141,2,3.5,28,160.5,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-09-01,180,9,4.9,14,278.0,0.0,Stabil
+1180,Mihai O.,HR,Mid,Iasi,2023-09-01,184,12,2.7,8,266.0,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-09-01,236,7,2.5,17,238.0,1.0,Risc Ridicat
+1182,George R.,Vanzari,Mid,Brasov,2023-09-01,229,3,1.9,15,182.5,1.0,Risc Ridicat
+1183,Maria I.,Vanzari,Senior,Brasov,2023-09-01,147,5,3.5,18,243.5,0.0,Stabil
+1184,Mihai O.,Marketing,Senior,Brasov,2023-09-01,181,8,1.9,8,258.5,0.0,Stabil
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-09-01,259,3,2.1,33,201.5,0.8,Risc Ridicat
+1186,Ana S.,IT,Junior,Timisoara,2023-09-01,152,12,3.3,36,262.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-09-01,257,6,3.5,36,258.5,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-09-01,219,3,3.8,35,215.5,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-09-01,155,14,3.4,13,285.5,0.0,Stabil
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-09-01,198,2,1.6,27,201.0,0.0,Stabil
+1191,Maria I.,HR,Mid,Constanta,2023-09-01,214,9,1.6,19,229.0,1.0,Risc Ridicat
+1192,Ion V.,Vanzari,Mid,Brasov,2023-09-01,216,7,1.7,3,212.0,1.0,Risc Ridicat
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-09-01,229,6,2.0,36,214.5,0.8,Risc Ridicat
+1194,Cristina D.,IT,Junior,Constanta,2023-09-01,160,3,1.6,31,142.0,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-09-01,251,5,4.3,6,261.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-09-01,216,8,4.8,11,284.0,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-09-01,236,2,1.8,28,174.0,0.8,Risc Ridicat
+1198,Mihai O.,HR,Mid,Timisoara,2023-09-01,230,5,3.9,22,243.0,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-09-01,201,6,3.9,38,238.5,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-10-01,182,14,3.9,9,309.0,0.0,Potential
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-10-01,226,14,4.5,35,343.0,0.0,Potential
+1002,Elena D.,IT,Senior,Constanta,2023-10-01,175,1,2.3,33,193.5,0.0,Stabil
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-10-01,219,10,3.4,16,277.5,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-10-01,151,14,1.6,12,247.5,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-10-01,205,13,3.3,12,298.5,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-10-01,149,12,3.6,30,266.5,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-10-01,143,5,3.5,3,241.5,0.0,Stabil
+1008,Mihai O.,HR,Mid,Brasov,2023-10-01,250,3,1.0,29,175.0,0.8,Risc Ridicat
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-10-01,164,6,4.5,34,232.0,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-10-01,209,11,3.1,11,276.5,0.0,Stabil
+1011,George R.,Vanzari,Senior,Brasov,2023-10-01,259,2,1.5,8,229.5,1.0,Risc Ridicat
+1012,Ion V.,HR,Junior,Brasov,2023-10-01,191,6,1.3,25,181.5,0.0,Stabil
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-10-01,250,8,4.1,14,287.0,0.0,Stabil
+1014,Mihai O.,IT,Mid,Constanta,2023-10-01,175,3,1.3,25,143.5,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-10-01,187,10,4.4,22,281.5,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-10-01,216,3,3.3,23,204.0,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-10-01,238,1,3.6,19,201.0,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-10-01,195,2,2.4,1,165.5,0.0,Stabil
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-10-01,236,13,2.5,2,298.0,1.0,Risc Ridicat
+1020,Andrei P.,Marketing,Senior,Iasi,2023-10-01,189,6,1.3,14,230.5,0.0,Stabil
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-10-01,192,13,2.2,22,270.0,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-10-01,162,14,3.3,4,287.0,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-10-01,227,11,3.6,33,345.5,0.0,Potential
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-10-01,202,12,3.7,6,345.0,0.0,Potential
+1025,Maria I.,IT,Mid,Iasi,2023-10-01,199,7,3.0,10,229.5,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-10-01,181,4,1.8,28,216.5,0.0,Stabil
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-10-01,157,10,4.7,31,272.5,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-10-01,191,11,4.2,0,289.5,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-10-01,230,10,2.5,13,265.0,1.0,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-10-01,164,3,3.9,4,190.0,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-10-01,155,8,1.5,38,187.5,0.0,Stabil
+1032,George R.,IT,Mid,Constanta,2023-10-01,253,14,1.3,31,292.5,0.8,Risc Ridicat
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-10-01,195,7,1.9,19,205.5,0.0,Stabil
+1034,George R.,Vanzari,Junior,Brasov,2023-10-01,229,11,4.5,3,314.5,0.0,Potential
+1035,Maria I.,Marketing,Senior,Iasi,2023-10-01,212,10,4.0,18,336.0,0.0,Potential
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-10-01,234,6,1.9,30,215.0,0.8,Risc Ridicat
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-10-01,188,9,3.6,3,256.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-10-01,199,5,3.2,28,213.5,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-10-01,215,9,4.2,10,281.5,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-10-01,154,9,1.3,21,243.0,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-10-01,227,8,1.4,29,221.5,0.8,Risc Ridicat
+1042,Andrei P.,IT,Senior,Iasi,2023-10-01,243,11,3.7,6,355.5,0.0,Potential
+1043,Andrei P.,IT,Junior,Iasi,2023-10-01,219,7,1.8,35,215.5,0.8,Risc Ridicat
+1044,Ana S.,HR,Senior,Brasov,2023-10-01,151,12,3.2,13,309.5,0.0,Potential
+1045,Andrei P.,IT,Senior,Timisoara,2023-10-01,233,2,1.4,0,214.5,1.0,Risc Ridicat
+1046,George R.,IT,Senior,Brasov,2023-10-01,192,11,1.3,32,282.0,0.0,Stabil
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-10-01,217,13,4.7,28,332.5,0.0,Potential
+1048,Andrei P.,IT,Senior,Constanta,2023-10-01,178,11,4.7,2,343.0,0.0,Potential
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-10-01,225,11,2.1,38,264.5,0.8,Risc Ridicat
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-10-01,212,6,4.0,9,246.0,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-10-01,164,13,4.7,21,306.0,0.0,Potential
+1052,Ana S.,HR,Senior,Timisoara,2023-10-01,144,7,2.4,24,240.0,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-10-01,150,8,3.8,7,231.0,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-10-01,226,13,2.4,17,341.0,1.0,Risc Ridicat
+1055,George R.,HR,Junior,Brasov,2023-10-01,144,10,2.6,16,224.0,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-10-01,248,5,1.6,11,206.0,1.0,Risc Ridicat
+1057,Maria I.,Marketing,Mid,Brasov,2023-10-01,218,5,3.8,35,235.0,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-10-01,238,6,3.6,28,301.0,0.0,Potential
+1059,Elena D.,IT,Junior,Bucuresti,2023-10-01,190,1,1.2,1,129.0,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-10-01,199,5,1.9,8,237.5,0.0,Stabil
+1061,Elena D.,Marketing,Junior,Iasi,2023-10-01,230,1,1.2,33,149.0,0.8,Risc Ridicat
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-10-01,181,12,2.6,6,312.5,0.0,Potential
+1063,Cristina D.,HR,Senior,Sibiu,2023-10-01,171,3,4.7,0,259.5,0.0,Stabil
+1064,Maria I.,HR,Mid,Bucuresti,2023-10-01,210,5,1.9,22,193.0,0.8,Risc Ridicat
+1065,Elena D.,Vanzari,Junior,Brasov,2023-10-01,180,10,4.4,15,278.0,0.0,Stabil
+1066,Ion V.,IT,Junior,Brasov,2023-10-01,143,14,3.8,34,287.5,0.0,Stabil
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-10-01,174,11,2.2,7,241.0,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-10-01,145,4,1.8,12,148.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-10-01,181,6,3.8,5,276.5,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-10-01,249,5,2.0,13,214.5,1.0,Risc Ridicat
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-10-01,202,10,1.3,10,227.0,1.0,Risc Ridicat
+1072,Mihai O.,IT,Mid,Iasi,2023-10-01,223,7,3.2,37,245.5,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-10-01,243,2,1.5,17,171.5,1.0,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-10-01,187,14,3.1,23,295.5,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-10-01,189,2,3.2,18,228.5,0.0,Stabil
+1076,Ion V.,HR,Mid,Bucuresti,2023-10-01,173,1,4.1,20,178.5,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-10-01,250,11,3.3,22,301.0,0.0,Potential
+1078,Maria I.,Marketing,Mid,Timisoara,2023-10-01,217,5,2.7,3,212.5,1.0,Risc Ridicat
+1079,Elena D.,Marketing,Mid,Timisoara,2023-10-01,246,6,4.7,10,277.0,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-10-01,167,10,3.7,5,257.5,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-10-01,148,9,2.3,21,210.0,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-10-01,196,1,1.9,35,146.0,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-10-01,216,2,3.3,14,194.0,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-10-01,177,2,2.2,10,152.5,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-10-01,202,7,1.5,28,201.0,0.8,Risc Ridicat
+1086,Maria I.,IT,Mid,Sibiu,2023-10-01,166,5,2.2,34,177.0,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-10-01,165,3,3.7,29,186.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-10-01,247,14,2.0,20,303.5,1.0,Risc Ridicat
+1089,Ana S.,Marketing,Mid,Timisoara,2023-10-01,229,12,3.3,1,300.5,0.0,Potential
+1090,Elena D.,IT,Senior,Timisoara,2023-10-01,176,11,2.1,20,290.0,0.0,Stabil
+1091,Cristina D.,HR,Mid,Brasov,2023-10-01,200,12,2.8,31,276.0,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-10-01,247,5,1.6,29,205.5,0.8,Risc Ridicat
+1093,Ana S.,IT,Junior,Iasi,2023-10-01,200,2,1.7,12,154.0,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-10-01,251,11,1.6,3,267.5,1.0,Risc Ridicat
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-10-01,205,1,4.3,17,198.5,0.0,Stabil
+1096,Andrei P.,IT,Junior,Constanta,2023-10-01,240,7,3.9,15,268.0,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-10-01,209,6,2.2,22,258.5,0.8,Risc Ridicat
+1098,Andrei P.,IT,Senior,Brasov,2023-10-01,230,6,2.9,14,283.0,1.0,Risc Ridicat
+1099,Mihai O.,IT,Junior,Iasi,2023-10-01,191,4,4.0,5,215.5,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-10-01,200,6,4.9,24,258.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-10-01,239,7,2.8,6,245.5,1.0,Risc Ridicat
+1102,Ana S.,Marketing,Mid,Constanta,2023-10-01,172,12,1.9,19,244.0,0.0,Stabil
+1103,Maria I.,Marketing,Senior,Timisoara,2023-10-01,237,8,1.1,32,270.5,0.8,Risc Ridicat
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-10-01,213,11,3.4,27,284.5,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-10-01,184,5,4.3,31,228.0,0.0,Stabil
+1106,George R.,Marketing,Mid,Brasov,2023-10-01,170,3,4.2,26,199.0,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-10-01,147,5,2.6,7,175.5,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-10-01,259,13,3.2,24,373.5,0.0,Potential
+1109,George R.,Marketing,Junior,Iasi,2023-10-01,254,9,2.8,22,273.0,0.8,Risc Ridicat
+1110,Elena D.,Marketing,Junior,Constanta,2023-10-01,180,8,3.7,30,244.0,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-10-01,257,14,3.4,11,336.5,0.0,Potential
+1112,Cristina D.,IT,Mid,Iasi,2023-10-01,212,2,1.0,24,146.0,0.8,Risc Ridicat
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-10-01,186,3,2.5,9,173.0,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-10-01,203,5,1.9,9,239.5,1.0,Risc Ridicat
+1115,Ion V.,Marketing,Senior,Sibiu,2023-10-01,169,8,3.9,31,292.5,0.0,Stabil
+1116,Elena D.,HR,Junior,Brasov,2023-10-01,157,8,2.2,32,202.5,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-10-01,144,6,1.7,4,166.0,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-10-01,222,7,1.3,4,257.0,1.0,Risc Ridicat
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-10-01,209,2,4.9,24,222.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-10-01,190,4,1.6,39,167.0,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-10-01,154,6,4.3,38,223.0,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-10-01,161,2,4.0,24,230.5,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-10-01,197,12,1.3,10,244.5,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-10-01,167,6,1.8,24,179.5,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-10-01,232,2,4.1,12,218.0,0.0,Stabil
+1126,Elena D.,Marketing,Junior,Constanta,2023-10-01,205,11,1.6,16,244.5,1.0,Risc Ridicat
+1127,Ion V.,IT,Senior,Brasov,2023-10-01,167,3,1.1,0,185.5,0.0,Stabil
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-10-01,256,6,1.4,37,216.0,0.8,Risc Ridicat
+1129,Ana S.,IT,Senior,Constanta,2023-10-01,153,11,1.4,1,264.5,0.0,Stabil
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-10-01,194,5,1.1,3,169.0,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-10-01,193,6,2.5,29,206.5,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-10-01,157,2,4.8,34,244.5,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-10-01,201,3,1.7,8,164.5,1.0,Risc Ridicat
+1134,Mihai O.,IT,Junior,Sibiu,2023-10-01,212,10,3.5,35,276.0,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-10-01,178,14,2.7,35,283.0,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-10-01,152,1,3.0,27,196.0,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-10-01,166,12,3.8,2,279.0,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-10-01,205,3,3.2,7,196.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-10-01,175,5,3.1,19,199.5,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-10-01,184,8,4.3,20,258.0,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-10-01,239,5,4.1,2,251.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-10-01,180,11,4.3,8,286.0,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-10-01,174,7,4.4,10,245.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-10-01,149,5,4.5,10,214.5,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-10-01,206,4,3.1,27,205.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-10-01,231,5,2.1,2,207.5,1.0,Risc Ridicat
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-10-01,212,14,3.8,34,372.0,0.0,Potential
+1148,Andrei P.,IT,Mid,Sibiu,2023-10-01,155,7,3.0,13,207.5,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-10-01,145,4,3.6,23,184.5,0.0,Stabil
+1150,Elena D.,Marketing,Senior,Iasi,2023-10-01,143,11,1.4,15,259.5,0.0,Stabil
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-10-01,189,4,3.9,13,212.5,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-10-01,162,8,2.1,14,203.0,0.0,Stabil
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-10-01,142,14,1.4,22,289.0,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-10-01,250,7,4.4,15,283.0,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-10-01,232,6,1.3,31,202.0,0.8,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-10-01,224,6,1.8,19,208.0,1.0,Risc Ridicat
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-10-01,189,10,4.8,32,290.5,0.0,Stabil
+1158,Ana S.,IT,Junior,Bucuresti,2023-10-01,183,8,2.6,34,223.5,0.0,Stabil
+1159,Ana S.,Vanzari,Junior,Brasov,2023-10-01,201,11,1.5,30,240.5,0.8,Risc Ridicat
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-10-01,243,4,3.6,12,233.5,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-10-01,145,1,3.1,10,144.5,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-10-01,250,9,3.7,26,289.0,0.0,Stabil
+1163,Cristina D.,IT,Senior,Timisoara,2023-10-01,140,8,3.2,37,264.0,0.0,Stabil
+1164,George R.,HR,Mid,Sibiu,2023-10-01,163,2,2.1,39,143.5,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-10-01,144,9,2.0,21,252.0,0.0,Stabil
+1166,Elena D.,IT,Junior,Sibiu,2023-10-01,209,7,1.2,22,198.5,0.8,Risc Ridicat
+1167,Maria I.,HR,Junior,Iasi,2023-10-01,151,8,3.5,21,225.5,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-10-01,168,8,3.5,32,234.0,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-10-01,245,9,1.4,11,240.5,1.0,Risc Ridicat
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-10-01,180,9,2.4,30,278.0,0.0,Stabil
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-10-01,175,9,1.2,2,201.5,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-10-01,217,2,4.5,21,218.5,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-10-01,173,5,5.0,25,236.5,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-10-01,147,1,4.5,6,223.5,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-10-01,225,11,2.2,25,266.5,0.8,Risc Ridicat
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-10-01,199,10,1.5,19,229.5,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-10-01,179,6,2.6,35,201.5,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-10-01,188,11,2.9,12,262.0,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-10-01,191,5,3.5,16,215.5,0.0,Stabil
+1180,Mihai O.,HR,Mid,Iasi,2023-10-01,173,3,2.8,22,172.5,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-10-01,171,4,4.8,2,221.5,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-10-01,227,9,1.0,12,223.5,1.0,Risc Ridicat
+1183,Maria I.,Vanzari,Senior,Brasov,2023-10-01,141,2,4.3,8,226.5,0.0,Stabil
+1184,Mihai O.,Marketing,Senior,Brasov,2023-10-01,248,3,2.0,5,244.0,1.0,Risc Ridicat
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-10-01,244,6,4.0,5,262.0,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-10-01,236,11,1.7,22,262.0,0.8,Risc Ridicat
+1187,Andrei P.,IT,Mid,Iasi,2023-10-01,163,3,4.9,0,209.5,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-10-01,155,8,4.8,0,253.5,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-10-01,252,11,3.3,30,302.0,0.0,Potential
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-10-01,191,13,3.5,29,345.5,0.0,Potential
+1191,Maria I.,HR,Mid,Constanta,2023-10-01,198,12,1.3,19,245.0,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-10-01,192,4,4.1,17,218.0,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-10-01,214,12,3.9,38,305.0,0.0,Potential
+1194,Cristina D.,IT,Junior,Constanta,2023-10-01,147,13,4.7,39,297.5,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-10-01,149,5,4.8,0,220.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-10-01,197,4,3.9,11,216.5,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-10-01,172,9,4.1,13,258.0,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-10-01,168,14,1.3,35,250.0,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-10-01,182,2,1.7,0,145.0,0.0,Stabil
+1000,Cristina D.,Marketing,Junior,Iasi,2023-11-01,198,8,4.8,12,275.0,0.0,Stabil
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-11-01,246,8,3.3,14,269.0,0.0,Stabil
+1002,Elena D.,IT,Senior,Constanta,2023-11-01,213,4,1.1,11,218.5,1.0,Risc Ridicat
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-11-01,167,12,1.6,6,235.5,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-11-01,248,3,1.3,3,180.0,1.0,Risc Ridicat
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-11-01,145,14,2.9,38,270.5,0.0,Stabil
+1006,Maria I.,Marketing,Mid,Sibiu,2023-11-01,162,5,1.6,8,163.0,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-11-01,192,14,3.9,14,364.0,0.0,Potential
+1008,Mihai O.,HR,Mid,Brasov,2023-11-01,147,12,4.6,17,285.5,0.0,Stabil
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-11-01,148,2,4.2,25,178.0,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-11-01,233,12,1.8,5,272.5,1.0,Risc Ridicat
+1011,George R.,Vanzari,Senior,Brasov,2023-11-01,200,2,3.0,33,230.0,0.0,Stabil
+1012,Ion V.,HR,Junior,Brasov,2023-11-01,211,5,3.0,10,215.5,0.0,Stabil
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-11-01,162,14,4.5,35,311.0,0.0,Potential
+1014,Mihai O.,IT,Mid,Constanta,2023-11-01,160,1,3.8,19,166.0,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-11-01,195,4,4.5,31,227.5,0.0,Stabil
+1016,Maria I.,HR,Mid,Brasov,2023-11-01,240,6,1.4,24,208.0,0.8,Risc Ridicat
+1017,Maria I.,Marketing,Mid,Sibiu,2023-11-01,166,4,2.4,37,171.0,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-11-01,239,5,1.0,38,189.5,0.8,Risc Ridicat
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-11-01,158,9,4.9,0,267.0,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-11-01,185,5,1.2,21,216.5,0.0,Stabil
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-11-01,179,7,4.8,4,255.5,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-11-01,233,13,2.2,17,290.5,1.0,Risc Ridicat
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-11-01,200,1,4.3,23,246.0,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-11-01,238,7,4.3,11,325.0,0.0,Potential
+1025,Maria I.,IT,Mid,Iasi,2023-11-01,219,1,1.5,8,149.5,1.0,Risc Ridicat
+1026,Ana S.,Marketing,Senior,Iasi,2023-11-01,241,2,2.8,28,246.5,0.8,Risc Ridicat
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-11-01,146,1,1.6,38,115.0,0.0,Stabil
+1028,George R.,Marketing,Mid,Brasov,2023-11-01,226,8,4.1,4,275.0,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-11-01,255,10,2.4,35,275.5,0.8,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-11-01,189,10,2.5,26,244.5,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-11-01,204,10,2.9,11,260.0,1.0,Risc Ridicat
+1032,George R.,IT,Mid,Constanta,2023-11-01,175,7,2.0,2,197.5,0.0,Stabil
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-11-01,215,11,1.7,33,251.5,0.8,Risc Ridicat
+1034,George R.,Vanzari,Junior,Brasov,2023-11-01,166,14,2.1,19,265.0,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-11-01,188,10,2.3,6,290.0,0.0,Stabil
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-11-01,158,13,4.5,26,299.0,0.0,Stabil
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-11-01,169,12,4.7,35,298.5,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-11-01,205,13,4.9,39,330.5,0.0,Potential
+1039,Mihai O.,IT,Mid,Bucuresti,2023-11-01,199,12,1.9,2,257.5,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-11-01,150,4,2.9,37,223.0,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-11-01,183,8,1.6,6,203.5,0.0,Stabil
+1042,Andrei P.,IT,Senior,Iasi,2023-11-01,159,8,3.0,15,269.5,0.0,Stabil
+1043,Andrei P.,IT,Junior,Iasi,2023-11-01,149,4,4.1,6,196.5,0.0,Stabil
+1044,Ana S.,HR,Senior,Brasov,2023-11-01,202,14,1.7,14,325.0,1.0,Risc Ridicat
+1045,Andrei P.,IT,Senior,Timisoara,2023-11-01,201,13,3.4,24,348.5,0.0,Potential
+1046,George R.,IT,Senior,Brasov,2023-11-01,151,11,4.5,8,325.5,0.0,Potential
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-11-01,252,7,1.3,32,222.0,0.8,Risc Ridicat
+1048,Andrei P.,IT,Senior,Constanta,2023-11-01,198,6,4.4,18,297.0,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-11-01,206,8,1.9,33,221.0,0.8,Risc Ridicat
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-11-01,156,4,1.6,17,150.0,0.0,Stabil
+1051,Mihai O.,Marketing,Junior,Brasov,2023-11-01,226,1,2.5,25,173.0,0.8,Risc Ridicat
+1052,Ana S.,HR,Senior,Timisoara,2023-11-01,173,13,3.2,21,330.5,0.0,Potential
+1053,Cristina D.,IT,Junior,Brasov,2023-11-01,198,2,1.4,6,147.0,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-11-01,180,7,1.3,25,236.0,0.0,Stabil
+1055,George R.,HR,Junior,Brasov,2023-11-01,189,12,2.9,12,272.5,0.0,Stabil
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-11-01,148,4,3.5,7,184.0,0.0,Stabil
+1057,Maria I.,Marketing,Mid,Brasov,2023-11-01,188,12,2.4,8,262.0,0.0,Stabil
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-11-01,147,5,2.7,35,227.5,0.0,Stabil
+1059,Elena D.,IT,Junior,Bucuresti,2023-11-01,145,4,2.1,20,154.5,0.0,Stabil
+1060,Andrei P.,HR,Senior,Iasi,2023-11-01,210,12,2.2,12,319.0,1.0,Risc Ridicat
+1061,Elena D.,Marketing,Junior,Iasi,2023-11-01,222,11,1.8,28,257.0,0.8,Risc Ridicat
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-11-01,164,1,3.2,1,206.0,0.0,Stabil
+1063,Cristina D.,HR,Senior,Sibiu,2023-11-01,207,6,4.7,11,307.5,0.0,Potential
+1064,Maria I.,HR,Mid,Bucuresti,2023-11-01,223,10,3.5,2,281.5,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-11-01,220,6,2.1,2,212.0,1.0,Risc Ridicat
+1066,Ion V.,IT,Junior,Brasov,2023-11-01,244,12,3.4,11,310.0,0.0,Potential
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-11-01,166,8,2.9,28,221.0,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-11-01,168,10,3.1,15,246.0,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-11-01,165,5,4.1,24,264.5,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-11-01,196,7,1.8,18,204.0,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-11-01,249,3,2.1,6,196.5,1.0,Risc Ridicat
+1072,Mihai O.,IT,Mid,Iasi,2023-11-01,213,6,4.9,0,264.5,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-11-01,245,7,2.4,38,240.5,0.8,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-11-01,200,10,4.4,18,288.0,0.0,Stabil
+1075,Maria I.,Marketing,Senior,Iasi,2023-11-01,247,5,4.9,21,321.5,0.0,Potential
+1076,Ion V.,HR,Mid,Bucuresti,2023-11-01,230,1,2.2,19,169.0,1.0,Risc Ridicat
+1077,Ana S.,Vanzari,Mid,Constanta,2023-11-01,240,13,4.9,20,348.0,0.0,Potential
+1078,Maria I.,Marketing,Mid,Timisoara,2023-11-01,250,12,3.7,14,319.0,0.0,Potential
+1079,Elena D.,Marketing,Mid,Timisoara,2023-11-01,183,8,1.1,37,193.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-11-01,164,7,2.9,39,210.0,0.0,Stabil
+1081,Elena D.,Vanzari,Junior,Constanta,2023-11-01,155,13,2.3,24,253.5,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-11-01,244,5,3.1,25,234.0,0.0,Stabil
+1083,George R.,Marketing,Mid,Sibiu,2023-11-01,191,9,3.5,12,255.5,0.0,Stabil
+1084,Ion V.,Vanzari,Mid,Constanta,2023-11-01,224,6,3.4,1,240.0,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-11-01,218,13,1.1,16,261.0,1.0,Risc Ridicat
+1086,Maria I.,IT,Mid,Sibiu,2023-11-01,161,8,1.1,27,182.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-11-01,185,10,1.7,25,226.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-11-01,223,10,2.2,20,255.5,1.0,Risc Ridicat
+1089,Ana S.,Marketing,Mid,Timisoara,2023-11-01,178,8,4.6,27,261.0,0.0,Stabil
+1090,Elena D.,IT,Senior,Timisoara,2023-11-01,188,14,3.8,4,360.0,0.0,Potential
+1091,Cristina D.,HR,Mid,Brasov,2023-11-01,237,6,4.1,39,260.5,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-11-01,174,1,1.1,5,119.0,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-11-01,197,7,4.4,10,256.5,0.0,Stabil
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-11-01,252,10,2.1,1,268.0,1.0,Risc Ridicat
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-11-01,213,14,1.7,7,280.5,1.0,Risc Ridicat
+1096,Andrei P.,IT,Junior,Constanta,2023-11-01,144,8,3.9,1,230.0,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-11-01,144,11,2.2,7,276.0,0.0,Stabil
+1098,Andrei P.,IT,Senior,Brasov,2023-11-01,182,5,1.9,12,229.0,0.0,Stabil
+1099,Mihai O.,IT,Junior,Iasi,2023-11-01,256,8,1.9,30,246.0,0.8,Risc Ridicat
+1100,Cristina D.,Marketing,Junior,Iasi,2023-11-01,151,3,4.8,33,201.5,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-11-01,245,8,2.4,1,250.5,1.0,Risc Ridicat
+1102,Ana S.,Marketing,Mid,Constanta,2023-11-01,214,14,5.0,32,347.0,0.0,Potential
+1103,Maria I.,Marketing,Senior,Timisoara,2023-11-01,184,13,2.8,31,328.0,0.0,Potential
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-11-01,215,7,2.0,7,217.5,1.0,Risc Ridicat
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-11-01,223,2,2.9,31,189.5,0.8,Risc Ridicat
+1106,George R.,Marketing,Mid,Brasov,2023-11-01,232,8,3.7,7,270.0,0.0,Stabil
+1107,Maria I.,IT,Mid,Sibiu,2023-11-01,165,6,4.7,25,236.5,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-11-01,242,4,2.4,15,259.0,1.0,Risc Ridicat
+1109,George R.,Marketing,Junior,Iasi,2023-11-01,198,8,4.9,37,277.0,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-11-01,189,1,4.7,30,198.5,0.0,Stabil
+1111,Ion V.,IT,Junior,Bucuresti,2023-11-01,221,14,1.7,20,284.5,1.0,Risc Ridicat
+1112,Cristina D.,IT,Mid,Iasi,2023-11-01,200,10,4.4,24,288.0,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-11-01,258,12,1.5,12,279.0,1.0,Risc Ridicat
+1114,George R.,Marketing,Senior,Constanta,2023-11-01,242,13,2.9,29,359.0,0.8,Risc Ridicat
+1115,Ion V.,Marketing,Senior,Sibiu,2023-11-01,163,14,3.4,4,339.5,0.0,Potential
+1116,Elena D.,HR,Junior,Brasov,2023-11-01,163,14,2.3,22,267.5,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-11-01,257,7,2.9,10,256.5,1.0,Risc Ridicat
+1118,Cristina D.,Marketing,Senior,Iasi,2023-11-01,178,5,1.6,19,221.0,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-11-01,249,5,4.8,34,270.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-11-01,206,3,2.3,21,179.0,0.8,Risc Ridicat
+1121,Cristina D.,IT,Mid,Timisoara,2023-11-01,209,13,3.1,29,296.5,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-11-01,199,8,4.7,11,323.5,0.0,Potential
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-11-01,204,12,3.2,1,286.0,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-11-01,175,10,2.5,37,237.5,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-11-01,252,6,1.7,37,220.0,0.8,Risc Ridicat
+1126,Elena D.,Marketing,Junior,Constanta,2023-11-01,158,12,1.6,0,231.0,0.0,Stabil
+1127,Ion V.,IT,Senior,Brasov,2023-11-01,190,5,4.2,33,279.0,0.0,Stabil
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-11-01,222,10,3.5,6,281.0,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-11-01,225,13,1.2,8,316.5,1.0,Risc Ridicat
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-11-01,177,4,3.6,20,200.5,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-11-01,144,3,2.4,27,150.0,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-11-01,221,4,3.4,29,268.5,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-11-01,200,6,4.4,6,248.0,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-11-01,158,13,3.3,35,275.0,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-11-01,188,11,2.7,12,258.0,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-11-01,154,5,2.1,30,219.0,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-11-01,215,5,3.8,7,233.5,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-11-01,167,1,1.7,10,127.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-11-01,222,7,2.2,19,225.0,1.0,Risc Ridicat
+1140,Elena D.,HR,Mid,Brasov,2023-11-01,180,7,2.0,2,200.0,0.0,Stabil
+1141,George R.,IT,Junior,Iasi,2023-11-01,175,7,4.5,22,247.5,0.0,Stabil
+1142,Ion V.,IT,Mid,Iasi,2023-11-01,245,1,3.4,2,200.5,0.0,Stabil
+1143,Mihai O.,HR,Junior,Sibiu,2023-11-01,202,12,3.1,27,283.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-11-01,184,14,4.8,27,328.0,0.0,Potential
+1145,Mihai O.,Marketing,Mid,Constanta,2023-11-01,247,14,4.6,0,355.5,0.0,Potential
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-11-01,229,2,1.1,16,156.5,1.0,Risc Ridicat
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-11-01,164,1,3.0,15,202.0,0.0,Stabil
+1148,Andrei P.,IT,Mid,Sibiu,2023-11-01,172,7,4.7,27,250.0,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-11-01,176,14,2.3,4,274.0,0.0,Stabil
+1150,Elena D.,Marketing,Senior,Iasi,2023-11-01,205,9,3.3,14,308.5,0.0,Potential
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-11-01,236,6,3.0,26,238.0,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-11-01,230,8,2.6,18,247.0,1.0,Risc Ridicat
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-11-01,142,14,1.1,30,283.0,0.0,Stabil
+1154,Mihai O.,IT,Mid,Brasov,2023-11-01,155,14,3.2,30,281.5,0.0,Stabil
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-11-01,251,7,2.8,5,251.5,1.0,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-11-01,163,14,3.0,31,281.5,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-11-01,199,8,1.7,12,213.5,0.0,Stabil
+1158,Ana S.,IT,Junior,Bucuresti,2023-11-01,225,14,4.5,17,342.5,0.0,Potential
+1159,Ana S.,Vanzari,Junior,Brasov,2023-11-01,254,3,4.7,18,251.0,0.0,Stabil
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-11-01,248,1,2.8,10,190.0,1.0,Risc Ridicat
+1161,Mihai O.,Marketing,Junior,Brasov,2023-11-01,258,3,3.1,13,221.0,0.0,Stabil
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-11-01,220,13,3.2,32,304.0,0.0,Potential
+1163,Cristina D.,IT,Senior,Timisoara,2023-11-01,172,11,2.7,38,300.0,0.0,Stabil
+1164,George R.,HR,Mid,Sibiu,2023-11-01,163,2,3.3,15,167.5,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-11-01,252,14,2.4,13,364.0,1.0,Risc Ridicat
+1166,Elena D.,IT,Junior,Sibiu,2023-11-01,186,11,1.5,31,233.0,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-11-01,240,11,2.5,37,280.0,0.8,Risc Ridicat
+1168,Ana S.,HR,Junior,Bucuresti,2023-11-01,174,5,4.1,11,219.0,0.0,Stabil
+1169,George R.,HR,Junior,Iasi,2023-11-01,246,11,1.6,34,265.0,0.8,Risc Ridicat
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-11-01,214,6,2.0,14,257.0,1.0,Risc Ridicat
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-11-01,140,9,4.0,0,240.0,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-11-01,226,12,3.1,6,295.0,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-11-01,216,4,4.7,33,242.0,0.0,Stabil
+1174,Cristina D.,HR,Senior,Constanta,2023-11-01,196,6,3.2,34,272.0,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-11-01,187,9,3.0,19,243.5,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-11-01,235,7,3.4,27,255.5,0.0,Stabil
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-11-01,144,5,5.0,19,222.0,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-11-01,169,11,2.2,27,238.5,0.0,Stabil
+1179,Ion V.,HR,Junior,Iasi,2023-11-01,242,10,2.0,6,261.0,1.0,Risc Ridicat
+1180,Mihai O.,HR,Mid,Iasi,2023-11-01,201,7,2.3,12,216.5,1.0,Risc Ridicat
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-11-01,222,3,3.1,8,203.0,0.0,Stabil
+1182,George R.,Vanzari,Mid,Brasov,2023-11-01,208,4,4.1,26,226.0,0.0,Stabil
+1183,Maria I.,Vanzari,Senior,Brasov,2023-11-01,245,3,1.7,17,236.5,1.0,Risc Ridicat
+1184,Mihai O.,Marketing,Senior,Brasov,2023-11-01,185,7,2.1,29,254.5,0.0,Stabil
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-11-01,253,2,4.4,6,234.5,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-11-01,164,13,1.8,33,248.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-11-01,240,14,2.7,28,314.0,0.8,Risc Ridicat
+1188,Andrei P.,HR,Junior,Constanta,2023-11-01,239,3,2.2,1,193.5,1.0,Risc Ridicat
+1189,Ion V.,IT,Mid,Brasov,2023-11-01,182,8,4.4,18,259.0,0.0,Stabil
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-11-01,216,3,1.3,24,214.0,0.8,Risc Ridicat
+1191,Maria I.,HR,Mid,Constanta,2023-11-01,172,9,3.0,7,236.0,0.0,Stabil
+1192,Ion V.,Vanzari,Mid,Brasov,2023-11-01,186,12,1.2,28,237.0,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-11-01,208,2,2.0,11,164.0,1.0,Risc Ridicat
+1194,Cristina D.,IT,Junior,Constanta,2023-11-01,209,12,3.4,23,292.5,0.0,Stabil
+1195,Mihai O.,IT,Mid,Brasov,2023-11-01,186,1,2.7,3,157.0,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-11-01,204,12,3.8,34,298.0,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-11-01,211,13,1.0,32,255.5,0.8,Risc Ridicat
+1198,Mihai O.,HR,Mid,Timisoara,2023-11-01,147,9,2.7,7,217.5,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-11-01,238,1,2.9,25,187.0,0.8,Risc Ridicat
+1000,Cristina D.,Marketing,Junior,Iasi,2023-12-01,201,1,1.1,5,132.5,1.0,Risc Ridicat
+1001,Ion V.,Vanzari,Junior,Cluj-Napoca,2023-12-01,225,13,4.3,6,328.5,0.0,Potential
+1002,Elena D.,IT,Senior,Constanta,2023-12-01,144,5,3.4,4,240.0,0.0,Stabil
+1003,Ion V.,Vanzari,Mid,Sibiu,2023-12-01,195,8,3.9,12,255.5,0.0,Stabil
+1004,Cristina D.,Marketing,Mid,Iasi,2023-12-01,191,13,1.1,26,247.5,0.0,Stabil
+1005,Ana S.,Vanzari,Mid,Cluj-Napoca,2023-12-01,218,11,4.6,38,311.0,0.0,Potential
+1006,Maria I.,Marketing,Mid,Sibiu,2023-12-01,192,11,2.8,8,262.0,0.0,Stabil
+1007,Cristina D.,Marketing,Senior,Bucuresti,2023-12-01,203,8,1.1,0,253.5,1.0,Risc Ridicat
+1008,Mihai O.,HR,Mid,Brasov,2023-12-01,140,8,3.8,6,226.0,0.0,Stabil
+1009,Ana S.,Vanzari,Junior,Bucuresti,2023-12-01,184,9,3.0,9,242.0,0.0,Stabil
+1010,Ion V.,Marketing,Junior,Sibiu,2023-12-01,215,1,2.8,25,173.5,0.8,Risc Ridicat
+1011,George R.,Vanzari,Senior,Brasov,2023-12-01,182,5,1.9,12,229.0,0.0,Stabil
+1012,Ion V.,HR,Junior,Brasov,2023-12-01,226,3,2.0,7,183.0,1.0,Risc Ridicat
+1013,Andrei P.,Marketing,Junior,Bucuresti,2023-12-01,182,13,4.4,17,309.0,0.0,Potential
+1014,Mihai O.,IT,Mid,Constanta,2023-12-01,211,10,3.1,10,267.5,0.0,Stabil
+1015,Maria I.,Marketing,Mid,Sibiu,2023-12-01,216,9,2.9,36,256.0,0.8,Risc Ridicat
+1016,Maria I.,HR,Mid,Brasov,2023-12-01,168,4,3.0,0,184.0,0.0,Stabil
+1017,Maria I.,Marketing,Mid,Sibiu,2023-12-01,154,8,3.9,22,235.0,0.0,Stabil
+1018,Maria I.,Marketing,Mid,Bucuresti,2023-12-01,205,9,2.3,36,238.5,0.8,Risc Ridicat
+1019,Ion V.,IT,Junior,Cluj-Napoca,2023-12-01,155,10,4.2,26,261.5,0.0,Stabil
+1020,Andrei P.,Marketing,Senior,Iasi,2023-12-01,217,1,4.7,17,262.5,0.0,Stabil
+1021,Ion V.,Vanzari,Junior,Timisoara,2023-12-01,170,6,4.9,0,243.0,0.0,Stabil
+1022,Ion V.,HR,Mid,Bucuresti,2023-12-01,184,4,3.7,19,206.0,0.0,Stabil
+1023,Andrei P.,Vanzari,Senior,Iasi,2023-12-01,227,3,3.1,16,255.5,0.0,Stabil
+1024,Cristina D.,Vanzari,Senior,Sibiu,2023-12-01,214,9,1.3,2,273.0,1.0,Risc Ridicat
+1025,Maria I.,IT,Mid,Iasi,2023-12-01,238,2,4.7,5,233.0,0.0,Stabil
+1026,Ana S.,Marketing,Senior,Iasi,2023-12-01,149,9,3.1,19,276.5,0.0,Stabil
+1027,Mihai O.,Marketing,Mid,Timisoara,2023-12-01,258,10,2.5,29,279.0,0.8,Risc Ridicat
+1028,George R.,Marketing,Mid,Brasov,2023-12-01,217,9,3.0,26,258.5,0.0,Stabil
+1029,Ion V.,Marketing,Mid,Bucuresti,2023-12-01,227,11,2.1,1,265.5,1.0,Risc Ridicat
+1030,Mihai O.,Vanzari,Junior,Cluj-Napoca,2023-12-01,169,7,4.0,11,234.5,0.0,Stabil
+1031,Maria I.,IT,Mid,Iasi,2023-12-01,255,2,2.7,32,201.5,0.8,Risc Ridicat
+1032,George R.,IT,Mid,Constanta,2023-12-01,230,12,2.0,27,275.0,0.8,Risc Ridicat
+1033,Andrei P.,Marketing,Mid,Timisoara,2023-12-01,239,12,1.5,19,269.5,1.0,Risc Ridicat
+1034,George R.,Vanzari,Junior,Brasov,2023-12-01,171,7,5.0,22,255.5,0.0,Stabil
+1035,Maria I.,Marketing,Senior,Iasi,2023-12-01,237,8,2.7,27,302.5,0.8,Risc Ridicat
+1036,Cristina D.,Vanzari,Junior,Bucuresti,2023-12-01,174,12,4.5,14,297.0,0.0,Stabil
+1037,Maria I.,HR,Junior,Cluj-Napoca,2023-12-01,186,10,2.5,9,243.0,0.0,Stabil
+1038,Mihai O.,IT,Mid,Cluj-Napoca,2023-12-01,143,13,2.8,13,257.5,0.0,Stabil
+1039,Mihai O.,IT,Mid,Bucuresti,2023-12-01,180,2,2.0,3,150.0,0.0,Stabil
+1040,Cristina D.,HR,Senior,Constanta,2023-12-01,159,10,1.3,24,255.5,0.0,Stabil
+1041,Elena D.,HR,Junior,Brasov,2023-12-01,216,8,2.3,27,234.0,0.8,Risc Ridicat
+1042,Andrei P.,IT,Senior,Iasi,2023-12-01,201,7,3.5,2,290.5,0.0,Stabil
+1043,Andrei P.,IT,Junior,Iasi,2023-12-01,218,4,4.8,17,245.0,0.0,Stabil
+1044,Ana S.,HR,Senior,Brasov,2023-12-01,246,9,2.2,30,307.0,0.8,Risc Ridicat
+1045,Andrei P.,IT,Senior,Timisoara,2023-12-01,206,2,4.2,26,257.0,0.0,Stabil
+1046,George R.,IT,Senior,Brasov,2023-12-01,255,10,2.0,1,317.5,1.0,Risc Ridicat
+1047,Cristina D.,Vanzari,Junior,Bucuresti,2023-12-01,223,10,3.8,34,287.5,0.0,Stabil
+1048,Andrei P.,IT,Senior,Constanta,2023-12-01,232,4,4.7,34,300.0,0.0,Stabil
+1049,Cristina D.,Vanzari,Mid,Constanta,2023-12-01,218,7,2.2,26,223.0,0.8,Risc Ridicat
+1050,Andrei P.,Vanzari,Mid,Cluj-Napoca,2023-12-01,243,2,1.6,4,173.5,1.0,Risc Ridicat
+1051,Mihai O.,Marketing,Junior,Brasov,2023-12-01,155,8,2.0,36,197.5,0.0,Stabil
+1052,Ana S.,HR,Senior,Timisoara,2023-12-01,145,2,2.6,5,194.5,0.0,Stabil
+1053,Cristina D.,IT,Junior,Brasov,2023-12-01,143,12,4.0,10,271.5,0.0,Stabil
+1054,Cristina D.,Marketing,Senior,Bucuresti,2023-12-01,193,2,1.1,27,188.5,0.0,Stabil
+1055,George R.,HR,Junior,Brasov,2023-12-01,213,10,4.8,0,302.5,0.0,Potential
+1056,Elena D.,Vanzari,Mid,Timisoara,2023-12-01,237,4,2.3,21,204.5,0.8,Risc Ridicat
+1057,Maria I.,Marketing,Mid,Brasov,2023-12-01,209,6,1.7,16,198.5,1.0,Risc Ridicat
+1058,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-12-01,204,4,2.6,28,244.0,0.8,Risc Ridicat
+1059,Elena D.,IT,Junior,Bucuresti,2023-12-01,225,12,2.3,26,278.5,0.8,Risc Ridicat
+1060,Andrei P.,HR,Senior,Iasi,2023-12-01,185,12,3.7,28,336.5,0.0,Potential
+1061,Elena D.,Marketing,Junior,Iasi,2023-12-01,182,9,1.4,19,209.0,0.0,Stabil
+1062,George R.,Vanzari,Senior,Cluj-Napoca,2023-12-01,159,5,1.5,36,209.5,0.0,Stabil
+1063,Cristina D.,HR,Senior,Sibiu,2023-12-01,227,2,4.3,6,269.5,0.0,Stabil
+1064,Maria I.,HR,Mid,Bucuresti,2023-12-01,157,2,3.7,18,172.5,0.0,Stabil
+1065,Elena D.,Vanzari,Junior,Brasov,2023-12-01,186,14,4.1,28,315.0,0.0,Potential
+1066,Ion V.,IT,Junior,Brasov,2023-12-01,254,8,2.2,21,251.0,0.8,Risc Ridicat
+1067,Cristina D.,Vanzari,Mid,Iasi,2023-12-01,140,4,3.8,12,186.0,0.0,Stabil
+1068,Mihai O.,Vanzari,Junior,Timisoara,2023-12-01,145,9,2.3,24,208.5,0.0,Stabil
+1069,Ana S.,HR,Senior,Iasi,2023-12-01,170,3,2.7,14,219.0,0.0,Stabil
+1070,Elena D.,HR,Junior,Constanta,2023-12-01,240,10,3.5,35,290.0,0.0,Stabil
+1071,Ion V.,Vanzari,Mid,Timisoara,2023-12-01,257,7,3.0,21,258.5,0.0,Stabil
+1072,Mihai O.,IT,Mid,Iasi,2023-12-01,202,2,4.4,3,209.0,0.0,Stabil
+1073,Ion V.,HR,Junior,Brasov,2023-12-01,239,4,1.1,6,181.5,1.0,Risc Ridicat
+1074,Ion V.,Marketing,Mid,Brasov,2023-12-01,202,10,1.6,15,233.0,1.0,Risc Ridicat
+1075,Maria I.,Marketing,Senior,Iasi,2023-12-01,255,14,1.6,37,349.5,0.8,Risc Ridicat
+1076,Ion V.,HR,Mid,Bucuresti,2023-12-01,177,13,2.5,20,268.5,0.0,Stabil
+1077,Ana S.,Vanzari,Mid,Constanta,2023-12-01,199,11,2.8,32,265.5,0.0,Stabil
+1078,Maria I.,Marketing,Mid,Timisoara,2023-12-01,217,9,3.8,16,274.5,0.0,Stabil
+1079,Elena D.,Marketing,Mid,Timisoara,2023-12-01,191,12,3.3,12,281.5,0.0,Stabil
+1080,Ion V.,Marketing,Junior,Iasi,2023-12-01,201,9,1.6,25,222.5,0.8,Risc Ridicat
+1081,Elena D.,Vanzari,Junior,Constanta,2023-12-01,156,12,2.8,7,254.0,0.0,Stabil
+1082,Ana S.,IT,Junior,Constanta,2023-12-01,216,1,2.3,1,164.0,1.0,Risc Ridicat
+1083,George R.,Marketing,Mid,Sibiu,2023-12-01,253,11,4.8,33,332.5,0.0,Potential
+1084,Ion V.,Vanzari,Mid,Constanta,2023-12-01,171,11,2.2,35,239.5,0.0,Stabil
+1085,George R.,Vanzari,Junior,Cluj-Napoca,2023-12-01,192,11,1.2,13,230.0,0.0,Stabil
+1086,Maria I.,IT,Mid,Sibiu,2023-12-01,179,8,1.2,13,193.5,0.0,Stabil
+1087,Cristina D.,Vanzari,Mid,Sibiu,2023-12-01,175,5,3.4,32,205.5,0.0,Stabil
+1088,Cristina D.,Vanzari,Junior,Timisoara,2023-12-01,237,10,2.9,24,276.5,0.8,Risc Ridicat
+1089,Ana S.,Marketing,Mid,Timisoara,2023-12-01,219,4,1.9,38,187.5,0.8,Risc Ridicat
+1090,Elena D.,IT,Senior,Timisoara,2023-12-01,163,8,2.7,39,265.5,0.0,Stabil
+1091,Cristina D.,HR,Mid,Brasov,2023-12-01,143,4,3.7,32,185.5,0.0,Stabil
+1092,Maria I.,HR,Junior,Iasi,2023-12-01,159,8,1.5,31,189.5,0.0,Stabil
+1093,Ana S.,IT,Junior,Iasi,2023-12-01,245,5,1.5,22,202.5,0.8,Risc Ridicat
+1094,Mihai O.,Vanzari,Mid,Timisoara,2023-12-01,166,2,4.8,31,199.0,0.0,Stabil
+1095,Elena D.,IT,Mid,Cluj-Napoca,2023-12-01,222,2,1.6,30,163.0,0.8,Risc Ridicat
+1096,Andrei P.,IT,Junior,Constanta,2023-12-01,180,12,3.7,30,284.0,0.0,Stabil
+1097,Mihai O.,IT,Senior,Iasi,2023-12-01,209,10,2.1,6,296.5,1.0,Risc Ridicat
+1098,Andrei P.,IT,Senior,Brasov,2023-12-01,187,12,4.1,33,345.5,0.0,Potential
+1099,Mihai O.,IT,Junior,Iasi,2023-12-01,143,9,1.1,3,183.5,0.0,Stabil
+1100,Cristina D.,Marketing,Junior,Iasi,2023-12-01,154,9,2.0,22,207.0,0.0,Stabil
+1101,Mihai O.,Vanzari,Junior,Brasov,2023-12-01,185,3,3.1,14,184.5,0.0,Stabil
+1102,Ana S.,Marketing,Mid,Constanta,2023-12-01,220,8,2.1,25,232.0,0.8,Risc Ridicat
+1103,Maria I.,Marketing,Senior,Timisoara,2023-12-01,179,10,3.0,3,299.5,0.0,Stabil
+1104,Ana S.,Vanzari,Junior,Sibiu,2023-12-01,147,2,2.5,13,143.5,0.0,Stabil
+1105,Cristina D.,HR,Junior,Cluj-Napoca,2023-12-01,251,1,1.1,0,157.5,1.0,Risc Ridicat
+1106,George R.,Marketing,Mid,Brasov,2023-12-01,234,9,5.0,19,307.0,0.0,Potential
+1107,Maria I.,IT,Mid,Sibiu,2023-12-01,214,1,3.1,2,179.0,0.0,Stabil
+1108,Ion V.,HR,Senior,Bucuresti,2023-12-01,229,5,3.9,13,292.5,0.0,Stabil
+1109,George R.,Marketing,Junior,Iasi,2023-12-01,179,11,4.7,2,293.5,0.0,Stabil
+1110,Elena D.,Marketing,Junior,Constanta,2023-12-01,245,1,2.1,7,174.5,1.0,Risc Ridicat
+1111,Ion V.,IT,Junior,Bucuresti,2023-12-01,214,8,3.4,12,255.0,0.0,Stabil
+1112,Cristina D.,IT,Mid,Iasi,2023-12-01,169,9,1.3,22,200.5,0.0,Stabil
+1113,Elena D.,Vanzari,Mid,Sibiu,2023-12-01,151,5,4.0,4,205.5,0.0,Stabil
+1114,George R.,Marketing,Senior,Constanta,2023-12-01,187,11,2.8,4,309.5,0.0,Potential
+1115,Ion V.,Marketing,Senior,Sibiu,2023-12-01,176,12,3.6,16,330.0,0.0,Potential
+1116,Elena D.,HR,Junior,Brasov,2023-12-01,198,8,1.4,34,207.0,0.0,Stabil
+1117,George R.,IT,Mid,Brasov,2023-12-01,177,5,3.3,7,204.5,0.0,Stabil
+1118,Cristina D.,Marketing,Senior,Iasi,2023-12-01,198,2,4.2,4,253.0,0.0,Stabil
+1119,Mihai O.,Marketing,Mid,Timisoara,2023-12-01,247,5,4.5,32,263.5,0.0,Stabil
+1120,Maria I.,HR,Junior,Iasi,2023-12-01,175,6,1.5,20,177.5,0.0,Stabil
+1121,Cristina D.,IT,Mid,Timisoara,2023-12-01,169,3,2.1,22,156.5,0.0,Stabil
+1122,George R.,Marketing,Senior,Cluj-Napoca,2023-12-01,250,1,4.2,15,269.0,0.0,Stabil
+1123,Ana S.,Vanzari,Junior,Sibiu,2023-12-01,195,13,2.0,2,267.5,0.0,Stabil
+1124,Ana S.,Vanzari,Mid,Constanta,2023-12-01,152,6,3.3,4,202.0,0.0,Stabil
+1125,Maria I.,Marketing,Junior,Iasi,2023-12-01,209,9,4.9,20,292.5,0.0,Stabil
+1126,Elena D.,Marketing,Junior,Constanta,2023-12-01,231,9,5.0,5,305.5,0.0,Potential
+1127,Ion V.,IT,Senior,Brasov,2023-12-01,239,11,2.6,35,331.5,0.8,Risc Ridicat
+1128,Mihai O.,Vanzari,Junior,Sibiu,2023-12-01,151,12,3.6,4,267.5,0.0,Stabil
+1129,Ana S.,IT,Senior,Constanta,2023-12-01,232,5,4.5,12,306.0,0.0,Potential
+1130,Elena D.,Vanzari,Mid,Sibiu,2023-12-01,187,6,2.2,25,197.5,0.0,Stabil
+1131,Ana S.,Vanzari,Mid,Constanta,2023-12-01,210,10,3.4,6,273.0,0.0,Stabil
+1132,Andrei P.,IT,Senior,Sibiu,2023-12-01,257,1,3.3,20,254.5,0.0,Stabil
+1133,Maria I.,Marketing,Junior,Timisoara,2023-12-01,214,5,3.3,31,223.0,0.0,Stabil
+1134,Mihai O.,IT,Junior,Sibiu,2023-12-01,174,9,3.7,32,251.0,0.0,Stabil
+1135,George R.,IT,Junior,Cluj-Napoca,2023-12-01,183,13,2.1,6,263.5,0.0,Stabil
+1136,Ion V.,IT,Senior,Iasi,2023-12-01,170,11,2.3,4,291.0,0.0,Stabil
+1137,Elena D.,IT,Mid,Constanta,2023-12-01,148,5,2.9,22,182.0,0.0,Stabil
+1138,Maria I.,Marketing,Mid,Constanta,2023-12-01,147,7,3.5,23,213.5,0.0,Stabil
+1139,Maria I.,Marketing,Mid,Brasov,2023-12-01,163,6,3.8,5,217.5,0.0,Stabil
+1140,Elena D.,HR,Mid,Brasov,2023-12-01,220,13,2.0,5,280.0,1.0,Risc Ridicat
+1141,George R.,IT,Junior,Iasi,2023-12-01,229,11,3.9,27,302.5,0.0,Potential
+1142,Ion V.,IT,Mid,Iasi,2023-12-01,244,12,4.3,16,328.0,0.0,Potential
+1143,Mihai O.,HR,Junior,Sibiu,2023-12-01,198,8,1.5,19,209.0,0.0,Stabil
+1144,Elena D.,Marketing,Mid,Cluj-Napoca,2023-12-01,226,9,3.7,29,277.0,0.0,Stabil
+1145,Mihai O.,Marketing,Mid,Constanta,2023-12-01,182,6,2.6,14,203.0,0.0,Stabil
+1146,Ana S.,HR,Junior,Cluj-Napoca,2023-12-01,250,10,4.2,13,309.0,0.0,Potential
+1147,Cristina D.,Vanzari,Senior,Timisoara,2023-12-01,253,10,1.6,28,308.5,0.8,Risc Ridicat
+1148,Andrei P.,IT,Mid,Sibiu,2023-12-01,197,7,2.0,1,208.5,0.0,Stabil
+1149,Ana S.,Vanzari,Junior,Constanta,2023-12-01,212,11,1.9,12,254.0,1.0,Risc Ridicat
+1150,Elena D.,Marketing,Senior,Iasi,2023-12-01,245,5,2.7,6,276.5,1.0,Risc Ridicat
+1151,Maria I.,Vanzari,Junior,Bucuresti,2023-12-01,153,3,1.1,31,128.5,0.0,Stabil
+1152,Cristina D.,Vanzari,Junior,Constanta,2023-12-01,259,1,2.4,23,187.5,0.8,Risc Ridicat
+1153,Maria I.,Marketing,Senior,Cluj-Napoca,2023-12-01,173,14,2.1,5,318.5,0.0,Potential
+1154,Mihai O.,IT,Mid,Brasov,2023-12-01,237,12,2.7,6,292.5,1.0,Risc Ridicat
+1155,Mihai O.,Vanzari,Mid,Sibiu,2023-12-01,251,2,2.9,7,203.5,1.0,Risc Ridicat
+1156,Mihai O.,IT,Junior,Sibiu,2023-12-01,200,14,1.8,13,276.0,0.0,Stabil
+1157,Maria I.,Marketing,Mid,Cluj-Napoca,2023-12-01,171,4,4.9,24,223.5,0.0,Stabil
+1158,Ana S.,IT,Junior,Bucuresti,2023-12-01,244,11,2.4,10,280.0,1.0,Risc Ridicat
+1159,Ana S.,Vanzari,Junior,Brasov,2023-12-01,163,13,2.7,33,265.5,0.0,Stabil
+1160,Mihai O.,Marketing,Junior,Bucuresti,2023-12-01,166,1,2.7,25,147.0,0.0,Stabil
+1161,Mihai O.,Marketing,Junior,Brasov,2023-12-01,189,13,3.8,3,300.5,0.0,Potential
+1162,Cristina D.,Vanzari,Junior,Brasov,2023-12-01,252,14,2.9,17,324.0,1.0,Risc Ridicat
+1163,Cristina D.,IT,Senior,Timisoara,2023-12-01,146,3,1.7,2,187.0,0.0,Stabil
+1164,George R.,HR,Mid,Sibiu,2023-12-01,172,3,3.1,37,178.0,0.0,Stabil
+1165,Mihai O.,HR,Senior,Brasov,2023-12-01,184,14,1.5,17,312.0,0.0,Potential
+1166,Elena D.,IT,Junior,Sibiu,2023-12-01,191,7,4.5,9,255.5,0.0,Stabil
+1167,Maria I.,HR,Junior,Iasi,2023-12-01,253,6,4.9,9,284.5,0.0,Stabil
+1168,Ana S.,HR,Junior,Bucuresti,2023-12-01,228,6,1.3,14,200.0,1.0,Risc Ridicat
+1169,George R.,HR,Junior,Iasi,2023-12-01,179,5,3.7,19,213.5,0.0,Stabil
+1170,Ion V.,Vanzari,Senior,Sibiu,2023-12-01,185,11,4.7,39,346.5,0.0,Potential
+1171,Cristina D.,HR,Junior,Cluj-Napoca,2023-12-01,231,11,3.0,13,285.5,0.0,Stabil
+1172,George R.,HR,Junior,Bucuresti,2023-12-01,220,2,4.0,20,210.0,0.0,Stabil
+1173,Andrei P.,IT,Mid,Brasov,2023-12-01,202,4,2.4,16,189.0,1.0,Risc Ridicat
+1174,Cristina D.,HR,Senior,Constanta,2023-12-01,163,12,1.7,39,285.5,0.0,Stabil
+1175,Mihai O.,HR,Junior,Constanta,2023-12-01,215,10,3.1,27,269.5,0.0,Stabil
+1176,Andrei P.,Marketing,Mid,Cluj-Napoca,2023-12-01,235,13,2.8,10,303.5,1.0,Risc Ridicat
+1177,Mihai O.,Vanzari,Junior,Sibiu,2023-12-01,140,7,1.8,27,176.0,0.0,Stabil
+1178,Ana S.,IT,Mid,Brasov,2023-12-01,241,12,1.1,2,262.5,1.0,Risc Ridicat
+1179,Ion V.,HR,Junior,Iasi,2023-12-01,250,9,2.6,20,267.0,1.0,Risc Ridicat
+1180,Mihai O.,HR,Mid,Iasi,2023-12-01,147,13,4.7,16,297.5,0.0,Stabil
+1181,Andrei P.,HR,Junior,Cluj-Napoca,2023-12-01,247,7,1.4,25,221.5,0.8,Risc Ridicat
+1182,George R.,Vanzari,Mid,Brasov,2023-12-01,230,5,2.6,10,217.0,1.0,Risc Ridicat
+1183,Maria I.,Vanzari,Senior,Brasov,2023-12-01,166,6,2.2,1,237.0,0.0,Stabil
+1184,Mihai O.,Marketing,Senior,Brasov,2023-12-01,141,12,4.7,6,334.5,0.0,Potential
+1185,Maria I.,Vanzari,Mid,Sibiu,2023-12-01,173,12,4.6,8,298.5,0.0,Stabil
+1186,Ana S.,IT,Junior,Timisoara,2023-12-01,202,1,4.5,23,201.0,0.0,Stabil
+1187,Andrei P.,IT,Mid,Iasi,2023-12-01,145,9,1.3,3,188.5,0.0,Stabil
+1188,Andrei P.,HR,Junior,Constanta,2023-12-01,204,3,3.5,20,202.0,0.0,Stabil
+1189,Ion V.,IT,Mid,Brasov,2023-12-01,220,14,3.7,32,324.0,0.0,Potential
+1190,Cristina D.,Marketing,Senior,Cluj-Napoca,2023-12-01,214,1,3.6,7,239.0,0.0,Stabil
+1191,Maria I.,HR,Mid,Constanta,2023-12-01,218,10,2.4,6,257.0,1.0,Risc Ridicat
+1192,Ion V.,Vanzari,Mid,Brasov,2023-12-01,153,12,4.6,31,288.5,0.0,Stabil
+1193,Cristina D.,Vanzari,Junior,Bucuresti,2023-12-01,165,6,4.8,14,238.5,0.0,Stabil
+1194,Cristina D.,IT,Junior,Constanta,2023-12-01,210,9,2.2,29,239.0,0.8,Risc Ridicat
+1195,Mihai O.,IT,Mid,Brasov,2023-12-01,151,8,4.3,6,241.5,0.0,Stabil
+1196,Mihai O.,Marketing,Mid,Timisoara,2023-12-01,142,2,2.9,36,149.0,0.0,Stabil
+1197,Mihai O.,IT,Junior,Constanta,2023-12-01,238,6,3.8,33,255.0,0.0,Stabil
+1198,Mihai O.,HR,Mid,Timisoara,2023-12-01,194,13,2.7,11,281.0,0.0,Stabil
+1199,Cristina D.,IT,Junior,Bucuresti,2023-12-01,229,13,2.7,8,298.5,1.0,Risc Ridicat

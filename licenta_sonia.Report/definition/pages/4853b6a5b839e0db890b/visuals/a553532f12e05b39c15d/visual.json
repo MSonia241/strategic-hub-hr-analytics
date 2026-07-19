@@ -1,0 +1,255 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.8.0/schema.json",
+  "name": "a553532f12e05b39c15d",
+  "position": {
+    "x": 558.57142857142856,
+    "y": 227.14285714285717,
+    "z": 0,
+    "height": 614.28571428571433,
+    "width": 705.71428571428578,
+    "tabOrder": 0
+  },
+  "visual": {
+    "visualType": "pythonVisual",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Aggregation": {
+                  "Expression": {
+                    "Column": {
+                      "Expression": {
+                        "SourceRef": {
+                          "Entity": "date_angajati"
+                        }
+                      },
+                      "Property": "Scor_Performanta"
+                    }
+                  },
+                  "Function": 0
+                }
+              },
+              "queryRef": "Sum(date_angajati.Scor_Performanta)",
+              "nativeQueryRef": "Sum of Scor_Performanta"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Ore_Lucrate"
+                }
+              },
+              "queryRef": "date_angajati.Ore_Lucrate",
+              "nativeQueryRef": "Ore_Lucrate"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Training_Ore"
+                }
+              },
+              "queryRef": "date_angajati.Training_Ore",
+              "nativeQueryRef": "Training_Ore"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Status_Risc"
+                }
+              },
+              "queryRef": "date_angajati.Status_Risc",
+              "nativeQueryRef": "Status_Risc"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Aggregation": {
+                "Expression": {
+                  "Column": {
+                    "Expression": {
+                      "SourceRef": {
+                        "Entity": "date_angajati"
+                      }
+                    },
+                    "Property": "Scor_Performanta"
+                  }
+                },
+                "Function": 0
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "objects": {
+      "script": [
+        {
+          "properties": {
+            "source": {
+              "expr": {
+                "Literal": {
+                  "Value": "'import matplotlib.pyplot as plt\nimport seaborn as sns\n\nsns.set(style=\"ticks\", font_scale=1.2)\n\ng = sns.pairplot(dataset, \n                 hue=''Status_Risc'', \n                 palette={\"Stabil\": \"#3498db\", \"Risc Ridicat\": \"#e74c3c\", \"Potential\": \"#27ae60\"},\n                 diag_kind=\"kde\",\n                 plot_kws={''alpha'': 0.6, ''s'': 40, ''edgecolor'': ''w''},\n                 height=3)\n\ng.fig.suptitle(''Analiza Interdependențelor: Efort, Training și Rezultate'', \n               verticalalignment=''top'', \n               fontsize=18, \n               fontweight=''bold'')\n\nplt.subplots_adjust(top=0.9)\nplt.show()'"
+                }
+              }
+            },
+            "provider": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Python'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "dropShadow": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 0,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "10D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  },
+  "filterConfig": {
+    "filters": [
+      {
+        "name": "b6342932052cffb3e788",
+        "field": {
+          "Aggregation": {
+            "Expression": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "date_angajati"
+                  }
+                },
+                "Property": "Scor_Performanta"
+              }
+            },
+            "Function": 0
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "93d3f1c201fa9527b56d",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "date_angajati"
+              }
+            },
+            "Property": "Ore_Lucrate"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "c72a2b3cd3f0d9eab961",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "date_angajati"
+              }
+            },
+            "Property": "Training_Ore"
+          }
+        },
+        "type": "Advanced"
+      },
+      {
+        "name": "39ac33f6bc013967d570",
+        "field": {
+          "Column": {
+            "Expression": {
+              "SourceRef": {
+                "Entity": "date_angajati"
+              }
+            },
+            "Property": "Status_Risc"
+          }
+        },
+        "type": "Categorical"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3336 @@
+cultureInfo en-US
+
+	linguisticMetadata =
+			{
+			  "Version": "4.1.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "date_angajati": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "date angajati": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date_angajati": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "moment angajati": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "period angajati": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.ID_angajat": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "ID_Angajat"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ID angajat": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ID_Angajat": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "identification angajat": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identity angajat": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "identifier angajat": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "credential angajat": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.manager": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Manager"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "manager": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "director": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "administrator": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "supervisor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "leader": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "boss": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "executive": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "chief": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "superior": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.departament": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Departament"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "departament": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.senioritate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Senioritate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "senioritate": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.ore_lucrate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Ore_Lucrate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ore lucrate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Ore_Lucrate": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.proiecte_finalizate": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Proiecte_Finalizate"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "proiecte finalizate": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Proiecte_Finalizate": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.feedback_clienti": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Feedback_Clienti"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "feedback clienti": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Feedback_Clienti": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.training_ore": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Training_Ore"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "training ore": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Training_Ore": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "ore": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "training element": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "element": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "training mineral": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "training rock": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "training metal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "training aggregate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "mineral": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "rock": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "metal": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "aggregate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.scor_performanta": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Scor_Performanta"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "scor performanta": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Scor_Performanta": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.risc_plecare_scor": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Risc_Plecare_Scor"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "risc plecare scor": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Risc_Plecare_Scor": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.status_risc": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Status_Risc"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "status risc": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Status_Risc": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "risc": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "category risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "importance risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "prestige risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "prominence risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "condition risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "class risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "grade risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "level risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "position risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "rank risc": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Data"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "date_angajati.data.date_hierarchy": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data date hierarchy": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date hierarchy": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "date_angajati.data.year": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Year"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "year": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "yr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "information year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record year": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "date_angajati.data.quarter": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Quarter"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "quarter": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.833
+			          }
+			        },
+			        {
+			          "qtr": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.818
+			          }
+			        },
+			        {
+			          "information quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record quarter": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "date_angajati.data.month": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Month"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "month": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.75
+			          }
+			        },
+			        {
+			          "mth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "information month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record month": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "date_angajati.data.day": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "VariationSource": "Data",
+			          "VariationSet": "Variation",
+			          "Hierarchy": "Date Hierarchy",
+			          "HierarchyLevel": "Day"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "day": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record day": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "date_angajati.ora": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Oras"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ora": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.scor_estimat": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Scor_Estimat"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "scor estimat": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Scor_Estimat": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Scor Estimat Global": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.castig_puncte": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Castig_Puncte"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "castig puncte": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Castig_Puncte": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Puncte Castigate": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.prag_burnout": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Prag_Burnout"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "prag burnout": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Prag_Burnout": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "prag exhaustion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "prag weariness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "prag breakdown": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "prag stress": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "prag tension": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "prag fatigue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.total_angajati": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Total_Angajati"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total angajati": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Total_Angajati": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "aggregate angajati": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "overall angajati": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "Angajati": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.procent_risc": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Procent_Risc"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "procent risc": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Procent_Risc": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "Risc Inițial (%)": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Risc Ridicat (%)": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.dept_burnout": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Dept_Burnout"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "dept burnout": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Dept_Burnout": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "dept exhaustion": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "dept weariness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "dept breakdown": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "dept stress": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "dept tension": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "dept fatigue": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "Dept. cel mai afectat": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        },
+			        {
+			          "Dept. Burnout": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "simulare_training": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Simulare_Training"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "simulare training": {
+			            "State": "Generated",
+			            "Weight": 0.87
+			          }
+			        },
+			        {
+			          "Simulare_Training": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.8613
+			          }
+			        },
+			        {
+			          "simulare exercise": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare drill": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare preparation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare guidance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare education": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare instruction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare tuition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare teaching": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "simulare schooling": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        }
+			      ]
+			    },
+			    "simulare_training.simulare_training": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Simulare_Training",
+			          "ConceptualProperty": "Simulare_Training"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "simulare training": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Simulare_Training": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "simulare exercise": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare drill": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare preparation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare guidance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare education": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare instruction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare tuition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare teaching": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "simulare schooling": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "Adaugă Ore Training": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "simulare_training.Simulare_Training_value": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Simulare_Training",
+			          "ConceptualProperty": "Simulare_Training Value"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "Simulare_Training value": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "simulare_training assessment": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "simulare_training worth": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare_training price": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare_training cost": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare_training charge": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare_training rate": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "simulare_training importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare_training significance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare_training usefulness": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "simulare_training consequence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.top_performers": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Top_Performers"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "top performers": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Top_Performers": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "performers": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "best performer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "first performer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "leading performer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "maximum performer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "peak performer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "upper performer": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "top player": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "top actor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "top musician": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "top recitalist": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        }
+			      ]
+			    },
+			    "simulare_training.progres_training": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Simulare_Training",
+			          "ConceptualProperty": "Progres Training (%)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "progres training": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "progres training (%)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "progre exercise": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "progre drill": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "progre preparation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "progre guidance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "progre education": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "progre instruction": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "progre tuition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        },
+			        {
+			          "progre teaching": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "progre schooling": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        }
+			      ],
+			      "Units": [
+			        "percentage",
+			        "%"
+			      ]
+			    },
+			    "date_angajati.senioritate_num": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Senioritate_Num"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "senioritate num": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Senioritate_Num": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "senioritate number": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.727
+			          }
+			        }
+			      ]
+			    },
+			    "date_angajati.probabilitate_risc_RF": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "date_angajati",
+			          "ConceptualProperty": "Probabilitate_Risc_RF"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "probabilitate risc RF": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "Probabilitate_Risc_RF": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "simulare_training.risc_mediu_procentual": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "Simulare_Training",
+			          "ConceptualProperty": "Risc Mediu Procentual"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "risc mediu procentual": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    }
+			  },
+			  "Relationships": {
+			    "date_angajati_data_date_hierarchy_has_date_angajati_data_quarter": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati.data.date_hierarchy": {
+			          "Target": {
+			            "Entity": "date_angajati.data.date_hierarchy"
+			          }
+			        },
+			        "date_angajati.data.quarter": {
+			          "Target": {
+			            "Entity": "date_angajati.data.quarter"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati.data.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.data.quarter"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "data_date_hierarchies_have_data_quarters"
+			        }
+			      ]
+			    },
+			    "date_angajati_data_date_hierarchy_has_date_angajati_data_year": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati.data.date_hierarchy": {
+			          "Target": {
+			            "Entity": "date_angajati.data.date_hierarchy"
+			          }
+			        },
+			        "date_angajati.data.year": {
+			          "Target": {
+			            "Entity": "date_angajati.data.year"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati.data.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.data.year"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "data_date_hierarchies_have_data_years"
+			        }
+			      ]
+			    },
+			    "date_angajati_data_has_date_hierarchy": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati.data": {
+			          "Target": {
+			            "Entity": "date_angajati.data"
+			          }
+			        },
+			        "date_angajati.data.date_hierarchy": {
+			          "Target": {
+			            "Entity": "date_angajati.data.date_hierarchy"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati.data"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.data.date_hierarchy"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "data_have_data_date_hierarchies"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_simulare_training_risc_mediu_procentual": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "simulare_training.risc_mediu_procentual": {
+			          "Target": {
+			            "Entity": "simulare_training.risc_mediu_procentual"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "simulare_training.risc_mediu_procentual"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_risc_mediu_procentual"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_probabilitate_risc_RF": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.probabilitate_risc_RF": {
+			          "Target": {
+			            "Entity": "date_angajati.probabilitate_risc_RF"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.probabilitate_risc_RF"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_probabilitate_risc_RFs"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_senioritate_num": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.senioritate_num": {
+			          "Target": {
+			            "Entity": "date_angajati.senioritate_num"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.senioritate_num"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_senioritate_nums"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_simulare_training_progres_training": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "simulare_training.progres_training": {
+			          "Target": {
+			            "Entity": "simulare_training.progres_training"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "simulare_training.progres_training"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_progres_training"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_top_performers": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.top_performers": {
+			          "Target": {
+			            "Entity": "date_angajati.top_performers"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.top_performers"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_top_performers"
+			        }
+			      ]
+			    },
+			    "simulare_training_has_Simulare_Training_value": {
+			      "Binding": {
+			        "ConceptualEntity": "Simulare_Training"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "simulare_training": {
+			          "Target": {
+			            "Entity": "simulare_training"
+			          }
+			        },
+			        "simulare_training.Simulare_Training_value": {
+			          "Target": {
+			            "Entity": "simulare_training.Simulare_Training_value"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "simulare_training"
+			            },
+			            "Object": {
+			              "Role": "simulare_training.Simulare_Training_value"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "simulare_training_have_Simulare_Training_value"
+			        }
+			      ]
+			    },
+			    "simulare_training_has_simulare_training": {
+			      "Binding": {
+			        "ConceptualEntity": "Simulare_Training"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "simulare_training": {
+			          "Target": {
+			            "Entity": "simulare_training"
+			          }
+			        },
+			        "simulare_training.simulare_training": {
+			          "Target": {
+			            "Entity": "simulare_training.simulare_training"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "simulare_training"
+			            },
+			            "Object": {
+			              "Role": "simulare_training.simulare_training"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "simulare_training_have_simulare_training"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_dept_burnout": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.dept_burnout": {
+			          "Target": {
+			            "Entity": "date_angajati.dept_burnout"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.dept_burnout"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_dept_burnout"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_procent_risc": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.procent_risc": {
+			          "Target": {
+			            "Entity": "date_angajati.procent_risc"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.procent_risc"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_procent_risc"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_total_angajati": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.total_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati.total_angajati"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.total_angajati"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_total_angajati"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_prag_burnout": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.prag_burnout": {
+			          "Target": {
+			            "Entity": "date_angajati.prag_burnout"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.prag_burnout"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_prag_burnout"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_castig_puncte": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.castig_puncte": {
+			          "Target": {
+			            "Entity": "date_angajati.castig_puncte"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.castig_puncte"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_castig_puncte"
+			        }
+			      ]
+			    },
+			    "simulare_training_has_date_angajati_castig_puncte": {
+			      "Binding": {
+			        "ConceptualEntity": "Simulare_Training"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "simulare_training": {
+			          "Target": {
+			            "Entity": "simulare_training"
+			          }
+			        },
+			        "date_angajati.castig_puncte": {
+			          "Target": {
+			            "Entity": "date_angajati.castig_puncte"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "simulare_training"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.castig_puncte"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "simulare_training_have_castig_puncte"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_scor_estimat": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.scor_estimat": {
+			          "Target": {
+			            "Entity": "date_angajati.scor_estimat"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.scor_estimat"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_scor_estimat"
+			        }
+			      ]
+			    },
+			    "simulare_training_has_date_angajati_scor_estimat": {
+			      "Binding": {
+			        "ConceptualEntity": "Simulare_Training"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "simulare_training": {
+			          "Target": {
+			            "Entity": "simulare_training"
+			          }
+			        },
+			        "date_angajati.scor_estimat": {
+			          "Target": {
+			            "Entity": "date_angajati.scor_estimat"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "simulare_training"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.scor_estimat"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "simulare_training_have_scor_estimat"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_ora": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.ora": {
+			          "Target": {
+			            "Entity": "date_angajati.ora"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.ora"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_oras"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_data": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.data": {
+			          "Target": {
+			            "Entity": "date_angajati.data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_data"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_status_risc": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.status_risc": {
+			          "Target": {
+			            "Entity": "date_angajati.status_risc"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.status_risc"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_status_riscs"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_risc_plecare_scor": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.risc_plecare_scor": {
+			          "Target": {
+			            "Entity": "date_angajati.risc_plecare_scor"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.risc_plecare_scor"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_risc_plecare_scors"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_scor_performanta": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.scor_performanta": {
+			          "Target": {
+			            "Entity": "date_angajati.scor_performanta"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.scor_performanta"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_scor_performantas"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_training_ore": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.training_ore": {
+			          "Target": {
+			            "Entity": "date_angajati.training_ore"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.training_ore"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_training_ore"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_feedback_clienti": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.feedback_clienti": {
+			          "Target": {
+			            "Entity": "date_angajati.feedback_clienti"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.feedback_clienti"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_feedback_clientis"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_proiecte_finalizate": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.proiecte_finalizate": {
+			          "Target": {
+			            "Entity": "date_angajati.proiecte_finalizate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.proiecte_finalizate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_proiecte_finalizates"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_ore_lucrate": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.ore_lucrate": {
+			          "Target": {
+			            "Entity": "date_angajati.ore_lucrate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.ore_lucrate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_ore_lucrates"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_senioritate": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.senioritate": {
+			          "Target": {
+			            "Entity": "date_angajati.senioritate"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.senioritate"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_senioritates"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_departament": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.departament": {
+			          "Target": {
+			            "Entity": "date_angajati.departament"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.departament"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_departaments"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_manager": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.manager": {
+			          "Target": {
+			            "Entity": "date_angajati.manager"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.manager"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_managers"
+			        },
+			        {
+			          "Verb": {
+			            "Subject": {
+			              "Role": "date_angajati.manager"
+			            },
+			            "Verbs": [
+			              {
+			                "manage": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "Object": {
+			              "Role": "date_angajati"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.75,
+			          "ID": "managers_manage_date_angajatis"
+			        },
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati.manager"
+			            },
+			            "Object": {
+			              "Role": "date_angajati"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "managers_have_date_angajatis"
+			        }
+			      ]
+			    },
+			    "date_angajati_has_ID_angajat": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati": {
+			          "Target": {
+			            "Entity": "date_angajati"
+			          }
+			        },
+			        "date_angajati.ID_angajat": {
+			          "Target": {
+			            "Entity": "date_angajati.ID_angajat"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.ID_angajat"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "date_angajatis_have_ID_angajats"
+			        }
+			      ]
+			    },
+			    "date_angajati_data_date_hierarchy_has_date_angajati_data_month": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati.data.date_hierarchy": {
+			          "Target": {
+			            "Entity": "date_angajati.data.date_hierarchy"
+			          }
+			        },
+			        "date_angajati.data.month": {
+			          "Target": {
+			            "Entity": "date_angajati.data.month"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati.data.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.data.month"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "data_date_hierarchies_have_data_months"
+			        }
+			      ]
+			    },
+			    "date_angajati_data_date_hierarchy_has_date_angajati_data_day": {
+			      "Binding": {
+			        "ConceptualEntity": "date_angajati"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "date_angajati.data.date_hierarchy": {
+			          "Target": {
+			            "Entity": "date_angajati.data.date_hierarchy"
+			          }
+			        },
+			        "date_angajati.data.day": {
+			          "Target": {
+			            "Entity": "date_angajati.data.day"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "date_angajati.data.date_hierarchy"
+			            },
+			            "Object": {
+			              "Role": "date_angajati.data.day"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "data_date_hierarchies_have_data_days"
+			        }
+			      ]
+			    }
+			  },
+			  "Agents": {
+			    "Internal": {
+			      "Version": "1.1.0"
+			    }
+			  }
+			}
+		contentType: json
+

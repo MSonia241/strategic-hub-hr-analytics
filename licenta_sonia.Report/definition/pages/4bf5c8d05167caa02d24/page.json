@@ -1,0 +1,15 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "4bf5c8d05167caa02d24",
+  "displayName": "Analiza performantei individuale",
+  "displayOption": "ActualSize",
+  "height": 900,
+  "width": 1280,
+  "visualInteractions": [
+    {
+      "source": "ed42ff146945e8d0d233",
+      "target": "9a32d2bd5dcc939ad390",
+      "type": "DataFilter"
+    }
+  ]
+}

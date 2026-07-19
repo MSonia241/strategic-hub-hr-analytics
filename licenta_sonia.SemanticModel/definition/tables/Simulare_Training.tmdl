@@ -1,0 +1,40 @@
+table Simulare_Training
+	lineageTag: e08897bd-dacd-4a79-b500-abfc6008c94b
+
+	measure 'Simulare_Training Value' = SELECTEDVALUE('Simulare_Training'[Simulare_Training], 0)
+		formatString: 0
+		lineageTag: 8f2d78ff-0fec-4d26-8c7b-10b575783c13
+
+	measure 'Progres Training (%)' =
+			
+			DIVIDE(
+			    COUNTROWS(FILTER('date_angajati', 'date_angajati'[Training_Ore] >= 15)),
+			    COUNTROWS('date_angajati'),
+			    0
+			)
+		formatString: 0.0\ %;-0.0\ %;0.0\ %
+		lineageTag: defb043c-01e5-4b90-9ce3-c3802c4adb85
+
+	measure 'Risc Mediu Procentual' = AVERAGE('date_angajati'[Probabilitate_Risc_RF]) / 10
+		formatString: 0.00\ %;-0.00\ %;0.00\ %
+		lineageTag: edd3057b-f5ba-4a57-a085-bc6b18aa48d4
+
+	column Simulare_Training
+		formatString: 0
+		lineageTag: 33102858-ef1e-4671-9f2d-60b9a9a55554
+		summarizeBy: none
+		sourceColumn: [Value]
+
+		extendedProperty ParameterMetadata =
+				{
+				  "version": 0
+				}
+
+		annotation SummarizationSetBy = User
+
+	partition Simulare_Training = calculated
+		mode: import
+		source = GENERATESERIES(0, 50, 5)
+
+	annotation PBI_Id = 664c626014d24a98903dc1c711f71b0a
+

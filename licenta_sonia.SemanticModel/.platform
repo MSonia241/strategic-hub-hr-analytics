@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "licenta_sonia"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "77bd49d5-8927-4e4a-bd8b-d33c7c79386f"
+  }
+}

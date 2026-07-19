@@ -1,0 +1,8 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/2.1.0/schema.json",
+  "name": "4853b6a5b839e0db890b",
+  "displayName": "Analiza Multivariata",
+  "displayOption": "ActualSize",
+  "height": 900,
+  "width": 1280
+}

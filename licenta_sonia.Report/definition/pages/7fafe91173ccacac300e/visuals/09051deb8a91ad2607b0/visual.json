@@ -1,0 +1,180 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/2.8.0/schema.json",
+  "name": "09051deb8a91ad2607b0",
+  "position": {
+    "x": 810,
+    "y": 360,
+    "z": 4000,
+    "height": 325,
+    "width": 448.75,
+    "tabOrder": 4000
+  },
+  "visual": {
+    "visualType": "pythonVisual",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Ore_Lucrate"
+                }
+              },
+              "queryRef": "Sum(date_angajati.Ore_Lucrate)",
+              "nativeQueryRef": "Ore_Lucrate"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Training_Ore"
+                }
+              },
+              "queryRef": "Sum(date_angajati.Training_Ore)",
+              "nativeQueryRef": "Training_Ore"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Feedback_Clienti"
+                }
+              },
+              "queryRef": "Sum(date_angajati.Feedback_Clienti)",
+              "nativeQueryRef": "Feedback_Clienti"
+            },
+            {
+              "field": {
+                "Column": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "date_angajati"
+                    }
+                  },
+                  "Property": "Scor_Performanta"
+                }
+              },
+              "queryRef": "Sum(date_angajati.Scor_Performanta)",
+              "nativeQueryRef": "Scor_Performanta"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Column": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "date_angajati"
+                  }
+                },
+                "Property": "Ore_Lucrate"
+              }
+            },
+            "direction": "Ascending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "objects": {
+      "script": [
+        {
+          "properties": {
+            "source": {
+              "expr": {
+                "Literal": {
+                  "Value": "'# The following code to create a dataframe and remove duplicated rows is always executed and acts as a preamble for your script: \n\n# dataset = pandas.DataFrame(Ore_Lucrate, Training_Ore, Feedback_Clienti, Scor_Performanta)\n# dataset = dataset.drop_duplicates()\n\n# Paste or type your script code here:\nimport matplotlib.pyplot as plt\nimport pandas as pd\nfrom sklearn.linear_model import LinearRegression\n\n# Pregătim datele pentru „lupa” matematică\nX = dataset[[''Ore_Lucrate'', ''Training_Ore'', ''Feedback_Clienti'']]\ny = dataset[''Scor_Performanta'']\n\n# Antrenăm un model rapid de regresie\nmodel = LinearRegression()\nmodel.fit(X, y)\n\n# Calculăm importanța fiecărui factor\nimportance = pd.Series(model.coef_, index=X.columns)\nimportance = importance.abs().sort_values(ascending=True)\n\n# Desenăm graficul de impact\nplt.figure(figsize=(8, 5))\nimportance.plot(kind=''barh'', color=''#3498db'')\nplt.title(''Impactul Factorilor asupra Performanței (AI)'', fontsize=14, fontweight=''bold'')\nplt.xlabel(''Puterea de Influență'')\nplt.tight_layout()\nplt.show()'"
+                }
+              }
+            },
+            "provider": {
+              "expr": {
+                "Literal": {
+                  "Value": "'Python'"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "visualContainerObjects": {
+      "title": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "false"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "border": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            },
+            "color": {
+              "solid": {
+                "color": {
+                  "expr": {
+                    "ThemeDataColor": {
+                      "ColorId": 0,
+                      "Percent": 0
+                    }
+                  }
+                }
+              }
+            },
+            "radius": {
+              "expr": {
+                "Literal": {
+                  "Value": "10D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "dropShadow": [
+        {
+          "properties": {
+            "show": {
+              "expr": {
+                "Literal": {
+                  "Value": "true"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

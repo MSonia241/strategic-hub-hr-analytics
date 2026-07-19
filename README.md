@@ -102,3 +102,9 @@ Segmentare a angajaților în 3 clustere — Low Performers, Core Performers, To
 ![Simulare impact training asupra riscului](screenshots/11_simulare_impact_training_risc.png)
 
 Simulare what-if interactivă: ajustezi nivelul simulat de training și vezi impactul direct asupra procentului de risc.
+
+### 12. Simulare impact training
+
+![Simulare impact training](screenshots/12_simulare_impact_training.png)
+
+Comparație directă (gauge) între scorul actual de performanță și scorul estimat după training suplimentar, plus punctele câștigate estimate.

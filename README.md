@@ -96,3 +96,9 @@ Analiza pragului de burnout (220h lucrate/lună), cu un vizual Python care arat�
 ![K-Means Clustering](screenshots/10_kmeans.png)
 
 Segmentare a angajaților în 3 clustere — Low Performers, Core Performers, Top Talents — fiecare cu recomandarea specifică de acțiune pentru HR.
+
+### 11. Simulare impact training asupra riscului
+
+![Simulare impact training asupra riscului](screenshots/11_simulare_impact_training_risc.png)
+
+Simulare what-if interactivă: ajustezi nivelul simulat de training și vezi impactul direct asupra procentului de risc.

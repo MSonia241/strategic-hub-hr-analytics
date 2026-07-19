@@ -72,3 +72,9 @@ Evoluția lunară a scorului mediu de performanță pentru fiecare manager, de-a
 ![Analiza multivariată](screenshots/06_analiza_multivariata.png)
 
 Corelații între efort (ore lucrate), dezvoltare (training) și risc, cu un funnel pe niveluri de seniorat și o analiză Python multivariată.
+
+### 7. Analiza statistică
+
+![Analiza statistică](screenshots/07_analiza_statistica.png)
+
+Violin plot generat în Python, care arată densitatea distribuției scorurilor de performanță pe departamente și categorii de risc, cu ghid de interpretare inclus în pagină.

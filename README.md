@@ -108,3 +108,9 @@ Simulare what-if interactivă: ajustezi nivelul simulat de training și vezi imp
 ![Simulare impact training](screenshots/12_simulare_impact_training.png)
 
 Comparație directă (gauge) între scorul actual de performanță și scorul estimat după training suplimentar, plus punctele câștigate estimate.
+
+### 13. Analiza performanței individuale
+
+![Analiza performanței individuale](screenshots/13_analiza_a_performantei_individuale.png)
+
+Vizualizare la nivel de angajat individual: evoluția scorului față de pragul de burnout și recomandări generate pentru manageri.

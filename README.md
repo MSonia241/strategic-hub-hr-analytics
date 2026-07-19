@@ -37,4 +37,8 @@ screenshots/                   # capturi ale celor 15 pagini ale raportului
 
 ## Paginile raportului
 
-_(screenshot-uri și descrieri detaliate mai jos)_
+### 1. Meniu principal
+
+![Meniu principal](screenshots/01_meniu_principal.png)
+
+Hub central de navigare, cu KPI generali (Total Angajați, Scor Mediu, Procent Risc, Progres Training) și trei categorii de acces rapid: Analiză Strategică, Inteligență Artificială, Management și HR.

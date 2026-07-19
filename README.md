@@ -23,6 +23,8 @@ Proiect de licență — toate datele folosite sunt **sintetice** (generate cu s
 
 Fișierul `licentavs.pbix` conține tot proiectul, gata de deschis în Power BI Desktop.
 
+`generator_date.py` este scriptul care a generat setul de date sintetic (`date_angajati_istoric.xlsx`) — 200 de angajați simulați, pe 12 luni.
+
 ## Paginile raportului
 
 ### 1. Meniu principal

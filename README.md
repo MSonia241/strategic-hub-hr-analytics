@@ -54,3 +54,9 @@ Dashboard principal cu filtrare pe dată, distribuția statusului de risc (donut
 ![Suport decizional](screenshots/03_suport_decizional.png)
 
 Sistem de suport decizional (DSS): factorii cheie care influențează riscul (Key Influencers) și probabilitatea de risc calculată per angajat cu un model Random Forest, filtrabil pe departament.
+
+### 4. Distribuția geografică
+
+![Distribuția geografică](screenshots/04_distributia_geografica.png)
+
+Hartă interactivă (Azure Map) cu performanța pe oraș, alături de un grafic comparativ al scorurilor pe orașe.

@@ -60,3 +60,9 @@ Sistem de suport decizional (DSS): factorii cheie care influențează riscul (Ke
 ![Distribuția geografică](screenshots/04_distributia_geografica.png)
 
 Hartă interactivă (Azure Map) cu performanța pe oraș, alături de un grafic comparativ al scorurilor pe orașe.
+
+### 5. Evoluția performanței medii
+
+![Evoluția performanței medii](screenshots/05_evolutia_performantei.png)
+
+Evoluția lunară a scorului mediu de performanță pentru fiecare manager, de-a lungul anului 2023.
